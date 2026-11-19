@@ -1,0 +1,260 @@
+state,district,market,lat,lon,source
+Madhya Pradesh,Alirajpur,Alirajpur (F&V),22.3045,74.3546,district_headquarters
+Madhya Pradesh,Badwani,Badwani,22.0357,74.9036,district_headquarters
+Madhya Pradesh,Badwani,Sendhwa,22.0357,74.9036,district_centroid
+Madhya Pradesh,Balaghat,Balaghat,21.8129,80.1837,district_headquarters
+Madhya Pradesh,Balaghat,Katangi,21.8129,80.1837,district_centroid
+Madhya Pradesh,Balaghat,Mohgaon,21.8129,80.1837,district_centroid
+Madhya Pradesh,Balaghat,Praswada,21.8129,80.1837,district_centroid
+Madhya Pradesh,Betul,Multai,21.9015,77.9015,district_centroid
+Madhya Pradesh,Chhindwara,Chhindwara (F&V),22.0574,78.9382,district_headquarters
+Madhya Pradesh,Dewas,Haatpipliya,22.9676,76.0534,district_centroid
+Madhya Pradesh,Dhar,Dhamnod,22.5976,75.2974,district_centroid
+Madhya Pradesh,Dhar,Kukshi,22.5976,75.2974,district_centroid
+Madhya Pradesh,Dhar,Rajgarh,22.5976,75.2974,district_centroid
+Madhya Pradesh,Dindori,Gorakhpur,22.9463,81.0805,district_centroid
+Madhya Pradesh,Gwalior,Lashkar (F&V),26.2183,78.1828,district_centroid
+Madhya Pradesh,Harda,Harda (F&V),22.3444,77.0945,district_headquarters
+Madhya Pradesh,Harda,Timarni,22.3444,77.0945,district_centroid
+Madhya Pradesh,Hoshangabad,Hoshangabad,22.7519,77.7289,district_headquarters
+Madhya Pradesh,Hoshangabad,Itarsi,22.7519,77.7289,district_centroid
+Madhya Pradesh,Hoshangabad,Pipariya,22.7519,77.7289,district_centroid
+Madhya Pradesh,Indore,Indore (F&V),22.7196,75.8577,district_headquarters
+Madhya Pradesh,Indore,Mhow,22.7196,75.8577,district_centroid
+Madhya Pradesh,Jabalpur,Jabalpur (F&V),23.1815,79.9864,district_headquarters
+Madhya Pradesh,Jhabua,Petlawad,22.7686,74.5954,district_centroid
+Madhya Pradesh,Katni,Katni,23.8343,80.3957,district_headquarters
+Madhya Pradesh,Khandwa,Pandhana (F&V),21.8314,76.3498,district_centroid
+Madhya Pradesh,Khargone,Badwaha,21.8234,75.6186,district_centroid
+Madhya Pradesh,Khargone,Khargone,21.8234,75.6186,district_headquarters
+Madhya Pradesh,Mandla,Bichhiya,22.5986,80.3714,district_centroid
+Madhya Pradesh,Mandla,Nainpur,22.5986,80.3714,district_centroid
+Madhya Pradesh,Morena,Morena (F&V),26.4947,77.994,district_headquarters
+Madhya Pradesh,Rajgarh,Biaora,24.0064,76.7292,district_centroid
+Madhya Pradesh,Sagar,Sagar (F&V),23.8388,78.7378,district_headquarters
+Madhya Pradesh,Ujjain,Ujjain (F&V),23.1765,75.7885,district_headquarters
+Maharashtra,Ahmednagar,Pathardi,19.0952,74.7496,district_centroid
+Maharashtra,Dhule,Dhule,20.9042,74.7749,district_headquarters
+Maharashtra,Jalgaon,Bhusaval,21.0077,75.5626,district_centroid
+Maharashtra,Jalgaon,Jalgaon,21.0077,75.5626,district_headquarters
+Maharashtra,Nagpur,Nagpur,21.1458,79.0882,district_headquarters
+Maharashtra,Raigad,Pen,18.5158,73.1822,district_centroid
+Maharashtra,Sholapur,Akluj,17.6599,75.9064,district_centroid
+Maharashtra,Sholapur,Kurdwadi (Modnimb),17.6599,75.9064,district_centroid
+Maharashtra,Sholapur,Pandharpur,17.6599,75.9064,district_centroid
+Maharashtra,Sholapur,Solapur,17.6599,75.9064,district_centroid
+Uttar Pradesh,Agra,Achnera,27.1767,78.0081,district_centroid
+Uttar Pradesh,Agra,Agra,27.1767,78.0081,district_headquarters
+Uttar Pradesh,Agra,Fatehabad,27.1767,78.0081,district_centroid
+Uttar Pradesh,Agra,Fatehpur Sikri,27.1767,78.0081,district_centroid
+Uttar Pradesh,Agra,Jagnair,27.1767,78.0081,district_centroid
+Uttar Pradesh,Agra,Khairagarh,27.1767,78.0081,district_centroid
+Uttar Pradesh,Agra,Samsabad,27.1767,78.0081,district_centroid
+Uttar Pradesh,Aligarh,Aligarh,27.8974,78.088,district_headquarters
+Uttar Pradesh,Aligarh,Atrauli,27.8974,78.088,district_centroid
+Uttar Pradesh,Aligarh,Charra,27.8974,78.088,district_centroid
+Uttar Pradesh,Aligarh,Khair,27.8974,78.088,district_centroid
+Uttar Pradesh,Ambedkarnagar,Akbarpur,26.4447,82.6972,district_centroid
+Uttar Pradesh,Amethi,Jafarganj,26.1558,81.8159,district_centroid
+Uttar Pradesh,Amethi,Sultanpur,26.1558,81.8159,district_centroid
+Uttar Pradesh,Amroha,Amroha,28.9044,78.4682,district_headquarters
+Uttar Pradesh,Amroha,Dhanaura,28.9044,78.4682,district_centroid
+Uttar Pradesh,Amroha,Hasanpur,28.9044,78.4682,district_centroid
+Uttar Pradesh,Auraiya,Achalda,26.4655,79.5147,district_centroid
+Uttar Pradesh,Auraiya,Auraiya,26.4655,79.5147,district_headquarters
+Uttar Pradesh,Auraiya,Dibiapur,26.4655,79.5147,district_centroid
+Uttar Pradesh,Ayodhya,Faizabad,26.7922,82.1998,district_centroid
+Uttar Pradesh,Ayodhya,Rudauli,26.7922,82.1998,district_centroid
+Uttar Pradesh,Azamgarh,Azamgarh,26.0738,83.1859,district_headquarters
+Uttar Pradesh,Badaun,Babrala,28.0322,79.1172,district_centroid
+Uttar Pradesh,Badaun,Badayoun,28.0322,79.1172,district_centroid
+Uttar Pradesh,Badaun,Bilsi,28.0322,79.1172,district_centroid
+Uttar Pradesh,Badaun,Shahaswan,28.0322,79.1172,district_centroid
+Uttar Pradesh,Badaun,Ujhani,28.0322,79.1172,district_centroid
+Uttar Pradesh,Badaun,Visoli,28.0322,79.1172,district_centroid
+Uttar Pradesh,Badaun,Wazirganj,28.0322,79.1172,district_centroid
+Uttar Pradesh,Baghpat,Bagpat,28.9454,77.2208,district_centroid
+Uttar Pradesh,Baghpat,Baraut,28.9454,77.2208,district_centroid
+Uttar Pradesh,Baghpat,Khekda,28.9454,77.2208,district_centroid
+Uttar Pradesh,Bahraich,Bahraich,27.5744,81.5975,district_headquarters
+Uttar Pradesh,Bahraich,Naanpara,27.5744,81.5975,district_centroid
+Uttar Pradesh,Ballia,Ballia,25.7589,84.1483,district_headquarters
+Uttar Pradesh,Ballia,Chitwadagaon,25.7589,84.1483,district_centroid
+Uttar Pradesh,Ballia,Rasda,25.7589,84.1483,district_centroid
+Uttar Pradesh,Ballia,Vilthararoad,25.7589,84.1483,district_centroid
+Uttar Pradesh,Balrampur,Balrampur,27.43,82.18,district_headquarters
+Uttar Pradesh,Balrampur,Panchpedwa,27.43,82.18,district_centroid
+Uttar Pradesh,Balrampur,Tulsipur,27.43,82.18,district_centroid
+Uttar Pradesh,Banda,Atarra,25.4764,80.337,district_centroid
+Uttar Pradesh,Banda,Baberu,25.4764,80.337,district_centroid
+Uttar Pradesh,Banda,Banda,25.4764,80.337,district_headquarters
+Uttar Pradesh,Barabanki,Barabanki,26.9272,81.1837,district_headquarters
+Uttar Pradesh,Barabanki,Safdarganj,26.9272,81.1837,district_centroid
+Uttar Pradesh,Bareilly,Anwala,28.367,79.4304,district_centroid
+Uttar Pradesh,Bareilly,Bahedi,28.367,79.4304,district_centroid
+Uttar Pradesh,Bareilly,Bareilly,28.367,79.4304,district_headquarters
+Uttar Pradesh,Bareilly,Richha,28.367,79.4304,district_centroid
+Uttar Pradesh,Basti,Basti,27.2783,82.7483,district_headquarters
+Uttar Pradesh,Bhadohi (Sant Ravi Nagar),Gopiganj,25.3941,82.5709,district_centroid
+Uttar Pradesh,Bijnor,Bijnaur,29.3732,78.1352,district_centroid
+Uttar Pradesh,Bijnor,Chaandpur,29.3732,78.1352,district_centroid
+Uttar Pradesh,Bijnor,Kiratpur,29.3732,78.1352,district_centroid
+Uttar Pradesh,Bijnor,Nagina,29.3732,78.1352,district_centroid
+Uttar Pradesh,Bijnor,Najibabad,29.3732,78.1352,district_centroid
+Uttar Pradesh,Bulandshahar,Anoop Shahar,28.4069,77.8498,district_centroid
+Uttar Pradesh,Bulandshahar,Buland Shahr,28.4069,77.8498,district_centroid
+Uttar Pradesh,Bulandshahar,Divai,28.4069,77.8498,district_centroid
+Uttar Pradesh,Bulandshahar,Gulavati,28.4069,77.8498,district_centroid
+Uttar Pradesh,Bulandshahar,Jahangirabad,28.4069,77.8498,district_centroid
+Uttar Pradesh,Bulandshahar,Khurja,28.4069,77.8498,district_centroid
+Uttar Pradesh,Bulandshahar,Sikanderabad,28.4069,77.8498,district_centroid
+Uttar Pradesh,Bulandshahar,Sikarpur,28.4069,77.8498,district_centroid
+Uttar Pradesh,Bulandshahar,Siyana,28.4069,77.8498,district_centroid
+Uttar Pradesh,Chandauli,Chandoli,25.2612,83.2678,district_centroid
+Uttar Pradesh,Chitrakut,Karvi,25.2136,80.8986,district_centroid
+Uttar Pradesh,Deoria,Barhaj,26.5028,83.7797,district_centroid
+Uttar Pradesh,Deoria,Devariya,26.5028,83.7797,district_centroid
+Uttar Pradesh,Etah,Aliganj,27.5574,78.6653,district_centroid
+Uttar Pradesh,Etah,Awagarh,27.5574,78.6653,district_centroid
+Uttar Pradesh,Etah,Etah,27.5574,78.6653,district_headquarters
+Uttar Pradesh,Etawah,Bharthna,26.7855,79.0154,district_centroid
+Uttar Pradesh,Etawah,Etawah,26.7855,79.0154,district_headquarters
+Uttar Pradesh,Etawah,Jasvantnagar,26.7855,79.0154,district_centroid
+Uttar Pradesh,Farukhabad,Farukhabad,27.3826,79.583,district_headquarters
+Uttar Pradesh,Farukhabad,Kamlaganj,27.3826,79.583,district_centroid
+Uttar Pradesh,Farukhabad,Kayamganj,27.3826,79.583,district_centroid
+Uttar Pradesh,Farukhabad,Mohamadabad,27.3826,79.583,district_centroid
+Uttar Pradesh,Fatehpur,Bindki,25.9284,80.813,district_centroid
+Uttar Pradesh,Fatehpur,Fatehpur,25.9284,80.813,district_headquarters
+Uttar Pradesh,Fatehpur,Jahanabad,25.9284,80.813,district_centroid
+Uttar Pradesh,Fatehpur,Khaga,25.9284,80.813,district_centroid
+Uttar Pradesh,Fatehpur,Kishunpur,25.9284,80.813,district_centroid
+Uttar Pradesh,Firozabad,Firozabad,27.1594,78.3957,district_headquarters
+Uttar Pradesh,Firozabad,Shikohabad,27.1594,78.3957,district_centroid
+Uttar Pradesh,Firozabad,Sirsaganj,27.1594,78.3957,district_centroid
+Uttar Pradesh,Firozabad,Tundla,27.1594,78.3957,district_centroid
+Uttar Pradesh,Gautam Budh Nagar,Dadri,28.347,77.536,district_centroid
+Uttar Pradesh,Gautam Budh Nagar,Dankaur,28.347,77.536,district_centroid
+Uttar Pradesh,Ghaziabad,Ghaziabad,28.6692,77.4538,district_headquarters
+Uttar Pradesh,Ghaziabad,Hapur,28.6692,77.4538,district_centroid
+Uttar Pradesh,Ghaziabad,Muradnagar,28.6692,77.4538,district_centroid
+Uttar Pradesh,Ghaziabad,Noida,28.6692,77.4538,district_centroid
+Uttar Pradesh,Gonda,Gonda,27.1337,81.9619,district_headquarters
+Uttar Pradesh,Gonda,Nawabganj,27.1337,81.9619,district_centroid
+Uttar Pradesh,Gorakhpur,Chorichora,26.7606,83.3732,district_centroid
+Uttar Pradesh,Gorakhpur,Gorakhpur,26.7606,83.3732,district_headquarters
+Uttar Pradesh,Gorakhpur,Sehjanwa,26.7606,83.3732,district_centroid
+Uttar Pradesh,Hamirpur,Bharuasumerpur,25.9547,80.1517,district_centroid
+Uttar Pradesh,Hamirpur,Kurara,25.9547,80.1517,district_centroid
+Uttar Pradesh,Hamirpur,Maudaha,25.9547,80.1517,district_centroid
+Uttar Pradesh,Hamirpur,Muskara,25.9547,80.1517,district_centroid
+Uttar Pradesh,Hamirpur,Raath,25.9547,80.1517,district_centroid
+Uttar Pradesh,Hapur,Gazipur,28.7306,77.7759,district_centroid
+Uttar Pradesh,Hapur,Jangipura,28.7306,77.7759,district_centroid
+Uttar Pradesh,Hardoi,Hardoi,27.3989,80.1309,district_headquarters
+Uttar Pradesh,Hardoi,Madhoganj,27.3989,80.1309,district_centroid
+Uttar Pradesh,Hardoi,Sandi,27.3989,80.1309,district_centroid
+Uttar Pradesh,Hardoi,Sandila,27.3989,80.1309,district_centroid
+Uttar Pradesh,Hardoi,Shahabad (New Mandi),27.3989,80.1309,district_centroid
+Uttar Pradesh,Hathras,Haathras,27.5969,78.0519,district_centroid
+Uttar Pradesh,Hathras,Shadabad,27.5969,78.0519,district_centroid
+Uttar Pradesh,Hathras,Sikandraraau,27.5969,78.0519,district_centroid
+Uttar Pradesh,Jalaun (Orai),Ait,25.9898,79.45,district_centroid
+Uttar Pradesh,Jalaun (Orai),Jalaun,25.9898,79.45,district_headquarters
+Uttar Pradesh,Jalaun (Orai),Konch,25.9898,79.45,district_centroid
+Uttar Pradesh,Jalaun (Orai),Madhogarh,25.9898,79.45,district_centroid
+Uttar Pradesh,Jalaun (Orai),Orai,25.9898,79.45,district_centroid
+Uttar Pradesh,Jaunpur,Jaunpur,25.7464,82.6837,district_headquarters
+Uttar Pradesh,Jaunpur,Mugrabaadshahpur,25.7464,82.6837,district_centroid
+Uttar Pradesh,Jaunpur,Shahganj,25.7464,82.6837,district_centroid
+Uttar Pradesh,Jhansi,Chirgaon,25.4484,78.5685,district_centroid
+Uttar Pradesh,Jhansi,Gurusarai,25.4484,78.5685,district_centroid
+Uttar Pradesh,Jhansi,Jhansi,25.4484,78.5685,district_headquarters
+Uttar Pradesh,Jhansi,Mauranipur,25.4484,78.5685,district_centroid
+Uttar Pradesh,Jhansi,Moth,25.4484,78.5685,district_centroid
+Uttar Pradesh,Kannuj,Chhibramau,27.0547,79.9197,district_centroid
+Uttar Pradesh,Kannuj,Kannauj,27.0547,79.9197,district_centroid
+Uttar Pradesh,Kanpur,Choubepur,26.4499,80.3319,district_centroid
+Uttar Pradesh,Kanpur,Kanpur (Grain),26.4499,80.3319,district_headquarters
+Uttar Pradesh,Kanpur,Varipaal,26.4499,80.3319,district_centroid
+Uttar Pradesh,Kanpur Dehat,Jhijhank,26.333,79.95,district_centroid
+Uttar Pradesh,Kanpur Dehat,Pukharayan,26.333,79.95,district_centroid
+Uttar Pradesh,Kanpur Dehat,Rura,26.333,79.95,district_centroid
+Uttar Pradesh,Kasganj,Kasganj,27.8083,78.6475,district_headquarters
+Uttar Pradesh,Kaushambi,Bharwari,25.5342,81.4294,district_centroid
+Uttar Pradesh,Khiri (Lakhimpur),Maigalganj,27.9462,80.7786,district_centroid
+Uttar Pradesh,Khiri (Lakhimpur),Mohammdi,27.9462,80.7786,district_centroid
+Uttar Pradesh,Kushinagar,Tamkuhi road,26.7408,83.889,district_centroid
+Uttar Pradesh,Lakhimpur,Golagokarnath,27.9462,80.7786,district_centroid
+Uttar Pradesh,Lakhimpur,Lakhimpur,27.9462,80.7786,district_headquarters
+Uttar Pradesh,Lakhimpur,Paliakala,27.9462,80.7786,district_centroid
+Uttar Pradesh,Lalitpur,Lalitpur,24.6897,78.4116,district_headquarters
+Uttar Pradesh,Lucknow,Lucknow,26.8467,80.9462,district_headquarters
+Uttar Pradesh,Maharajganj,Anandnagar,27.1438,83.5615,district_centroid
+Uttar Pradesh,Maharajganj,Gadaura,27.1438,83.5615,district_centroid
+Uttar Pradesh,Maharajganj,Nautnava,27.1438,83.5615,district_centroid
+Uttar Pradesh,Maharajganj,Partaval,27.1438,83.5615,district_centroid
+Uttar Pradesh,Mahoba,Mahoba,25.2921,79.8722,district_headquarters
+Uttar Pradesh,Mainpuri,Bewar,27.2289,79.0289,district_centroid
+Uttar Pradesh,Mainpuri,Ghiraur,27.2289,79.0289,district_centroid
+Uttar Pradesh,Mainpuri,Mainpuri,27.2289,79.0289,district_headquarters
+Uttar Pradesh,Mathura,Kosikalan,27.4924,77.6737,district_centroid
+Uttar Pradesh,Mathura,Mathura,27.4924,77.6737,district_headquarters
+Uttar Pradesh,Mau (Maunathbhanjan),Doharighat,25.9417,83.5611,district_centroid
+Uttar Pradesh,Mau (Maunathbhanjan),Kopaganj,25.9417,83.5611,district_centroid
+Uttar Pradesh,Meerut,Mawana,28.9845,77.7064,district_centroid
+Uttar Pradesh,Meerut,Meerut,28.9845,77.7064,district_headquarters
+Uttar Pradesh,Meerut,Sardhana,28.9845,77.7064,district_centroid
+Uttar Pradesh,Mirzapur,Ahirora,25.1337,82.5644,district_centroid
+Uttar Pradesh,Mirzapur,Mirzapur,25.1337,82.5644,district_headquarters
+Uttar Pradesh,Muzaffarnagar,Khatauli,29.4727,77.7085,district_centroid
+Uttar Pradesh,Muzaffarnagar,Muzzafarnagar,29.4727,77.7085,district_centroid
+Uttar Pradesh,Muzaffarnagar,Shahpur,29.4727,77.7085,district_centroid
+Uttar Pradesh,Pillibhit,Billsadda,28.631,79.8044,district_centroid
+Uttar Pradesh,Pillibhit,Pilibhit,28.631,79.8044,district_centroid
+Uttar Pradesh,Pillibhit,Puranpur,28.631,79.8044,district_centroid
+Uttar Pradesh,Pillibhit,Vishalpur,28.631,79.8044,district_centroid
+Uttar Pradesh,Pratapgarh,Pratapgarh,25.897,81.946,district_headquarters
+Uttar Pradesh,Prayagraj,Ajuha,25.4358,81.8463,district_centroid
+Uttar Pradesh,Prayagraj,Allahabad,25.4358,81.8463,district_centroid
+Uttar Pradesh,Prayagraj,Jasra,25.4358,81.8463,district_centroid
+Uttar Pradesh,Prayagraj,Sirsa,25.4358,81.8463,district_centroid
+Uttar Pradesh,Raebarelli,Bachranwa,26.2303,81.2409,district_centroid
+Uttar Pradesh,Raebarelli,Jayas,26.2303,81.2409,district_centroid
+Uttar Pradesh,Raebarelli,Lalganj,26.2303,81.2409,district_centroid
+Uttar Pradesh,Raebarelli,Raibareilly,26.2303,81.2409,district_centroid
+Uttar Pradesh,Raebarelli,Salon,26.2303,81.2409,district_centroid
+Uttar Pradesh,Rampur,Milak,28.8154,79.0257,district_centroid
+Uttar Pradesh,Rampur,Rampur,28.8154,79.0257,district_headquarters
+Uttar Pradesh,Rampur,Vilaspur,28.8154,79.0257,district_centroid
+Uttar Pradesh,Saharanpur,Chutmalpur,29.9679,77.5452,district_centroid
+Uttar Pradesh,Saharanpur,Deoband,29.9679,77.5452,district_centroid
+Uttar Pradesh,Saharanpur,Gangoh,29.9679,77.5452,district_centroid
+Uttar Pradesh,Saharanpur,Rampurmaniharan,29.9679,77.5452,district_centroid
+Uttar Pradesh,Saharanpur,Saharanpur,29.9679,77.5452,district_headquarters
+Uttar Pradesh,Saharanpur,Sultanpurchilkana,29.9679,77.5452,district_centroid
+Uttar Pradesh,Sambhal,Chandausi,28.5833,78.5667,district_centroid
+Uttar Pradesh,Sambhal,Muradabad,28.5833,78.5667,district_centroid
+Uttar Pradesh,Sambhal,Sambhal,28.5833,78.5667,district_headquarters
+Uttar Pradesh,Sant Kabir Nagar,Khalilabad,26.7836,83.0232,district_centroid
+Uttar Pradesh,Shahjahanpur,Jalalabad,27.8805,79.912,district_centroid
+Uttar Pradesh,Shahjahanpur,Puwaha,27.8805,79.912,district_centroid
+Uttar Pradesh,Shahjahanpur,Shahjahanpur,27.8805,79.912,district_headquarters
+Uttar Pradesh,Shahjahanpur,Tilhar,27.8805,79.912,district_centroid
+Uttar Pradesh,Shamli,Kairana,29.4489,77.3089,district_centroid
+Uttar Pradesh,Shamli,Khandhla,29.4489,77.3089,district_centroid
+Uttar Pradesh,Shamli,Shamli,29.4489,77.3089,district_headquarters
+Uttar Pradesh,Shamli,Thanabhavan,29.4489,77.3089,district_centroid
+Uttar Pradesh,Siddharth Nagar,Naugarh,27.2981,82.8122,district_centroid
+Uttar Pradesh,Siddharth Nagar,Sahiyapur,27.2981,82.8122,district_centroid
+Uttar Pradesh,Sitapur,Hargaon (Laharpur),27.5684,80.6829,district_centroid
+Uttar Pradesh,Sitapur,Mehmoodabad,27.5684,80.6829,district_centroid
+Uttar Pradesh,Sitapur,Sitapur,27.5684,80.6829,district_headquarters
+Uttar Pradesh,Sitapur,Viswan,27.5684,80.6829,district_centroid
+Uttar Pradesh,Sonbhadra,Dudhi,24.6853,83.0673,district_centroid
+Uttar Pradesh,Sonbhadra,Robertsganj,24.6853,83.0673,district_centroid
+Uttar Pradesh,Unnao,Bangarmau,26.5471,80.4883,district_centroid
+Uttar Pradesh,Unnao,Purwa,26.5471,80.4883,district_centroid
+Uttar Pradesh,Unnao,Unnao,26.5471,80.4883,district_headquarters
+Uttar Pradesh,Varanasi,Varanasi,25.3176,82.9739,district_headquarters
+Uttar Pradesh,Varanasi,Varanasi (F&V),25.3176,82.9739,district_headquarters

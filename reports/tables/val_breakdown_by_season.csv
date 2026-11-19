@@ -1,0 +1,5 @@
+season,n_obs,mae_inr,mape_pct,median_abs_err,rmse_inr
+Monsoon,13326,263.37,9.11,136.5,434.21
+Post-Monsoon,6064,245.24,11.0,128.81,393.71
+Winter,9985,181.02,10.97,105.76,285.55
+Summer,10058,159.89,8.49,85.04,278.99

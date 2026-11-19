@@ -1,0 +1,956 @@
+market,commodity,series_id,min_week,max_week,actual_weeks,total_possible_weeks,missing_weeks,missing_share,reason
+Achalda,Brinjal,Achalda__Brinjal,2019-09-16,2025-11-03,318,321,3,0.0093,kept
+Achalda,Green Chilli,Achalda__Green Chilli,2018-07-30,2025-10-27,357,379,22,0.058,kept
+Achalda,Onion,Achalda__Onion,2014-12-29,2025-10-27,457,566,109,0.1926,kept
+Achalda,Wheat,Achalda__Wheat,2014-12-29,2025-11-03,502,567,65,0.1146,kept
+Achnera,Brinjal,Achnera__Brinjal,2023-08-07,2025-11-03,118,118,0,0.0,kept
+Achnera,Cauliflower,Achnera__Cauliflower,2017-09-25,2025-11-03,371,424,53,0.125,kept
+Achnera,Green Chilli,Achnera__Green Chilli,2017-06-12,2025-10-27,386,438,52,0.1187,kept
+Achnera,Onion,Achnera__Onion,2015-01-26,2025-10-27,413,562,149,0.2651,kept
+Achnera,Potato,Achnera__Potato,2015-01-26,2025-10-13,431,560,129,0.2304,kept
+Achnera,Tomato,Achnera__Tomato,2019-09-02,2025-10-27,268,322,54,0.1677,kept
+Achnera,Wheat,Achnera__Wheat,2015-01-26,2025-11-03,435,563,128,0.2274,kept
+Agra,Brinjal,Agra__Brinjal,2023-08-07,2025-11-03,117,118,1,0.0085,kept
+Agra,Cauliflower,Agra__Cauliflower,2016-08-22,2025-10-27,368,480,112,0.2333,kept
+Agra,Green Chilli,Agra__Green Chilli,2015-08-10,2025-10-27,450,534,84,0.1573,kept
+Agra,Onion,Agra__Onion,2014-12-29,2025-11-03,559,567,8,0.0141,kept
+Agra,Potato,Agra__Potato,2014-12-29,2025-11-03,465,567,102,0.1799,kept
+Agra,Wheat,Agra__Wheat,2014-12-29,2025-10-13,562,564,2,0.0035,kept
+Ahirora,Green Chilli,Ahirora__Green Chilli,2017-09-04,2025-10-20,293,425,132,0.3106,kept
+Ahirora,Onion,Ahirora__Onion,2021-09-13,2025-09-08,176,209,33,0.1579,kept
+Ahirora,Wheat,Ahirora__Wheat,2021-09-20,2024-11-18,146,166,20,0.1205,kept
+Ait,Wheat,Ait__Wheat,2017-06-19,2025-11-03,386,438,52,0.1187,kept
+Ajuha,Green Chilli,Ajuha__Green Chilli,2017-09-18,2025-10-27,344,424,80,0.1887,kept
+Ajuha,Onion,Ajuha__Onion,2014-12-29,2025-11-03,408,567,159,0.2804,kept
+Ajuha,Tomato,Ajuha__Tomato,2014-12-29,2025-11-03,351,567,216,0.381,kept
+Ajuha,Wheat,Ajuha__Wheat,2014-12-29,2025-10-27,495,566,71,0.1254,kept
+Akbarpur,Brinjal,Akbarpur__Brinjal,2018-06-18,2025-11-03,381,386,5,0.013,kept
+Akbarpur,Cauliflower,Akbarpur__Cauliflower,2018-10-01,2025-11-03,251,371,120,0.3235,kept
+Akbarpur,Green Chilli,Akbarpur__Green Chilli,2018-06-18,2025-11-03,382,386,4,0.0104,kept
+Akbarpur,Onion,Akbarpur__Onion,2017-09-18,2025-10-27,412,424,12,0.0283,kept
+Akbarpur,Potato,Akbarpur__Potato,2020-08-24,2025-10-20,269,270,1,0.0037,kept
+Akbarpur,Wheat,Akbarpur__Wheat,2015-11-02,2025-11-03,439,523,84,0.1606,kept
+Akluj,Onion,Akluj__Onion,2014-12-29,2025-01-20,441,526,85,0.1616,kept
+Aliganj,Wheat,Aliganj__Wheat,2015-03-23,2025-11-03,411,555,144,0.2595,kept
+Aligarh,Cauliflower,Aligarh__Cauliflower,2014-12-29,2025-10-27,550,566,16,0.0283,kept
+Aligarh,Green Chilli,Aligarh__Green Chilli,2014-12-29,2025-10-20,563,565,2,0.0035,kept
+Aligarh,Onion,Aligarh__Onion,2017-04-24,2025-11-03,441,446,5,0.0112,kept
+Aligarh,Potato,Aligarh__Potato,2014-12-29,2025-10-27,563,566,3,0.0053,kept
+Aligarh,Tomato,Aligarh__Tomato,2014-12-29,2019-06-17,233,234,1,0.0043,kept
+Aligarh,Wheat,Aligarh__Wheat,2014-12-29,2025-11-03,558,567,9,0.0159,kept
+Alirajpur (F&V),Green Chilli,Alirajpur (F&V)__Green Chilli,2018-10-29,2023-12-11,169,268,99,0.3694,kept
+Alirajpur (F&V),Tomato,Alirajpur (F&V)__Tomato,2018-11-05,2023-12-18,163,268,105,0.3918,kept
+Allahabad,Brinjal,Allahabad__Brinjal,2018-06-18,2025-11-03,375,386,11,0.0285,kept
+Allahabad,Green Chilli,Allahabad__Green Chilli,2017-09-18,2025-10-20,388,423,35,0.0827,kept
+Allahabad,Onion,Allahabad__Onion,2014-12-29,2025-10-13,378,564,186,0.3298,kept
+Allahabad,Tomato,Allahabad__Tomato,2016-12-05,2025-06-09,368,445,77,0.173,kept
+Allahabad,Wheat,Allahabad__Wheat,2014-12-29,2025-10-20,462,565,103,0.1823,kept
+Amroha,Brinjal,Amroha__Brinjal,2015-02-23,2025-10-27,427,558,131,0.2348,kept
+Amroha,Green Chilli,Amroha__Green Chilli,2019-11-04,2025-11-03,309,314,5,0.0159,kept
+Amroha,Onion,Amroha__Onion,2019-12-02,2025-10-27,309,309,0,0.0,kept
+Amroha,Tomato,Amroha__Tomato,2015-11-23,2025-10-20,336,518,182,0.3514,kept
+Amroha,Wheat,Amroha__Wheat,2020-11-30,2025-10-27,256,257,1,0.0039,kept
+Anandnagar,Brinjal,Anandnagar__Brinjal,2022-01-03,2024-02-12,109,111,2,0.018,kept
+Anandnagar,Green Chilli,Anandnagar__Green Chilli,2017-09-25,2025-10-27,419,423,4,0.0095,kept
+Anandnagar,Onion,Anandnagar__Onion,2014-12-29,2025-11-03,541,567,26,0.0459,kept
+Anandnagar,Paddy (Dhan)(Common),Anandnagar__Paddy (Dhan)(Common),2022-01-17,2025-03-31,131,168,37,0.2202,kept
+Anandnagar,Wheat,Anandnagar__Wheat,2015-01-12,2025-11-03,553,565,12,0.0212,kept
+Anoop Shahar,Green Chilli,Anoop Shahar__Green Chilli,2019-08-26,2025-11-03,315,324,9,0.0278,kept
+Anoop Shahar,Onion,Anoop Shahar__Onion,2015-03-23,2025-11-03,387,555,168,0.3027,kept
+Anoop Shahar,Tomato,Anoop Shahar__Tomato,2015-03-23,2025-11-03,345,555,210,0.3784,kept
+Anwala,Cauliflower,Anwala__Cauliflower,2017-08-28,2025-04-28,261,401,140,0.3491,kept
+Anwala,Green Chilli,Anwala__Green Chilli,2017-06-19,2025-10-13,428,435,7,0.0161,kept
+Anwala,Onion,Anwala__Onion,2019-12-16,2025-10-20,304,306,2,0.0065,kept
+Anwala,Tomato,Anwala__Tomato,2017-06-19,2025-10-27,436,437,1,0.0023,kept
+Atarra,Brinjal,Atarra__Brinjal,2018-09-10,2025-10-13,353,371,18,0.0485,kept
+Atarra,Onion,Atarra__Onion,2014-12-29,2025-09-22,435,561,126,0.2246,kept
+Atarra,Potato,Atarra__Potato,2018-09-10,2025-10-06,272,370,98,0.2649,kept
+Atarra,Tomato,Atarra__Tomato,2018-09-10,2024-05-06,182,296,114,0.3851,kept
+Atarra,Wheat,Atarra__Wheat,2014-12-29,2025-10-27,524,566,42,0.0742,kept
+Atrauli,Potato,Atrauli__Potato,2015-01-26,2025-11-03,460,563,103,0.1829,kept
+Auraiya,Green Chilli,Auraiya__Green Chilli,2017-09-18,2025-11-03,425,425,0,0.0,kept
+Auraiya,Onion,Auraiya__Onion,2015-01-05,2025-11-03,554,566,12,0.0212,kept
+Auraiya,Potato,Auraiya__Potato,2017-05-01,2025-11-03,445,445,0,0.0,kept
+Auraiya,Wheat,Auraiya__Wheat,2014-12-29,2025-11-03,565,567,2,0.0035,kept
+Awagarh,Brinjal,Awagarh__Brinjal,2017-11-27,2025-10-27,404,414,10,0.0242,kept
+Awagarh,Cauliflower,Awagarh__Cauliflower,2017-09-18,2025-10-27,386,424,38,0.0896,kept
+Awagarh,Green Chilli,Awagarh__Green Chilli,2017-12-04,2025-11-03,412,414,2,0.0048,kept
+Awagarh,Onion,Awagarh__Onion,2015-01-12,2025-01-13,370,523,153,0.2925,kept
+Awagarh,Potato,Awagarh__Potato,2015-01-12,2025-11-03,471,565,94,0.1664,kept
+Azamgarh,Green Chilli,Azamgarh__Green Chilli,2016-07-11,2025-11-03,434,487,53,0.1088,kept
+Azamgarh,Onion,Azamgarh__Onion,2015-08-03,2025-11-03,529,536,7,0.0131,kept
+Azamgarh,Potato,Azamgarh__Potato,2019-09-02,2025-10-27,321,322,1,0.0031,kept
+Azamgarh,Wheat,Azamgarh__Wheat,2015-08-03,2025-11-03,533,536,3,0.0056,kept
+Baberu,Brinjal,Baberu__Brinjal,2020-08-24,2024-02-19,145,183,38,0.2077,kept
+Baberu,Green Chilli,Baberu__Green Chilli,2019-11-04,2024-03-11,189,228,39,0.1711,kept
+Baberu,Onion,Baberu__Onion,2015-04-20,2023-10-16,270,444,174,0.3919,kept
+Baberu,Potato,Baberu__Potato,2020-08-24,2024-01-01,146,176,30,0.1705,kept
+Baberu,Wheat,Baberu__Wheat,2016-03-07,2025-11-03,384,505,121,0.2396,kept
+Babrala,Wheat,Babrala__Wheat,2015-01-26,2025-02-03,334,524,190,0.3626,kept
+Bachranwa,Paddy (Dhan)(Common),Bachranwa__Paddy (Dhan)(Common),2017-06-19,2025-10-27,337,437,100,0.2288,kept
+Bachranwa,Wheat,Bachranwa__Wheat,2017-06-12,2025-11-03,348,439,91,0.2073,kept
+Badayoun,Cauliflower,Badayoun__Cauliflower,2019-12-02,2025-11-03,245,310,65,0.2097,kept
+Badayoun,Green Chilli,Badayoun__Green Chilli,2015-06-01,2025-11-03,410,545,135,0.2477,kept
+Badayoun,Onion,Badayoun__Onion,2014-12-29,2019-11-11,173,255,82,0.3216,kept
+Badayoun,Potato,Badayoun__Potato,2017-11-27,2025-11-03,411,415,4,0.0096,kept
+Badayoun,Tomato,Badayoun__Tomato,2017-11-27,2025-11-03,411,415,4,0.0096,kept
+Badayoun,Wheat,Badayoun__Wheat,2014-12-29,2025-11-03,550,567,17,0.03,kept
+Badwaha,Green Chilli,Badwaha__Green Chilli,2021-02-08,2023-12-18,149,150,1,0.0067,kept
+Badwaha,Tomato,Badwaha__Tomato,2021-02-08,2023-12-18,143,150,7,0.0467,kept
+Badwani,Cauliflower,Badwani__Cauliflower,2021-11-15,2023-12-18,106,110,4,0.0364,kept
+Bagpat,Potato,Bagpat__Potato,2021-02-15,2025-10-27,179,246,67,0.2724,kept
+Bahedi,Onion,Bahedi__Onion,2019-09-02,2025-10-06,305,319,14,0.0439,kept
+Bahraich,Brinjal,Bahraich__Brinjal,2014-12-29,2025-11-03,550,567,17,0.03,kept
+Bahraich,Green Chilli,Bahraich__Green Chilli,2018-02-12,2025-10-27,402,403,1,0.0025,kept
+Bahraich,Onion,Bahraich__Onion,2014-12-29,2025-11-03,563,567,4,0.0071,kept
+Bahraich,Paddy (Dhan)(Common),Bahraich__Paddy (Dhan)(Common),2022-11-21,2025-10-27,131,154,23,0.1494,kept
+Bahraich,Potato,Bahraich__Potato,2019-09-02,2025-10-27,322,322,0,0.0,kept
+Bahraich,Wheat,Bahraich__Wheat,2014-12-29,2025-10-27,566,566,0,0.0,kept
+Balaghat,Paddy (Dhan)(Common),Balaghat__Paddy (Dhan)(Common),2014-12-29,2025-10-06,465,563,98,0.1741,kept
+Ballia,Green Chilli,Ballia__Green Chilli,2017-09-11,2025-11-03,423,426,3,0.007,kept
+Ballia,Onion,Ballia__Onion,2014-12-29,2025-11-03,551,567,16,0.0282,kept
+Ballia,Potato,Ballia__Potato,2014-12-29,2017-09-25,144,144,0,0.0,kept
+Ballia,Tomato,Ballia__Tomato,2017-09-18,2022-07-11,235,252,17,0.0675,kept
+Ballia,Wheat,Ballia__Wheat,2014-12-29,2025-10-27,562,566,4,0.0071,kept
+Balrampur,Brinjal,Balrampur__Brinjal,2017-02-27,2025-11-03,417,454,37,0.0815,kept
+Balrampur,Green Chilli,Balrampur__Green Chilli,2017-02-27,2025-10-20,413,452,39,0.0863,kept
+Balrampur,Onion,Balrampur__Onion,2018-10-08,2025-11-03,329,370,41,0.1108,kept
+Balrampur,Potato,Balrampur__Potato,2022-07-18,2025-10-20,144,171,27,0.1579,kept
+Balrampur,Tomato,Balrampur__Tomato,2018-10-29,2025-08-11,316,355,39,0.1099,kept
+Balrampur,Wheat,Balrampur__Wheat,2018-10-08,2025-10-27,335,369,34,0.0921,kept
+Banda,Brinjal,Banda__Brinjal,2015-11-23,2025-11-03,510,520,10,0.0192,kept
+Banda,Green Chilli,Banda__Green Chilli,2017-03-06,2025-10-27,405,452,47,0.104,kept
+Banda,Onion,Banda__Onion,2017-09-11,2025-10-27,419,425,6,0.0141,kept
+Banda,Potato,Banda__Potato,2014-12-29,2025-10-27,445,566,121,0.2138,kept
+Banda,Wheat,Banda__Wheat,2014-12-29,2025-10-20,541,565,24,0.0425,kept
+Bangarmau,Brinjal,Bangarmau__Brinjal,2016-11-28,2025-11-03,445,467,22,0.0471,kept
+Bangarmau,Green Chilli,Bangarmau__Green Chilli,2016-10-31,2025-11-03,425,471,46,0.0977,kept
+Bangarmau,Onion,Bangarmau__Onion,2016-10-31,2025-10-27,439,470,31,0.066,kept
+Bangarmau,Potato,Bangarmau__Potato,2015-01-19,2025-10-20,476,562,86,0.153,kept
+Bangarmau,Tomato,Bangarmau__Tomato,2017-06-26,2025-06-30,293,419,126,0.3007,kept
+Bangarmau,Wheat,Bangarmau__Wheat,2015-01-19,2025-11-03,478,564,86,0.1525,kept
+Barabanki,Brinjal,Barabanki__Brinjal,2015-01-12,2025-10-27,557,564,7,0.0124,kept
+Barabanki,Green Chilli,Barabanki__Green Chilli,2014-12-29,2025-11-03,560,567,7,0.0123,kept
+Barabanki,Onion,Barabanki__Onion,2015-01-12,2025-11-03,561,565,4,0.0071,kept
+Barabanki,Potato,Barabanki__Potato,2017-06-12,2025-10-27,435,438,3,0.0068,kept
+Barabanki,Wheat,Barabanki__Wheat,2014-12-29,2025-11-03,536,567,31,0.0547,kept
+Baraut,Brinjal,Baraut__Brinjal,2014-12-29,2025-11-03,482,567,85,0.1499,kept
+Baraut,Cauliflower,Baraut__Cauliflower,2014-12-29,2025-11-03,408,567,159,0.2804,kept
+Baraut,Green Chilli,Baraut__Green Chilli,2014-12-29,2025-11-03,474,567,93,0.164,kept
+Baraut,Tomato,Baraut__Tomato,2018-07-23,2024-07-01,277,311,34,0.1093,kept
+Bareilly,Brinjal,Bareilly__Brinjal,2014-12-29,2025-10-27,560,566,6,0.0106,kept
+Bareilly,Cauliflower,Bareilly__Cauliflower,2014-12-29,2025-10-27,438,566,128,0.2261,kept
+Bareilly,Green Chilli,Bareilly__Green Chilli,2014-12-29,2024-02-19,444,478,34,0.0711,kept
+Bareilly,Onion,Bareilly__Onion,2015-01-05,2025-11-03,424,566,142,0.2509,kept
+Bareilly,Potato,Bareilly__Potato,2017-12-11,2024-02-26,324,325,1,0.0031,kept
+Bareilly,Tomato,Bareilly__Tomato,2017-12-11,2024-02-26,323,325,2,0.0062,kept
+Bareilly,Wheat,Bareilly__Wheat,2014-12-29,2025-11-03,564,567,3,0.0053,kept
+Barhaj,Green Chilli,Barhaj__Green Chilli,2018-01-01,2023-07-24,269,291,22,0.0756,kept
+Barhaj,Onion,Barhaj__Onion,2018-01-01,2024-01-01,280,314,34,0.1083,kept
+Barhaj,Potato,Barhaj__Potato,2020-08-31,2024-01-01,150,175,25,0.1429,kept
+Barhaj,Wheat,Barhaj__Wheat,2017-07-10,2024-01-01,311,339,28,0.0826,kept
+Basti,Cauliflower,Basti__Cauliflower,2017-10-02,2024-03-25,205,339,134,0.3953,kept
+Basti,Green Chilli,Basti__Green Chilli,2017-09-11,2025-10-20,424,424,0,0.0,kept
+Basti,Onion,Basti__Onion,2014-12-29,2025-11-03,557,567,10,0.0176,kept
+Basti,Paddy (Dhan)(Common),Basti__Paddy (Dhan)(Common),2022-01-17,2025-10-27,197,198,1,0.0051,kept
+Basti,Potato,Basti__Potato,2017-10-23,2025-10-27,329,419,90,0.2148,kept
+Basti,Wheat,Basti__Wheat,2014-12-29,2025-11-03,566,567,1,0.0018,kept
+Bewar,Cauliflower,Bewar__Cauliflower,2018-01-22,2020-08-10,117,134,17,0.1269,kept
+Bewar,Wheat,Bewar__Wheat,2018-01-29,2025-11-03,329,406,77,0.1897,kept
+Bharthna,Green Chilli,Bharthna__Green Chilli,2017-09-11,2025-10-27,425,425,0,0.0,kept
+Bharthna,Onion,Bharthna__Onion,2014-12-29,2025-10-27,514,566,52,0.0919,kept
+Bharthna,Potato,Bharthna__Potato,2014-12-29,2025-10-27,524,566,42,0.0742,kept
+Bharthna,Wheat,Bharthna__Wheat,2014-12-29,2025-10-27,523,566,43,0.076,kept
+Bharuasumerpur,Onion,Bharuasumerpur__Onion,2014-12-29,2025-11-03,539,567,28,0.0494,kept
+Bharuasumerpur,Potato,Bharuasumerpur__Potato,2018-07-16,2025-10-20,354,380,26,0.0684,kept
+Bharuasumerpur,Wheat,Bharuasumerpur__Wheat,2018-07-16,2025-10-27,378,381,3,0.0079,kept
+Bharwari,Onion,Bharwari__Onion,2019-12-09,2025-08-25,182,299,117,0.3913,kept
+Bharwari,Potato,Bharwari__Potato,2019-01-14,2025-10-13,221,353,132,0.3739,kept
+Bharwari,Wheat,Bharwari__Wheat,2014-12-29,2025-11-03,367,567,200,0.3527,kept
+Bhusaval,Onion,Bhusaval__Onion,2020-12-28,2025-01-20,184,213,29,0.1362,kept
+Biaora,Green Chilli,Biaora__Green Chilli,2019-02-11,2023-12-18,183,254,71,0.2795,kept
+Biaora,Tomato,Biaora__Tomato,2019-02-11,2023-12-18,225,254,29,0.1142,kept
+Bichhiya,Paddy (Dhan)(Common),Bichhiya__Paddy (Dhan)(Common),2017-07-10,2025-10-06,367,431,64,0.1485,kept
+Bijnaur,Brinjal,Bijnaur__Brinjal,2017-09-04,2025-11-03,391,427,36,0.0843,kept
+Bijnaur,Green Chilli,Bijnaur__Green Chilli,2014-12-29,2025-11-03,432,567,135,0.2381,kept
+Bijnaur,Onion,Bijnaur__Onion,2014-12-29,2025-11-03,509,567,58,0.1023,kept
+Bijnaur,Potato,Bijnaur__Potato,2014-12-29,2025-11-03,494,567,73,0.1287,kept
+Bijnaur,Wheat,Bijnaur__Wheat,2014-12-29,2025-10-27,500,566,66,0.1166,kept
+Billsadda,Brinjal,Billsadda__Brinjal,2018-03-19,2020-06-08,105,117,12,0.1026,kept
+Billsadda,Green Chilli,Billsadda__Green Chilli,2018-03-12,2020-06-08,117,118,1,0.0085,kept
+Billsadda,Tomato,Billsadda__Tomato,2018-03-12,2020-06-08,116,118,2,0.0169,kept
+Bilsi,Brinjal,Bilsi__Brinjal,2018-07-23,2023-07-31,257,263,6,0.0228,kept
+Bilsi,Green Chilli,Bilsi__Green Chilli,2018-07-23,2025-11-03,352,381,29,0.0761,kept
+Bilsi,Onion,Bilsi__Onion,2017-11-13,2025-11-03,391,417,26,0.0624,kept
+Bindki,Brinjal,Bindki__Brinjal,2020-08-24,2025-10-27,166,271,105,0.3875,kept
+Bindki,Green Chilli,Bindki__Green Chilli,2017-02-27,2025-10-20,439,452,13,0.0288,kept
+Bindki,Onion,Bindki__Onion,2014-12-29,2025-10-27,528,566,38,0.0671,kept
+Bindki,Wheat,Bindki__Wheat,2014-12-29,2025-10-27,538,566,28,0.0495,kept
+Buland Shahr,Brinjal,Buland Shahr__Brinjal,2017-10-02,2025-10-20,421,421,0,0.0,kept
+Buland Shahr,Cauliflower,Buland Shahr__Cauliflower,2017-10-02,2025-10-27,364,422,58,0.1374,kept
+Buland Shahr,Green Chilli,Buland Shahr__Green Chilli,2017-09-25,2025-11-03,422,424,2,0.0047,kept
+Buland Shahr,Onion,Buland Shahr__Onion,2017-10-02,2025-10-27,417,422,5,0.0118,kept
+Buland Shahr,Potato,Buland Shahr__Potato,2014-12-29,2024-12-09,332,520,188,0.3615,kept
+Buland Shahr,Tomato,Buland Shahr__Tomato,2022-08-22,2025-11-03,163,168,5,0.0298,kept
+Buland Shahr,Wheat,Buland Shahr__Wheat,2014-12-29,2025-11-03,564,567,3,0.0053,kept
+Chaandpur,Onion,Chaandpur__Onion,2015-01-12,2025-11-03,419,565,146,0.2584,kept
+Chaandpur,Potato,Chaandpur__Potato,2015-01-12,2025-11-03,428,565,137,0.2425,kept
+Chandausi,Brinjal,Chandausi__Brinjal,2016-10-31,2025-11-03,453,471,18,0.0382,kept
+Chandausi,Cauliflower,Chandausi__Cauliflower,2020-09-28,2025-11-03,184,267,83,0.3109,kept
+Chandausi,Green Chilli,Chandausi__Green Chilli,2019-07-08,2025-11-03,313,331,18,0.0544,kept
+Chandausi,Onion,Chandausi__Onion,2017-09-18,2025-11-03,349,425,76,0.1788,kept
+Chandausi,Potato,Chandausi__Potato,2017-05-01,2024-03-11,349,359,10,0.0279,kept
+Chandausi,Wheat,Chandausi__Wheat,2015-01-12,2025-09-22,405,559,154,0.2755,kept
+Chandoli,Brinjal,Chandoli__Brinjal,2018-09-24,2024-07-01,301,302,1,0.0033,kept
+Chandoli,Green Chilli,Chandoli__Green Chilli,2017-07-10,2025-11-03,401,435,34,0.0782,kept
+Chandoli,Onion,Chandoli__Onion,2014-12-29,2025-11-03,514,567,53,0.0935,kept
+Chandoli,Potato,Chandoli__Potato,2018-09-24,2024-07-08,303,303,0,0.0,kept
+Chandoli,Wheat,Chandoli__Wheat,2014-12-29,2025-11-03,522,567,45,0.0794,kept
+Charra,Cauliflower,Charra__Cauliflower,2015-01-26,2025-06-16,336,543,207,0.3812,kept
+Charra,Green Chilli,Charra__Green Chilli,2017-09-18,2025-10-13,415,422,7,0.0166,kept
+Charra,Onion,Charra__Onion,2017-07-17,2025-11-03,423,434,11,0.0253,kept
+Charra,Potato,Charra__Potato,2015-01-26,2025-11-03,454,563,109,0.1936,kept
+Charra,Tomato,Charra__Tomato,2015-01-26,2025-11-03,400,563,163,0.2895,kept
+Charra,Wheat,Charra__Wheat,2015-01-26,2025-11-03,450,563,113,0.2007,kept
+Chhibramau,Brinjal,Chhibramau__Brinjal,2018-10-01,2025-11-03,228,371,143,0.3854,kept
+Chhibramau,Onion,Chhibramau__Onion,2014-12-29,2025-10-27,429,566,137,0.242,kept
+Chhibramau,Tomato,Chhibramau__Tomato,2014-12-29,2025-09-08,447,559,112,0.2004,kept
+Chhibramau,Wheat,Chhibramau__Wheat,2014-12-29,2025-11-03,535,567,32,0.0564,kept
+Chhindwara (F&V),Cauliflower,Chhindwara (F&V)__Cauliflower,2019-05-06,2023-12-18,238,242,4,0.0165,kept
+Chhindwara (F&V),Green Chilli,Chhindwara (F&V)__Green Chilli,2019-04-29,2023-12-18,237,243,6,0.0247,kept
+Chhindwara (F&V),Onion,Chhindwara (F&V)__Onion,2021-07-26,2023-12-18,123,126,3,0.0238,kept
+Chhindwara (F&V),Potato,Chhindwara (F&V)__Potato,2021-07-26,2023-12-18,124,126,2,0.0159,kept
+Chhindwara (F&V),Tomato,Chhindwara (F&V)__Tomato,2021-07-26,2023-12-18,121,126,5,0.0397,kept
+Chirgaon,Brinjal,Chirgaon__Brinjal,2019-11-04,2023-06-26,190,191,1,0.0052,kept
+Chirgaon,Onion,Chirgaon__Onion,2019-11-04,2025-10-27,276,313,37,0.1182,kept
+Chirgaon,Potato,Chirgaon__Potato,2018-01-08,2025-11-03,332,409,77,0.1883,kept
+Chirgaon,Tomato,Chirgaon__Tomato,2018-02-05,2025-07-14,242,389,147,0.3779,kept
+Chitwadagaon,Green Chilli,Chitwadagaon__Green Chilli,2020-03-09,2025-11-03,245,296,51,0.1723,kept
+Chitwadagaon,Tomato,Chitwadagaon__Tomato,2020-04-20,2024-03-04,157,203,46,0.2266,kept
+Chorichora,Green Chilli,Chorichora__Green Chilli,2017-10-30,2025-11-03,353,419,66,0.1575,kept
+Chorichora,Onion,Chorichora__Onion,2014-12-29,2025-01-13,456,525,69,0.1314,kept
+Chorichora,Paddy (Dhan)(Common),Chorichora__Paddy (Dhan)(Common),2022-01-10,2025-01-13,117,158,41,0.2595,kept
+Chorichora,Wheat,Chorichora__Wheat,2014-12-29,2025-01-13,458,525,67,0.1276,kept
+Choubepur,Green Chilli,Choubepur__Green Chilli,2021-11-29,2025-10-27,200,205,5,0.0244,kept
+Choubepur,Onion,Choubepur__Onion,2014-12-29,2025-11-03,428,567,139,0.2451,kept
+Choubepur,Potato,Choubepur__Potato,2014-12-29,2023-07-17,303,447,144,0.3221,kept
+Choubepur,Tomato,Choubepur__Tomato,2016-10-10,2023-07-17,350,354,4,0.0113,kept
+Choubepur,Wheat,Choubepur__Wheat,2014-12-29,2025-10-20,490,565,75,0.1327,kept
+Chutmalpur,Green Chilli,Chutmalpur__Green Chilli,2015-01-26,2025-11-03,411,563,152,0.27,kept
+Dadri,Brinjal,Dadri__Brinjal,2014-12-29,2025-11-03,557,567,10,0.0176,kept
+Dadri,Green Chilli,Dadri__Green Chilli,2015-04-06,2025-10-27,540,552,12,0.0217,kept
+Dadri,Onion,Dadri__Onion,2014-12-29,2025-10-27,551,566,15,0.0265,kept
+Dadri,Potato,Dadri__Potato,2015-03-09,2025-11-03,512,557,45,0.0808,kept
+Dadri,Tomato,Dadri__Tomato,2014-12-29,2025-10-27,472,566,94,0.1661,kept
+Dadri,Wheat,Dadri__Wheat,2014-12-29,2025-10-27,528,566,38,0.0671,kept
+Dankaur,Cauliflower,Dankaur__Cauliflower,2019-12-23,2025-10-27,220,306,86,0.281,kept
+Dankaur,Green Chilli,Dankaur__Green Chilli,2019-12-23,2025-10-27,227,306,79,0.2582,kept
+Dankaur,Tomato,Dankaur__Tomato,2019-06-17,2025-10-27,234,333,99,0.2973,kept
+Dankaur,Wheat,Dankaur__Wheat,2015-05-25,2025-11-03,352,546,194,0.3553,kept
+Deoband,Green Chilli,Deoband__Green Chilli,2018-04-30,2025-10-06,271,389,118,0.3033,kept
+Devariya,Green Chilli,Devariya__Green Chilli,2017-09-18,2025-11-03,419,425,6,0.0141,kept
+Devariya,Onion,Devariya__Onion,2015-01-12,2025-10-27,543,564,21,0.0372,kept
+Devariya,Wheat,Devariya__Wheat,2014-12-29,2025-10-13,527,564,37,0.0656,kept
+Dhamnod,Cauliflower,Dhamnod__Cauliflower,2020-12-14,2023-12-18,144,158,14,0.0886,kept
+Dhamnod,Green Chilli,Dhamnod__Green Chilli,2018-08-27,2023-12-18,254,278,24,0.0863,kept
+Dhamnod,Onion,Dhamnod__Onion,2017-04-03,2023-12-18,298,351,53,0.151,kept
+Dhamnod,Potato,Dhamnod__Potato,2014-12-29,2020-12-14,246,312,66,0.2115,kept
+Dhanaura,Green Chilli,Dhanaura__Green Chilli,2022-08-29,2025-10-27,160,166,6,0.0361,kept
+Dhanaura,Potato,Dhanaura__Potato,2015-12-21,2025-01-13,342,474,132,0.2785,kept
+Dhanaura,Tomato,Dhanaura__Tomato,2018-07-23,2025-01-13,334,339,5,0.0147,kept
+Dhanaura,Wheat,Dhanaura__Wheat,2015-01-26,2025-01-13,359,521,162,0.3109,kept
+Dhule,Onion,Dhule__Onion,2015-01-05,2025-01-20,494,525,31,0.059,kept
+Dibiapur,Brinjal,Dibiapur__Brinjal,2016-03-07,2025-11-03,419,505,86,0.1703,kept
+Dibiapur,Cauliflower,Dibiapur__Cauliflower,2017-09-18,2025-10-13,266,422,156,0.3697,kept
+Dibiapur,Green Chilli,Dibiapur__Green Chilli,2017-06-12,2025-11-03,368,439,71,0.1617,kept
+Dibiapur,Potato,Dibiapur__Potato,2017-06-05,2025-01-20,348,399,51,0.1278,kept
+Dibiapur,Wheat,Dibiapur__Wheat,2014-12-29,2024-10-14,346,512,166,0.3242,kept
+Divai,Cauliflower,Divai__Cauliflower,2014-12-29,2025-09-15,351,560,209,0.3732,kept
+Divai,Green Chilli,Divai__Green Chilli,2021-10-18,2025-09-08,133,204,71,0.348,kept
+Divai,Tomato,Divai__Tomato,2014-12-29,2025-09-29,425,562,137,0.2438,kept
+Divai,Wheat,Divai__Wheat,2014-12-29,2025-09-08,351,559,208,0.3721,kept
+Doharighat,Onion,Doharighat__Onion,2022-01-17,2025-11-03,193,199,6,0.0302,kept
+Doharighat,Tomato,Doharighat__Tomato,2021-09-20,2025-10-27,188,215,27,0.1256,kept
+Dudhi,Cauliflower,Dudhi__Cauliflower,2018-10-01,2025-08-11,269,359,90,0.2507,kept
+Dudhi,Green Chilli,Dudhi__Green Chilli,2018-07-09,2025-09-29,351,378,27,0.0714,kept
+Dudhi,Tomato,Dudhi__Tomato,2017-06-26,2025-09-29,404,432,28,0.0648,kept
+Etah,Brinjal,Etah__Brinjal,2018-07-16,2025-11-03,380,382,2,0.0052,kept
+Etah,Cauliflower,Etah__Cauliflower,2015-01-12,2025-11-03,538,565,27,0.0478,kept
+Etah,Green Chilli,Etah__Green Chilli,2015-01-12,2025-11-03,504,565,61,0.108,kept
+Etah,Onion,Etah__Onion,2014-12-29,2025-10-20,499,565,66,0.1168,kept
+Etah,Potato,Etah__Potato,2014-12-29,2025-10-27,502,566,64,0.1131,kept
+Etah,Wheat,Etah__Wheat,2014-12-29,2025-10-27,561,566,5,0.0088,kept
+Etawah,Green Chilli,Etawah__Green Chilli,2017-09-11,2025-10-27,425,425,0,0.0,kept
+Etawah,Onion,Etawah__Onion,2014-12-29,2025-10-27,559,566,7,0.0124,kept
+Etawah,Potato,Etawah__Potato,2014-12-29,2025-10-27,563,566,3,0.0053,kept
+Etawah,Wheat,Etawah__Wheat,2014-12-29,2025-10-27,565,566,1,0.0018,kept
+Faizabad,Brinjal,Faizabad__Brinjal,2017-09-11,2025-11-03,426,426,0,0.0,kept
+Faizabad,Cauliflower,Faizabad__Cauliflower,2015-07-13,2023-07-03,374,417,43,0.1031,kept
+Faizabad,Green Chilli,Faizabad__Green Chilli,2015-07-20,2025-10-27,536,537,1,0.0019,kept
+Faizabad,Paddy (Dhan)(Common),Faizabad__Paddy (Dhan)(Common),2019-02-11,2025-11-03,292,352,60,0.1705,kept
+Faizabad,Potato,Faizabad__Potato,2015-07-20,2025-11-03,538,538,0,0.0,kept
+Faizabad,Tomato,Faizabad__Tomato,2023-07-17,2025-10-20,107,119,12,0.1008,kept
+Faizabad,Wheat,Faizabad__Wheat,2014-12-29,2025-11-03,567,567,0,0.0,kept
+Farukhabad,Brinjal,Farukhabad__Brinjal,2020-09-07,2025-11-03,270,270,0,0.0,kept
+Farukhabad,Green Chilli,Farukhabad__Green Chilli,2017-09-11,2025-11-03,425,426,1,0.0023,kept
+Farukhabad,Onion,Farukhabad__Onion,2014-12-29,2025-11-03,550,567,17,0.03,kept
+Farukhabad,Wheat,Farukhabad__Wheat,2015-01-12,2025-11-03,562,565,3,0.0053,kept
+Fatehabad,Cauliflower,Fatehabad__Cauliflower,2017-09-04,2025-11-03,330,427,97,0.2272,kept
+Fatehabad,Green Chilli,Fatehabad__Green Chilli,2017-09-04,2025-11-03,355,427,72,0.1686,kept
+Fatehabad,Onion,Fatehabad__Onion,2015-06-29,2025-11-03,381,541,160,0.2957,kept
+Fatehabad,Potato,Fatehabad__Potato,2015-04-27,2025-11-03,381,550,169,0.3073,kept
+Fatehabad,Tomato,Fatehabad__Tomato,2017-02-27,2025-10-06,316,450,134,0.2978,kept
+Fatehpur,Green Chilli,Fatehpur__Green Chilli,2016-08-01,2025-10-27,481,483,2,0.0041,kept
+Fatehpur,Onion,Fatehpur__Onion,2014-12-29,2025-10-27,560,566,6,0.0106,kept
+Fatehpur,Potato,Fatehpur__Potato,2014-12-29,2025-10-27,566,566,0,0.0,kept
+Fatehpur,Tomato,Fatehpur__Tomato,2014-12-29,2025-10-27,561,566,5,0.0088,kept
+Fatehpur,Wheat,Fatehpur__Wheat,2014-12-29,2025-11-03,566,567,1,0.0018,kept
+Fatehpur Sikri,Green Chilli,Fatehpur Sikri__Green Chilli,2017-06-19,2025-10-06,341,434,93,0.2143,kept
+Fatehpur Sikri,Onion,Fatehpur Sikri__Onion,2015-01-26,2025-10-06,425,559,134,0.2397,kept
+Fatehpur Sikri,Tomato,Fatehpur Sikri__Tomato,2017-06-19,2025-07-21,350,423,73,0.1726,kept
+Fatehpur Sikri,Wheat,Fatehpur Sikri__Wheat,2015-01-26,2025-10-27,414,562,148,0.2633,kept
+Firozabad,Cauliflower,Firozabad__Cauliflower,2014-12-29,2025-10-27,399,566,167,0.2951,kept
+Firozabad,Green Chilli,Firozabad__Green Chilli,2015-01-05,2025-11-03,487,566,79,0.1396,kept
+Firozabad,Onion,Firozabad__Onion,2014-12-29,2025-11-03,551,567,16,0.0282,kept
+Firozabad,Potato,Firozabad__Potato,2020-09-28,2023-12-04,167,167,0,0.0,kept
+Firozabad,Wheat,Firozabad__Wheat,2014-12-29,2025-10-27,551,566,15,0.0265,kept
+Gadaura,Green Chilli,Gadaura__Green Chilli,2017-09-25,2025-11-03,396,424,28,0.066,kept
+Gadaura,Onion,Gadaura__Onion,2015-01-26,2025-11-03,426,563,137,0.2433,kept
+Gangoh,Brinjal,Gangoh__Brinjal,2017-06-26,2025-10-27,353,436,83,0.1904,kept
+Gangoh,Cauliflower,Gangoh__Cauliflower,2021-11-15,2025-10-27,145,207,62,0.2995,kept
+Gangoh,Green Chilli,Gangoh__Green Chilli,2017-06-05,2025-10-20,378,438,60,0.137,kept
+Gangoh,Onion,Gangoh__Onion,2016-04-25,2025-11-03,378,498,120,0.241,kept
+Gangoh,Potato,Gangoh__Potato,2015-05-25,2025-11-03,428,546,118,0.2161,kept
+Gangoh,Tomato,Gangoh__Tomato,2017-06-05,2025-10-27,396,439,43,0.0979,kept
+Gazipur,Green Chilli,Gazipur__Green Chilli,2017-09-11,2025-10-27,414,425,11,0.0259,kept
+Gazipur,Onion,Gazipur__Onion,2014-12-29,2025-11-03,455,567,112,0.1975,kept
+Gazipur,Potato,Gazipur__Potato,2019-09-02,2025-10-20,315,321,6,0.0187,kept
+Gazipur,Wheat,Gazipur__Wheat,2014-12-29,2025-11-03,558,567,9,0.0159,kept
+Ghaziabad,Brinjal,Ghaziabad__Brinjal,2018-01-15,2025-10-27,402,407,5,0.0123,kept
+Ghaziabad,Cauliflower,Ghaziabad__Cauliflower,2018-01-15,2025-03-31,284,377,93,0.2467,kept
+Ghaziabad,Green Chilli,Ghaziabad__Green Chilli,2014-12-29,2025-10-27,564,566,2,0.0035,kept
+Ghaziabad,Onion,Ghaziabad__Onion,2014-12-29,2025-10-13,559,564,5,0.0089,kept
+Ghaziabad,Potato,Ghaziabad__Potato,2018-01-15,2025-10-27,404,407,3,0.0074,kept
+Ghaziabad,Tomato,Ghaziabad__Tomato,2014-12-29,2025-10-27,560,566,6,0.0106,kept
+Ghaziabad,Wheat,Ghaziabad__Wheat,2014-12-29,2025-10-27,563,566,3,0.0053,kept
+Ghiraur,Brinjal,Ghiraur__Brinjal,2018-12-17,2025-11-03,356,360,4,0.0111,kept
+Ghiraur,Green Chilli,Ghiraur__Green Chilli,2017-06-26,2025-10-27,432,436,4,0.0092,kept
+Ghiraur,Onion,Ghiraur__Onion,2017-06-26,2025-11-03,427,437,10,0.0229,kept
+Ghiraur,Wheat,Ghiraur__Wheat,2015-01-26,2025-10-27,376,562,186,0.331,kept
+Golagokarnath,Green Chilli,Golagokarnath__Green Chilli,2016-12-12,2025-10-13,441,462,21,0.0455,kept
+Golagokarnath,Onion,Golagokarnath__Onion,2015-05-25,2025-11-03,466,546,80,0.1465,kept
+Golagokarnath,Paddy (Dhan)(Common),Golagokarnath__Paddy (Dhan)(Common),2015-02-23,2025-11-03,364,559,195,0.3488,kept
+Golagokarnath,Wheat,Golagokarnath__Wheat,2015-01-26,2025-10-27,469,562,93,0.1655,kept
+Gonda,Brinjal,Gonda__Brinjal,2016-07-04,2025-11-03,485,488,3,0.0061,kept
+Gonda,Cauliflower,Gonda__Cauliflower,2023-07-17,2025-11-03,104,121,17,0.1405,kept
+Gonda,Green Chilli,Gonda__Green Chilli,2016-07-04,2025-10-20,482,486,4,0.0082,kept
+Gonda,Onion,Gonda__Onion,2014-12-29,2025-11-03,550,567,17,0.03,kept
+Gonda,Paddy (Dhan)(Common),Gonda__Paddy (Dhan)(Common),2015-01-26,2025-11-03,543,563,20,0.0355,kept
+Gonda,Potato,Gonda__Potato,2014-12-29,2021-10-18,354,356,2,0.0056,kept
+Gonda,Tomato,Gonda__Tomato,2015-03-16,2025-03-17,515,523,8,0.0153,kept
+Gonda,Wheat,Gonda__Wheat,2014-12-29,2025-11-03,564,567,3,0.0053,kept
+Gopiganj,Onion,Gopiganj__Onion,2017-07-10,2025-10-27,379,434,55,0.1267,kept
+Gopiganj,Wheat,Gopiganj__Wheat,2017-07-10,2025-10-13,323,432,109,0.2523,kept
+Gorakhpur,Brinjal,Gorakhpur__Brinjal,2022-08-22,2025-11-03,168,168,0,0.0,kept
+Gorakhpur,Cauliflower,Gorakhpur__Cauliflower,2017-10-09,2025-10-27,285,421,136,0.323,kept
+Gorakhpur,Green Chilli,Gorakhpur__Green Chilli,2017-10-09,2025-10-20,419,420,1,0.0024,kept
+Gorakhpur,Onion,Gorakhpur__Onion,2014-12-29,2025-10-27,548,566,18,0.0318,kept
+Gorakhpur,Paddy (Dhan)(Common),Gorakhpur__Paddy (Dhan)(Common),2021-06-21,2025-10-27,226,228,2,0.0088,kept
+Gorakhpur,Wheat,Gorakhpur__Wheat,2014-12-29,2025-11-03,553,567,14,0.0247,kept
+Gulavati,Cauliflower,Gulavati__Cauliflower,2014-12-29,2025-11-03,421,567,146,0.2575,kept
+Gulavati,Green Chilli,Gulavati__Green Chilli,2016-04-11,2025-11-03,389,500,111,0.222,kept
+Gulavati,Wheat,Gulavati__Wheat,2014-12-29,2020-06-29,228,288,60,0.2083,kept
+Gurusarai,Onion,Gurusarai__Onion,2018-07-16,2025-10-27,370,381,11,0.0289,kept
+Gurusarai,Potato,Gurusarai__Potato,2018-07-16,2025-10-27,379,381,2,0.0052,kept
+Gurusarai,Wheat,Gurusarai__Wheat,2018-07-16,2025-10-27,360,381,21,0.0551,kept
+Haathras,Brinjal,Haathras__Brinjal,2014-12-29,2025-07-28,395,553,158,0.2857,kept
+Haathras,Cauliflower,Haathras__Cauliflower,2014-12-29,2025-11-03,552,567,15,0.0265,kept
+Haathras,Green Chilli,Haathras__Green Chilli,2014-12-29,2025-10-27,554,566,12,0.0212,kept
+Haathras,Onion,Haathras__Onion,2015-06-15,2025-11-03,536,543,7,0.0129,kept
+Haathras,Potato,Haathras__Potato,2017-04-17,2025-11-03,442,447,5,0.0112,kept
+Haathras,Tomato,Haathras__Tomato,2014-12-29,2025-11-03,508,567,59,0.1041,kept
+Haathras,Wheat,Haathras__Wheat,2014-12-29,2025-10-27,540,566,26,0.0459,kept
+Haatpipliya,Cauliflower,Haatpipliya__Cauliflower,2014-12-29,2023-12-18,426,469,43,0.0917,kept
+Haatpipliya,Green Chilli,Haatpipliya__Green Chilli,2014-12-29,2023-12-18,452,469,17,0.0362,kept
+Hapur,Brinjal,Hapur__Brinjal,2014-12-29,2025-11-03,542,567,25,0.0441,kept
+Hapur,Cauliflower,Hapur__Cauliflower,2019-10-21,2025-10-27,258,315,57,0.181,kept
+Hapur,Green Chilli,Hapur__Green Chilli,2016-09-19,2025-11-03,475,477,2,0.0042,kept
+Hapur,Onion,Hapur__Onion,2014-12-29,2025-11-03,545,567,22,0.0388,kept
+Hapur,Potato,Hapur__Potato,2014-12-29,2025-10-13,546,564,18,0.0319,kept
+Hapur,Tomato,Hapur__Tomato,2014-12-29,2025-11-03,546,567,21,0.037,kept
+Hapur,Wheat,Hapur__Wheat,2014-12-29,2025-10-27,545,566,21,0.0371,kept
+Harda (F&V),Green Chilli,Harda (F&V)__Green Chilli,2019-12-16,2025-11-03,219,308,89,0.289,kept
+Harda (F&V),Potato,Harda (F&V)__Potato,2021-06-21,2023-12-18,131,131,0,0.0,kept
+Hardoi,Brinjal,Hardoi__Brinjal,2019-04-22,2025-11-03,342,342,0,0.0,kept
+Hardoi,Green Chilli,Hardoi__Green Chilli,2018-07-09,2023-05-15,253,254,1,0.0039,kept
+Hardoi,Wheat,Hardoi__Wheat,2014-12-29,2025-11-03,563,567,4,0.0071,kept
+Hargaon (Laharpur),Wheat,Hargaon (Laharpur)__Wheat,2019-04-29,2025-10-27,241,340,99,0.2912,kept
+Hasanpur,Green Chilli,Hasanpur__Green Chilli,2018-11-19,2025-10-27,333,363,30,0.0826,kept
+Hoshangabad,Cauliflower,Hoshangabad__Cauliflower,2020-09-07,2023-12-18,164,172,8,0.0465,kept
+Hoshangabad,Green Chilli,Hoshangabad__Green Chilli,2020-09-07,2023-12-18,164,172,8,0.0465,kept
+Hoshangabad,Tomato,Hoshangabad__Tomato,2020-09-07,2023-12-18,161,172,11,0.064,kept
+Indore (F&V),Green Chilli,Indore (F&V)__Green Chilli,2014-12-29,2025-10-27,469,566,97,0.1714,kept
+Indore (F&V),Potato,Indore (F&V)__Potato,2014-12-29,2025-08-11,422,555,133,0.2396,kept
+Indore (F&V),Tomato,Indore (F&V)__Tomato,2015-01-05,2022-05-09,278,384,106,0.276,kept
+Itarsi,Green Chilli,Itarsi__Green Chilli,2021-01-25,2023-05-22,110,122,12,0.0984,kept
+Jabalpur (F&V),Green Chilli,Jabalpur (F&V)__Green Chilli,2016-08-22,2025-11-03,385,481,96,0.1996,kept
+Jabalpur (F&V),Potato,Jabalpur (F&V)__Potato,2016-08-22,2025-10-27,390,480,90,0.1875,kept
+Jabalpur (F&V),Tomato,Jabalpur (F&V)__Tomato,2016-08-22,2025-10-27,385,480,95,0.1979,kept
+Jafarganj,Green Chilli,Jafarganj__Green Chilli,2018-07-30,2025-10-13,355,377,22,0.0584,kept
+Jafarganj,Onion,Jafarganj__Onion,2015-01-05,2025-10-13,531,563,32,0.0568,kept
+Jafarganj,Paddy (Dhan)(Common),Jafarganj__Paddy (Dhan)(Common),2018-12-24,2025-10-13,264,356,92,0.2584,kept
+Jafarganj,Potato,Jafarganj__Potato,2015-01-05,2021-11-22,353,360,7,0.0194,kept
+Jafarganj,Tomato,Jafarganj__Tomato,2018-07-30,2025-04-28,342,353,11,0.0312,kept
+Jafarganj,Wheat,Jafarganj__Wheat,2015-01-05,2025-10-27,533,565,32,0.0566,kept
+Jagnair,Cauliflower,Jagnair__Cauliflower,2017-08-21,2025-10-13,366,426,60,0.1408,kept
+Jagnair,Green Chilli,Jagnair__Green Chilli,2017-08-14,2025-11-03,397,430,33,0.0767,kept
+Jagnair,Onion,Jagnair__Onion,2015-01-26,2025-11-03,409,563,154,0.2735,kept
+Jagnair,Potato,Jagnair__Potato,2015-01-26,2025-10-13,424,560,136,0.2429,kept
+Jagnair,Tomato,Jagnair__Tomato,2019-06-03,2025-10-13,296,333,37,0.1111,kept
+Jagnair,Wheat,Jagnair__Wheat,2015-01-26,2025-10-27,366,562,196,0.3488,kept
+Jahanabad,Wheat,Jahanabad__Wheat,2014-12-29,2025-11-03,389,567,178,0.3139,kept
+Jahangirabad,Brinjal,Jahangirabad__Brinjal,2015-04-27,2025-11-03,481,550,69,0.1255,kept
+Jahangirabad,Cauliflower,Jahangirabad__Cauliflower,2015-04-27,2025-11-03,380,550,170,0.3091,kept
+Jahangirabad,Green Chilli,Jahangirabad__Green Chilli,2016-10-10,2025-11-03,452,474,22,0.0464,kept
+Jahangirabad,Onion,Jahangirabad__Onion,2015-04-27,2025-10-27,474,549,75,0.1366,kept
+Jahangirabad,Potato,Jahangirabad__Potato,2017-12-25,2025-10-20,401,409,8,0.0196,kept
+Jahangirabad,Tomato,Jahangirabad__Tomato,2018-07-09,2025-10-20,355,381,26,0.0682,kept
+Jahangirabad,Wheat,Jahangirabad__Wheat,2015-04-27,2025-11-03,470,550,80,0.1455,kept
+Jalalabad,Brinjal,Jalalabad__Brinjal,2017-06-12,2025-10-27,415,438,23,0.0525,kept
+Jalalabad,Cauliflower,Jalalabad__Cauliflower,2017-11-13,2025-11-03,263,417,154,0.3693,kept
+Jalaun,Brinjal,Jalaun__Brinjal,2018-07-02,2025-11-03,381,384,3,0.0078,kept
+Jalaun,Cauliflower,Jalaun__Cauliflower,2018-07-16,2025-11-03,340,382,42,0.1099,kept
+Jalaun,Green Chilli,Jalaun__Green Chilli,2015-09-28,2025-11-03,457,528,71,0.1345,kept
+Jalaun,Onion,Jalaun__Onion,2018-07-02,2025-11-03,373,384,11,0.0286,kept
+Jalaun,Potato,Jalaun__Potato,2019-09-02,2025-11-03,322,323,1,0.0031,kept
+Jalaun,Tomato,Jalaun__Tomato,2018-07-16,2025-11-03,380,382,2,0.0052,kept
+Jalaun,Wheat,Jalaun__Wheat,2017-07-10,2025-11-03,385,435,50,0.1149,kept
+Jalgaon,Onion,Jalgaon__Onion,2014-12-29,2025-01-20,521,526,5,0.0095,kept
+Jangipura,Brinjal,Jangipura__Brinjal,2017-09-18,2025-02-24,285,389,104,0.2674,kept
+Jangipura,Green Chilli,Jangipura__Green Chilli,2018-06-11,2025-06-23,260,368,108,0.2935,kept
+Jangipura,Onion,Jangipura__Onion,2016-03-28,2025-10-06,327,498,171,0.3434,kept
+Jangipura,Potato,Jangipura__Potato,2019-09-02,2025-10-13,208,320,112,0.35,kept
+Jangipura,Wheat,Jangipura__Wheat,2016-01-25,2025-10-13,338,508,170,0.3346,kept
+Jasra,Brinjal,Jasra__Brinjal,2019-09-23,2025-10-20,306,318,12,0.0377,kept
+Jasra,Green Chilli,Jasra__Green Chilli,2019-09-16,2025-10-20,278,319,41,0.1285,kept
+Jasra,Onion,Jasra__Onion,2014-12-29,2025-10-27,475,566,91,0.1608,kept
+Jasra,Potato,Jasra__Potato,2018-07-02,2025-10-27,368,383,15,0.0392,kept
+Jasra,Tomato,Jasra__Tomato,2014-12-29,2025-07-21,445,552,107,0.1938,kept
+Jasra,Wheat,Jasra__Wheat,2014-12-29,2025-11-03,375,567,192,0.3386,kept
+Jasvantnagar,Cauliflower,Jasvantnagar__Cauliflower,2017-10-02,2025-10-20,312,421,109,0.2589,kept
+Jasvantnagar,Green Chilli,Jasvantnagar__Green Chilli,2017-06-12,2025-10-27,426,438,12,0.0274,kept
+Jasvantnagar,Onion,Jasvantnagar__Onion,2014-12-29,2025-11-03,430,567,137,0.2416,kept
+Jasvantnagar,Potato,Jasvantnagar__Potato,2014-12-29,2022-11-07,374,411,37,0.09,kept
+Jaunpur,Green Chilli,Jaunpur__Green Chilli,2019-02-25,2025-11-03,349,350,1,0.0029,kept
+Jaunpur,Onion,Jaunpur__Onion,2017-01-30,2025-11-03,453,458,5,0.0109,kept
+Jaunpur,Wheat,Jaunpur__Wheat,2017-01-23,2025-11-03,459,459,0,0.0,kept
+Jayas,Onion,Jayas__Onion,2014-12-29,2025-11-03,490,567,77,0.1358,kept
+Jayas,Paddy (Dhan)(Common),Jayas__Paddy (Dhan)(Common),2016-11-14,2025-11-03,410,469,59,0.1258,kept
+Jayas,Potato,Jayas__Potato,2014-12-29,2025-11-03,463,567,104,0.1834,kept
+Jayas,Wheat,Jayas__Wheat,2014-12-29,2025-11-03,520,567,47,0.0829,kept
+Jhansi,Brinjal,Jhansi__Brinjal,2017-04-24,2025-11-03,379,446,67,0.1502,kept
+Jhansi,Green Chilli,Jhansi__Green Chilli,2017-07-24,2025-10-06,368,429,61,0.1422,kept
+Jhansi,Onion,Jhansi__Onion,2017-04-24,2025-11-03,357,446,89,0.1996,kept
+Jhansi,Potato,Jhansi__Potato,2017-04-24,2025-11-03,320,446,126,0.2825,kept
+Jhansi,Tomato,Jhansi__Tomato,2017-04-24,2025-07-07,344,429,85,0.1981,kept
+Jhansi,Wheat,Jhansi__Wheat,2014-12-29,2024-05-20,459,491,32,0.0652,kept
+Jhijhank,Brinjal,Jhijhank__Brinjal,2020-08-24,2025-08-25,204,262,58,0.2214,kept
+Jhijhank,Green Chilli,Jhijhank__Green Chilli,2018-07-16,2025-09-22,267,376,109,0.2899,kept
+Jhijhank,Onion,Jhijhank__Onion,2014-12-29,2025-09-22,344,561,217,0.3868,kept
+Jhijhank,Tomato,Jhijhank__Tomato,2018-07-16,2025-09-22,309,376,67,0.1782,kept
+Jhijhank,Wheat,Jhijhank__Wheat,2014-12-29,2025-09-15,385,560,175,0.3125,kept
+Kairana,Brinjal,Kairana__Brinjal,2020-02-10,2025-11-03,224,300,76,0.2533,kept
+Kairana,Green Chilli,Kairana__Green Chilli,2017-07-03,2025-11-03,291,436,145,0.3326,kept
+Kairana,Onion,Kairana__Onion,2020-02-10,2025-11-03,247,300,53,0.1767,kept
+Kairana,Potato,Kairana__Potato,2020-02-10,2025-10-27,246,299,53,0.1773,kept
+Kamlaganj,Onion,Kamlaganj__Onion,2020-05-11,2025-11-03,285,287,2,0.007,kept
+Kamlaganj,Potato,Kamlaganj__Potato,2017-07-24,2025-11-03,346,433,87,0.2009,kept
+Kannauj,Green Chilli,Kannauj__Green Chilli,2017-09-11,2025-10-13,416,423,7,0.0165,kept
+Kannauj,Onion,Kannauj__Onion,2014-12-29,2025-11-03,557,567,10,0.0176,kept
+Kannauj,Potato,Kannauj__Potato,2014-12-29,2019-01-28,214,214,0,0.0,kept
+Kannauj,Wheat,Kannauj__Wheat,2014-12-29,2025-11-03,562,567,5,0.0088,kept
+Kanpur (Grain),Brinjal,Kanpur (Grain)__Brinjal,2020-08-31,2025-10-27,268,270,2,0.0074,kept
+Kanpur (Grain),Green Chilli,Kanpur (Grain)__Green Chilli,2021-09-27,2025-10-13,211,212,1,0.0047,kept
+Kanpur (Grain),Onion,Kanpur (Grain)__Onion,2014-12-29,2025-11-03,556,567,11,0.0194,kept
+Kanpur (Grain),Potato,Kanpur (Grain)__Potato,2014-12-29,2025-11-03,566,567,1,0.0018,kept
+Kanpur (Grain),Tomato,Kanpur (Grain)__Tomato,2014-12-29,2025-10-27,559,566,7,0.0124,kept
+Kanpur (Grain),Wheat,Kanpur (Grain)__Wheat,2014-12-29,2025-11-03,563,567,4,0.0071,kept
+Karvi,Brinjal,Karvi__Brinjal,2018-06-18,2025-10-13,353,383,30,0.0783,kept
+Karvi,Green Chilli,Karvi__Green Chilli,2018-06-25,2025-10-27,356,384,28,0.0729,kept
+Karvi,Onion,Karvi__Onion,2014-12-29,2025-10-27,533,566,33,0.0583,kept
+Karvi,Potato,Karvi__Potato,2020-08-24,2025-10-27,271,271,0,0.0,kept
+Karvi,Tomato,Karvi__Tomato,2018-06-18,2025-11-03,280,386,106,0.2746,kept
+Karvi,Wheat,Karvi__Wheat,2014-12-29,2025-10-27,523,566,43,0.076,kept
+Kasganj,Cauliflower,Kasganj__Cauliflower,2015-08-03,2025-10-27,454,535,81,0.1514,kept
+Kasganj,Green Chilli,Kasganj__Green Chilli,2017-09-11,2025-10-27,377,425,48,0.1129,kept
+Kasganj,Onion,Kasganj__Onion,2017-09-11,2025-11-03,420,426,6,0.0141,kept
+Kasganj,Potato,Kasganj__Potato,2014-12-29,2025-11-03,558,567,9,0.0159,kept
+Kasganj,Wheat,Kasganj__Wheat,2014-12-29,2025-11-03,556,567,11,0.0194,kept
+Katangi,Paddy (Dhan)(Common),Katangi__Paddy (Dhan)(Common),2015-02-02,2025-06-30,376,544,168,0.3088,kept
+Katni,Paddy (Dhan)(Common),Katni__Paddy (Dhan)(Common),2021-09-13,2025-10-06,170,213,43,0.2019,kept
+Kayamganj,Green Chilli,Kayamganj__Green Chilli,2017-09-11,2025-11-03,391,426,35,0.0822,kept
+Kayamganj,Onion,Kayamganj__Onion,2016-09-26,2025-10-27,452,475,23,0.0484,kept
+Kayamganj,Potato,Kayamganj__Potato,2016-09-26,2025-11-03,466,476,10,0.021,kept
+Kayamganj,Wheat,Kayamganj__Wheat,2016-09-26,2025-10-27,450,475,25,0.0526,kept
+Khaga,Brinjal,Khaga__Brinjal,2022-07-25,2025-11-03,110,172,62,0.3605,kept
+Khaga,Green Chilli,Khaga__Green Chilli,2017-07-03,2025-10-20,296,434,138,0.318,kept
+Khaga,Onion,Khaga__Onion,2014-12-29,2025-10-27,345,566,221,0.3905,kept
+Khaga,Potato,Khaga__Potato,2022-07-18,2025-11-03,172,173,1,0.0058,kept
+Khaga,Wheat,Khaga__Wheat,2014-12-29,2025-11-03,379,567,188,0.3316,kept
+Khair,Brinjal,Khair__Brinjal,2016-08-01,2025-11-03,438,484,46,0.095,kept
+Khair,Cauliflower,Khair__Cauliflower,2016-08-22,2025-11-03,322,481,159,0.3306,kept
+Khair,Green Chilli,Khair__Green Chilli,2014-12-29,2025-11-03,487,567,80,0.1411,kept
+Khair,Onion,Khair__Onion,2014-12-29,2025-01-13,462,525,63,0.12,kept
+Khair,Potato,Khair__Potato,2018-07-23,2025-01-13,321,339,18,0.0531,kept
+Khair,Wheat,Khair__Wheat,2014-12-29,2025-06-16,446,547,101,0.1846,kept
+Khairagarh,Brinjal,Khairagarh__Brinjal,2017-04-17,2025-02-17,323,410,87,0.2122,kept
+Khairagarh,Cauliflower,Khairagarh__Cauliflower,2014-12-29,2025-02-17,375,530,155,0.2925,kept
+Khairagarh,Green Chilli,Khairagarh__Green Chilli,2017-04-17,2025-11-03,357,447,90,0.2013,kept
+Khairagarh,Onion,Khairagarh__Onion,2014-12-29,2025-11-03,468,567,99,0.1746,kept
+Khairagarh,Potato,Khairagarh__Potato,2014-12-29,2025-11-03,493,567,74,0.1305,kept
+Khairagarh,Tomato,Khairagarh__Tomato,2017-04-24,2025-10-27,354,445,91,0.2045,kept
+Khairagarh,Wheat,Khairagarh__Wheat,2014-12-29,2025-11-03,473,567,94,0.1658,kept
+Khalilabad,Green Chilli,Khalilabad__Green Chilli,2017-09-11,2025-10-20,411,424,13,0.0307,kept
+Khalilabad,Onion,Khalilabad__Onion,2017-09-18,2025-10-27,390,424,34,0.0802,kept
+Khalilabad,Potato,Khalilabad__Potato,2019-09-02,2025-11-03,319,323,4,0.0124,kept
+Khandhla,Brinjal,Khandhla__Brinjal,2019-08-26,2025-10-27,272,323,51,0.1579,kept
+Khandhla,Green Chilli,Khandhla__Green Chilli,2017-06-26,2025-11-03,374,437,63,0.1442,kept
+Khandhla,Onion,Khandhla__Onion,2017-07-03,2025-01-13,338,394,56,0.1421,kept
+Khargone,Green Chilli,Khargone__Green Chilli,2021-11-08,2023-12-18,111,111,0,0.0,kept
+Khargone,Tomato,Khargone__Tomato,2021-11-08,2023-12-18,108,111,3,0.027,kept
+Khatauli,Brinjal,Khatauli__Brinjal,2014-12-29,2025-11-03,456,567,111,0.1958,kept
+Khatauli,Cauliflower,Khatauli__Cauliflower,2019-08-19,2025-10-20,223,323,100,0.3096,kept
+Khatauli,Green Chilli,Khatauli__Green Chilli,2014-12-29,2025-11-03,443,567,124,0.2187,kept
+Khekda,Brinjal,Khekda__Brinjal,2015-04-13,2025-10-27,411,551,140,0.2541,kept
+Khekda,Green Chilli,Khekda__Green Chilli,2015-03-09,2025-10-27,434,556,122,0.2194,kept
+Khekda,Onion,Khekda__Onion,2015-01-26,2025-11-03,400,563,163,0.2895,kept
+Khekda,Tomato,Khekda__Tomato,2017-04-24,2025-10-27,351,445,94,0.2112,kept
+Khurja,Brinjal,Khurja__Brinjal,2015-01-19,2025-11-03,469,564,95,0.1684,kept
+Khurja,Cauliflower,Khurja__Cauliflower,2015-01-19,2025-11-03,398,564,166,0.2943,kept
+Khurja,Green Chilli,Khurja__Green Chilli,2014-12-29,2025-10-27,465,566,101,0.1784,kept
+Khurja,Onion,Khurja__Onion,2015-01-19,2025-11-03,464,564,100,0.1773,kept
+Khurja,Potato,Khurja__Potato,2017-06-19,2025-10-20,401,436,35,0.0803,kept
+Khurja,Wheat,Khurja__Wheat,2014-12-29,2025-10-27,460,566,106,0.1873,kept
+Kiratpur,Potato,Kiratpur__Potato,2015-01-26,2025-01-13,335,521,186,0.357,kept
+Kiratpur,Tomato,Kiratpur__Tomato,2017-06-12,2025-01-13,323,397,74,0.1864,kept
+Kishunpur,Wheat,Kishunpur__Wheat,2015-01-26,2025-10-27,428,562,134,0.2384,kept
+Konch,Brinjal,Konch__Brinjal,2017-02-27,2024-09-30,392,397,5,0.0126,kept
+Konch,Cauliflower,Konch__Cauliflower,2018-10-29,2024-06-17,221,295,74,0.2508,kept
+Konch,Green Chilli,Konch__Green Chilli,2017-02-27,2025-10-13,399,451,52,0.1153,kept
+Konch,Onion,Konch__Onion,2017-02-27,2025-10-13,410,451,41,0.0909,kept
+Konch,Potato,Konch__Potato,2017-10-23,2025-08-18,276,409,133,0.3252,kept
+Konch,Tomato,Konch__Tomato,2018-07-16,2025-08-18,335,371,36,0.097,kept
+Konch,Wheat,Konch__Wheat,2017-03-06,2025-11-03,417,453,36,0.0795,kept
+Kopaganj,Green Chilli,Kopaganj__Green Chilli,2018-05-07,2025-10-27,358,391,33,0.0844,kept
+Kopaganj,Onion,Kopaganj__Onion,2014-12-29,2025-11-03,478,567,89,0.157,kept
+Kopaganj,Potato,Kopaganj__Potato,2019-09-02,2025-11-03,304,323,19,0.0588,kept
+Kopaganj,Wheat,Kopaganj__Wheat,2014-12-29,2025-10-13,364,564,200,0.3546,kept
+Kosikalan,Cauliflower,Kosikalan__Cauliflower,2017-10-23,2025-11-03,408,420,12,0.0286,kept
+Kosikalan,Green Chilli,Kosikalan__Green Chilli,2018-03-26,2025-11-03,389,398,9,0.0226,kept
+Kosikalan,Onion,Kosikalan__Onion,2014-12-29,2025-11-03,449,567,118,0.2081,kept
+Kosikalan,Potato,Kosikalan__Potato,2014-12-29,2025-11-03,459,567,108,0.1905,kept
+Kosikalan,Tomato,Kosikalan__Tomato,2015-01-26,2025-11-03,444,563,119,0.2114,kept
+Kosikalan,Wheat,Kosikalan__Wheat,2015-01-26,2025-11-03,455,563,108,0.1918,kept
+Kukshi,Green Chilli,Kukshi__Green Chilli,2018-06-04,2023-12-18,263,290,27,0.0931,kept
+Kurara,Wheat,Kurara__Wheat,2016-05-23,2025-10-20,308,492,184,0.374,kept
+Kurdwadi (Modnimb),Onion,Kurdwadi (Modnimb)__Onion,2015-01-26,2025-01-20,335,522,187,0.3582,kept
+Lakhimpur,Brinjal,Lakhimpur__Brinjal,2014-12-29,2025-10-27,542,566,24,0.0424,kept
+Lakhimpur,Green Chilli,Lakhimpur__Green Chilli,2019-11-18,2025-10-27,309,311,2,0.0064,kept
+Lakhimpur,Onion,Lakhimpur__Onion,2014-12-29,2025-11-03,561,567,6,0.0106,kept
+Lakhimpur,Paddy (Dhan)(Common),Lakhimpur__Paddy (Dhan)(Common),2015-02-09,2025-11-03,541,561,20,0.0357,kept
+Lakhimpur,Tomato,Lakhimpur__Tomato,2014-12-29,2025-10-13,561,564,3,0.0053,kept
+Lakhimpur,Wheat,Lakhimpur__Wheat,2014-12-29,2025-10-27,564,566,2,0.0035,kept
+Lalganj,Green Chilli,Lalganj__Green Chilli,2014-12-29,2025-08-25,347,557,210,0.377,kept
+Lalganj,Onion,Lalganj__Onion,2014-12-29,2025-10-27,374,566,192,0.3392,kept
+Lalganj,Paddy (Dhan)(Common),Lalganj__Paddy (Dhan)(Common),2014-12-29,2025-11-03,374,567,193,0.3404,kept
+Lalganj,Potato,Lalganj__Potato,2014-12-29,2025-10-20,490,565,75,0.1327,kept
+Lalganj,Wheat,Lalganj__Wheat,2014-12-29,2025-10-27,422,566,144,0.2544,kept
+Lalitpur,Onion,Lalitpur__Onion,2017-12-11,2025-11-03,401,413,12,0.0291,kept
+Lalitpur,Wheat,Lalitpur__Wheat,2017-11-27,2025-11-03,395,415,20,0.0482,kept
+Lashkar (F&V),Cauliflower,Lashkar (F&V)__Cauliflower,2014-12-29,2025-11-03,480,567,87,0.1534,kept
+Lashkar (F&V),Green Chilli,Lashkar (F&V)__Green Chilli,2014-12-29,2025-11-03,491,567,76,0.134,kept
+Lucknow,Brinjal,Lucknow__Brinjal,2014-12-29,2025-10-27,557,566,9,0.0159,kept
+Lucknow,Green Chilli,Lucknow__Green Chilli,2014-12-29,2025-11-03,517,567,50,0.0882,kept
+Lucknow,Onion,Lucknow__Onion,2014-12-29,2025-10-20,555,565,10,0.0177,kept
+Lucknow,Potato,Lucknow__Potato,2019-09-02,2025-10-27,320,322,2,0.0062,kept
+Lucknow,Tomato,Lucknow__Tomato,2019-09-02,2025-10-27,319,322,3,0.0093,kept
+Lucknow,Wheat,Lucknow__Wheat,2014-12-29,2025-11-03,561,567,6,0.0106,kept
+Madhoganj,Brinjal,Madhoganj__Brinjal,2018-06-25,2025-10-27,383,384,1,0.0026,kept
+Madhoganj,Green Chilli,Madhoganj__Green Chilli,2019-09-02,2025-10-27,318,322,4,0.0124,kept
+Madhoganj,Onion,Madhoganj__Onion,2015-08-03,2025-11-03,530,536,6,0.0112,kept
+Madhoganj,Wheat,Madhoganj__Wheat,2015-08-03,2025-11-03,532,536,4,0.0075,kept
+Madhogarh,Wheat,Madhogarh__Wheat,2023-02-06,2025-08-18,112,133,21,0.1579,kept
+Mahoba,Green Chilli,Mahoba__Green Chilli,2018-09-24,2025-11-03,369,372,3,0.0081,kept
+Mahoba,Onion,Mahoba__Onion,2015-01-05,2025-11-03,477,566,89,0.1572,kept
+Mahoba,Potato,Mahoba__Potato,2019-09-09,2025-10-27,219,321,102,0.3178,kept
+Mahoba,Wheat,Mahoba__Wheat,2019-03-25,2025-10-27,339,345,6,0.0174,kept
+Maigalganj,Brinjal,Maigalganj__Brinjal,2020-08-31,2024-05-13,157,194,37,0.1907,kept
+Maigalganj,Green Chilli,Maigalganj__Green Chilli,2017-07-03,2025-11-03,315,436,121,0.2775,kept
+Maigalganj,Onion,Maigalganj__Onion,2015-03-23,2025-11-03,367,555,188,0.3387,kept
+Maigalganj,Wheat,Maigalganj__Wheat,2015-04-27,2025-11-03,367,550,183,0.3327,kept
+Mainpuri,Brinjal,Mainpuri__Brinjal,2015-01-12,2025-11-03,415,565,150,0.2655,kept
+Mainpuri,Green Chilli,Mainpuri__Green Chilli,2016-07-04,2025-10-27,485,487,2,0.0041,kept
+Mainpuri,Onion,Mainpuri__Onion,2014-12-29,2025-11-03,558,567,9,0.0159,kept
+Mainpuri,Tomato,Mainpuri__Tomato,2019-11-04,2025-10-27,311,313,2,0.0064,kept
+Mainpuri,Wheat,Mainpuri__Wheat,2015-01-05,2025-10-27,551,565,14,0.0248,kept
+Mathura,Cauliflower,Mathura__Cauliflower,2014-12-29,2025-10-27,387,566,179,0.3163,kept
+Mathura,Green Chilli,Mathura__Green Chilli,2014-12-29,2025-10-27,426,566,140,0.2473,kept
+Mathura,Onion,Mathura__Onion,2014-12-29,2025-10-20,556,565,9,0.0159,kept
+Mathura,Potato,Mathura__Potato,2014-12-29,2025-10-27,498,566,68,0.1201,kept
+Mathura,Tomato,Mathura__Tomato,2018-07-09,2025-10-20,379,381,2,0.0052,kept
+Mathura,Wheat,Mathura__Wheat,2014-12-29,2025-11-03,555,567,12,0.0212,kept
+Maudaha,Cauliflower,Maudaha__Cauliflower,2018-12-10,2023-03-27,154,225,71,0.3156,kept
+Maudaha,Green Chilli,Maudaha__Green Chilli,2018-12-10,2023-06-26,143,238,95,0.3992,kept
+Maudaha,Onion,Maudaha__Onion,2014-12-29,2024-10-07,458,511,53,0.1037,kept
+Maudaha,Potato,Maudaha__Potato,2019-09-02,2024-10-07,267,267,0,0.0,kept
+Maudaha,Tomato,Maudaha__Tomato,2018-07-16,2024-09-30,325,325,0,0.0,kept
+Maudaha,Wheat,Maudaha__Wheat,2014-12-29,2025-09-15,466,560,94,0.1679,kept
+Mauranipur,Green Chilli,Mauranipur__Green Chilli,2021-09-20,2025-09-15,195,209,14,0.067,kept
+Mauranipur,Onion,Mauranipur__Onion,2018-07-16,2025-11-03,374,382,8,0.0209,kept
+Mauranipur,Potato,Mauranipur__Potato,2018-07-16,2025-10-20,380,380,0,0.0,kept
+Mauranipur,Wheat,Mauranipur__Wheat,2015-04-13,2025-10-27,472,551,79,0.1434,kept
+Mawana,Brinjal,Mawana__Brinjal,2015-02-02,2025-05-26,375,539,164,0.3043,kept
+Mawana,Onion,Mawana__Onion,2014-12-29,2025-11-03,391,567,176,0.3104,kept
+Mawana,Potato,Mawana__Potato,2014-12-29,2025-11-03,422,567,145,0.2557,kept
+Meerut,Cauliflower,Meerut__Cauliflower,2016-11-07,2025-10-27,390,469,79,0.1684,kept
+Meerut,Green Chilli,Meerut__Green Chilli,2016-11-07,2025-10-27,462,469,7,0.0149,kept
+Meerut,Onion,Meerut__Onion,2014-12-29,2025-11-03,555,567,12,0.0212,kept
+Meerut,Potato,Meerut__Potato,2014-12-29,2025-11-03,560,567,7,0.0123,kept
+Meerut,Wheat,Meerut__Wheat,2014-12-29,2025-11-03,563,567,4,0.0071,kept
+Mehmoodabad,Brinjal,Mehmoodabad__Brinjal,2023-10-09,2025-10-27,107,108,1,0.0093,kept
+Mehmoodabad,Green Chilli,Mehmoodabad__Green Chilli,2017-02-13,2025-11-03,419,456,37,0.0811,kept
+Mehmoodabad,Onion,Mehmoodabad__Onion,2017-02-13,2025-11-03,435,456,21,0.0461,kept
+Mehmoodabad,Potato,Mehmoodabad__Potato,2023-10-09,2025-10-27,106,108,2,0.0185,kept
+Mehmoodabad,Wheat,Mehmoodabad__Wheat,2017-02-06,2025-11-03,324,457,133,0.291,kept
+Mhow,Green Chilli,Mhow__Green Chilli,2021-12-13,2023-12-18,105,106,1,0.0094,kept
+Mhow,Tomato,Mhow__Tomato,2021-04-05,2023-12-18,126,142,16,0.1127,kept
+Milak,Green Chilli,Milak__Green Chilli,2019-09-16,2025-10-13,252,318,66,0.2075,kept
+Milak,Onion,Milak__Onion,2019-09-16,2025-11-03,314,321,7,0.0218,kept
+Milak,Wheat,Milak__Wheat,2019-09-16,2025-10-27,252,320,68,0.2125,kept
+Mirzapur,Brinjal,Mirzapur__Brinjal,2020-08-24,2025-11-03,272,272,0,0.0,kept
+Mirzapur,Green Chilli,Mirzapur__Green Chilli,2018-07-02,2025-11-03,367,384,17,0.0443,kept
+Mirzapur,Onion,Mirzapur__Onion,2016-09-19,2025-11-03,440,477,37,0.0776,kept
+Mirzapur,Potato,Mirzapur__Potato,2020-10-12,2025-11-03,265,265,0,0.0,kept
+Mirzapur,Wheat,Mirzapur__Wheat,2017-09-18,2025-11-03,401,425,24,0.0565,kept
+Mohamadabad,Brinjal,Mohamadabad__Brinjal,2020-08-31,2025-11-03,183,271,88,0.3247,kept
+Mohamadabad,Green Chilli,Mohamadabad__Green Chilli,2023-07-03,2025-10-27,120,122,2,0.0164,kept
+Mohamadabad,Potato,Mohamadabad__Potato,2020-08-31,2025-11-03,266,271,5,0.0185,kept
+Mohamadabad,Wheat,Mohamadabad__Wheat,2018-04-09,2025-10-27,328,395,67,0.1696,kept
+Mohammdi,Green Chilli,Mohammdi__Green Chilli,2021-07-26,2025-10-27,222,223,1,0.0045,kept
+Mohgaon,Paddy (Dhan)(Common),Mohgaon__Paddy (Dhan)(Common),2015-01-05,2025-10-13,437,563,126,0.2238,kept
+Morena (F&V),Green Chilli,Morena (F&V)__Green Chilli,2014-12-29,2023-09-25,329,457,128,0.2801,kept
+Moth,Brinjal,Moth__Brinjal,2018-11-19,2023-07-31,215,246,31,0.126,kept
+Moth,Green Chilli,Moth__Green Chilli,2019-11-04,2023-07-31,196,196,0,0.0,kept
+Moth,Onion,Moth__Onion,2018-02-19,2025-10-27,385,402,17,0.0423,kept
+Moth,Potato,Moth__Potato,2018-02-19,2025-11-03,327,403,76,0.1886,kept
+Moth,Tomato,Moth__Tomato,2018-01-29,2025-11-03,325,406,81,0.1995,kept
+Mugrabaadshahpur,Green Chilli,Mugrabaadshahpur__Green Chilli,2017-06-12,2025-11-03,404,439,35,0.0797,kept
+Mugrabaadshahpur,Onion,Mugrabaadshahpur__Onion,2020-08-17,2025-11-03,264,273,9,0.033,kept
+Mugrabaadshahpur,Tomato,Mugrabaadshahpur__Tomato,2018-03-12,2025-11-03,384,400,16,0.04,kept
+Mugrabaadshahpur,Wheat,Mugrabaadshahpur__Wheat,2019-04-08,2025-11-03,275,344,69,0.2006,kept
+Multai,Tomato,Multai__Tomato,2019-03-11,2023-11-20,159,246,87,0.3537,kept
+Muradabad,Brinjal,Muradabad__Brinjal,2014-12-29,2025-10-27,566,566,0,0.0,kept
+Muradabad,Cauliflower,Muradabad__Cauliflower,2019-01-28,2025-10-27,291,353,62,0.1756,kept
+Muradabad,Green Chilli,Muradabad__Green Chilli,2019-04-01,2025-11-03,343,345,2,0.0058,kept
+Muradabad,Onion,Muradabad__Onion,2021-07-26,2025-10-27,223,223,0,0.0,kept
+Muradabad,Potato,Muradabad__Potato,2017-05-01,2025-11-03,445,445,0,0.0,kept
+Muradabad,Tomato,Muradabad__Tomato,2015-02-23,2025-11-03,458,559,101,0.1807,kept
+Muradnagar,Green Chilli,Muradnagar__Green Chilli,2017-07-03,2025-07-07,277,419,142,0.3389,kept
+Muradnagar,Tomato,Muradnagar__Tomato,2017-07-03,2025-11-03,302,436,134,0.3073,kept
+Muskara,Green Chilli,Muskara__Green Chilli,2020-03-30,2025-11-03,196,293,97,0.3311,kept
+Muskara,Onion,Muskara__Onion,2017-06-19,2025-11-03,412,438,26,0.0594,kept
+Muskara,Potato,Muskara__Potato,2017-06-19,2025-06-02,296,416,120,0.2885,kept
+Muskara,Wheat,Muskara__Wheat,2017-06-19,2025-11-03,423,438,15,0.0342,kept
+Muzzafarnagar,Brinjal,Muzzafarnagar__Brinjal,2019-06-17,2025-10-20,326,332,6,0.0181,kept
+Muzzafarnagar,Cauliflower,Muzzafarnagar__Cauliflower,2015-01-05,2025-10-06,418,562,144,0.2562,kept
+Muzzafarnagar,Green Chilli,Muzzafarnagar__Green Chilli,2014-12-29,2025-10-20,530,565,35,0.0619,kept
+Muzzafarnagar,Onion,Muzzafarnagar__Onion,2018-06-25,2025-10-06,375,381,6,0.0157,kept
+Muzzafarnagar,Potato,Muzzafarnagar__Potato,2014-12-29,2025-10-06,545,563,18,0.032,kept
+Muzzafarnagar,Wheat,Muzzafarnagar__Wheat,2014-12-29,2025-09-01,541,558,17,0.0305,kept
+Naanpara,Green Chilli,Naanpara__Green Chilli,2017-06-26,2025-10-06,391,433,42,0.097,kept
+Naanpara,Onion,Naanpara__Onion,2015-01-26,2025-10-27,418,562,144,0.2562,kept
+Naanpara,Potato,Naanpara__Potato,2019-09-02,2024-08-26,260,261,1,0.0038,kept
+Naanpara,Wheat,Naanpara__Wheat,2015-02-23,2025-10-27,414,558,144,0.2581,kept
+Nagina,Brinjal,Nagina__Brinjal,2019-09-02,2025-10-06,216,319,103,0.3229,kept
+Nagpur,Onion,Nagpur__Onion,2014-12-29,2025-01-20,505,526,21,0.0399,kept
+Nainpur,Paddy (Dhan)(Common),Nainpur__Paddy (Dhan)(Common),2014-12-29,2025-10-27,392,566,174,0.3074,kept
+Najibabad,Green Chilli,Najibabad__Green Chilli,2015-12-28,2025-10-13,317,512,195,0.3809,kept
+Najibabad,Potato,Najibabad__Potato,2015-02-23,2025-10-27,380,558,178,0.319,kept
+Naugarh,Green Chilli,Naugarh__Green Chilli,2018-10-01,2025-10-20,342,369,27,0.0732,kept
+Naugarh,Onion,Naugarh__Onion,2014-12-29,2025-10-27,347,566,219,0.3869,kept
+Naugarh,Potato,Naugarh__Potato,2019-09-02,2025-11-03,292,323,31,0.096,kept
+Naugarh,Tomato,Naugarh__Tomato,2023-02-06,2025-10-27,128,143,15,0.1049,kept
+Naugarh,Wheat,Naugarh__Wheat,2014-12-29,2025-11-03,493,567,74,0.1305,kept
+Nautnava,Cauliflower,Nautnava__Cauliflower,2018-10-22,2024-02-19,253,279,26,0.0932,kept
+Nautnava,Green Chilli,Nautnava__Green Chilli,2017-09-25,2025-11-03,417,424,7,0.0165,kept
+Nautnava,Onion,Nautnava__Onion,2015-01-26,2025-10-27,429,562,133,0.2367,kept
+Nautnava,Potato,Nautnava__Potato,2019-09-02,2025-10-27,312,322,10,0.0311,kept
+Nawabganj,Brinjal,Nawabganj__Brinjal,2022-07-11,2025-10-27,173,173,0,0.0,kept
+Nawabganj,Green Chilli,Nawabganj__Green Chilli,2019-11-25,2025-10-27,309,310,1,0.0032,kept
+Nawabganj,Onion,Nawabganj__Onion,2018-12-17,2025-10-27,339,359,20,0.0557,kept
+Nawabganj,Paddy (Dhan)(Common),Nawabganj__Paddy (Dhan)(Common),2020-11-30,2025-11-03,182,258,76,0.2946,kept
+Nawabganj,Potato,Nawabganj__Potato,2015-01-26,2025-10-27,392,562,170,0.3025,kept
+Nawabganj,Wheat,Nawabganj__Wheat,2015-02-23,2025-11-03,401,559,158,0.2826,kept
+Noida,Brinjal,Noida__Brinjal,2017-06-05,2025-10-27,398,439,41,0.0934,kept
+Noida,Cauliflower,Noida__Cauliflower,2019-10-28,2025-10-27,299,314,15,0.0478,kept
+Noida,Green Chilli,Noida__Green Chilli,2017-06-05,2025-10-20,366,438,72,0.1644,kept
+Noida,Onion,Noida__Onion,2020-08-24,2025-03-31,241,241,0,0.0,kept
+Noida,Potato,Noida__Potato,2017-06-05,2025-11-03,420,440,20,0.0455,kept
+Orai,Cauliflower,Orai__Cauliflower,2020-01-13,2025-10-27,243,303,60,0.198,kept
+Orai,Green Chilli,Orai__Green Chilli,2018-10-01,2025-10-27,370,370,0,0.0,kept
+Orai,Potato,Orai__Potato,2018-10-01,2024-09-16,309,312,3,0.0096,kept
+Orai,Tomato,Orai__Tomato,2019-03-25,2025-01-27,290,306,16,0.0523,kept
+Orai,Wheat,Orai__Wheat,2019-03-25,2025-10-27,337,345,8,0.0232,kept
+Paliakala,Brinjal,Paliakala__Brinjal,2019-07-29,2024-11-04,177,276,99,0.3587,kept
+Paliakala,Green Chilli,Paliakala__Green Chilli,2017-07-03,2025-04-21,337,408,71,0.174,kept
+Paliakala,Onion,Paliakala__Onion,2015-05-25,2025-10-06,379,542,163,0.3007,kept
+Paliakala,Wheat,Paliakala__Wheat,2015-02-23,2025-10-13,371,556,185,0.3327,kept
+Panchpedwa,Wheat,Panchpedwa__Wheat,2018-10-01,2025-11-03,232,371,139,0.3747,kept
+Pandhana (F&V),Tomato,Pandhana (F&V)__Tomato,2018-12-03,2023-12-18,224,264,40,0.1515,kept
+Pandharpur,Onion,Pandharpur__Onion,2014-12-29,2025-01-06,447,524,77,0.1469,kept
+Partaval,Green Chilli,Partaval__Green Chilli,2018-12-03,2025-10-27,358,361,3,0.0083,kept
+Partaval,Onion,Partaval__Onion,2014-12-29,2025-10-20,546,565,19,0.0336,kept
+Partaval,Paddy (Dhan)(Common),Partaval__Paddy (Dhan)(Common),2022-01-17,2025-10-27,141,198,57,0.2879,kept
+Partaval,Potato,Partaval__Potato,2021-02-22,2025-10-13,243,243,0,0.0,kept
+Partaval,Wheat,Partaval__Wheat,2014-12-29,2025-11-03,564,567,3,0.0053,kept
+Pathardi,Onion,Pathardi__Onion,2015-01-26,2025-01-20,441,522,81,0.1552,kept
+Pen,Onion,Pen__Onion,2021-03-22,2024-07-01,108,172,64,0.3721,kept
+Petlawad,Cauliflower,Petlawad__Cauliflower,2018-06-25,2023-12-18,256,287,31,0.108,kept
+Petlawad,Green Chilli,Petlawad__Green Chilli,2018-06-11,2023-12-18,279,289,10,0.0346,kept
+Pilibhit,Green Chilli,Pilibhit__Green Chilli,2014-12-29,2025-11-03,566,567,1,0.0018,kept
+Pilibhit,Onion,Pilibhit__Onion,2019-11-25,2025-11-03,310,311,1,0.0032,kept
+Pilibhit,Potato,Pilibhit__Potato,2017-11-20,2025-10-06,383,412,29,0.0704,kept
+Pilibhit,Wheat,Pilibhit__Wheat,2017-11-27,2025-10-13,403,412,9,0.0218,kept
+Pipariya,Tomato,Pipariya__Tomato,2018-11-19,2023-12-18,244,266,22,0.0827,kept
+Praswada,Paddy (Dhan)(Common),Praswada__Paddy (Dhan)(Common),2014-12-29,2024-08-19,303,504,201,0.3988,kept
+Pratapgarh,Cauliflower,Pratapgarh__Cauliflower,2016-11-07,2025-11-03,304,470,166,0.3532,kept
+Pratapgarh,Green Chilli,Pratapgarh__Green Chilli,2016-10-03,2025-11-03,455,475,20,0.0421,kept
+Pratapgarh,Onion,Pratapgarh__Onion,2017-07-24,2025-10-27,427,432,5,0.0116,kept
+Pratapgarh,Potato,Pratapgarh__Potato,2022-07-11,2025-10-27,172,173,1,0.0058,kept
+Pratapgarh,Tomato,Pratapgarh__Tomato,2022-10-10,2025-11-03,161,161,0,0.0,kept
+Pratapgarh,Wheat,Pratapgarh__Wheat,2016-04-11,2025-10-27,493,499,6,0.012,kept
+Pukharayan,Onion,Pukharayan__Onion,2014-12-29,2025-11-03,560,567,7,0.0123,kept
+Pukharayan,Potato,Pukharayan__Potato,2014-12-29,2025-11-03,565,567,2,0.0035,kept
+Pukharayan,Tomato,Pukharayan__Tomato,2014-12-29,2025-11-03,556,567,11,0.0194,kept
+Pukharayan,Wheat,Pukharayan__Wheat,2014-12-29,2025-10-13,561,564,3,0.0053,kept
+Puranpur,Cauliflower,Puranpur__Cauliflower,2017-11-13,2025-11-03,338,417,79,0.1894,kept
+Puranpur,Green Chilli,Puranpur__Green Chilli,2017-01-30,2025-11-03,455,458,3,0.0066,kept
+Puranpur,Onion,Puranpur__Onion,2017-09-18,2025-11-03,418,425,7,0.0165,kept
+Puranpur,Wheat,Puranpur__Wheat,2017-10-30,2025-11-03,407,419,12,0.0286,kept
+Purwa,Brinjal,Purwa__Brinjal,2019-11-25,2025-07-28,277,297,20,0.0673,kept
+Purwa,Green Chilli,Purwa__Green Chilli,2019-11-25,2025-07-28,291,297,6,0.0202,kept
+Purwa,Onion,Purwa__Onion,2017-06-26,2025-07-28,306,423,117,0.2766,kept
+Purwa,Potato,Purwa__Potato,2017-06-12,2025-07-28,396,425,29,0.0682,kept
+Purwa,Wheat,Purwa__Wheat,2017-06-19,2025-07-28,398,424,26,0.0613,kept
+Puwaha,Brinjal,Puwaha__Brinjal,2017-08-07,2025-10-27,390,430,40,0.093,kept
+Puwaha,Cauliflower,Puwaha__Cauliflower,2017-11-13,2025-11-03,262,417,155,0.3717,kept
+Puwaha,Green Chilli,Puwaha__Green Chilli,2017-06-05,2025-10-20,403,438,35,0.0799,kept
+Puwaha,Onion,Puwaha__Onion,2018-09-17,2025-11-03,369,373,4,0.0107,kept
+Puwaha,Potato,Puwaha__Potato,2019-09-02,2025-11-03,323,323,0,0.0,kept
+Puwaha,Wheat,Puwaha__Wheat,2017-07-31,2025-11-03,420,432,12,0.0278,kept
+Raath,Brinjal,Raath__Brinjal,2019-01-14,2023-01-02,151,208,57,0.274,kept
+Raath,Onion,Raath__Onion,2015-08-03,2023-10-16,414,429,15,0.035,kept
+Raath,Tomato,Raath__Tomato,2020-08-24,2023-10-16,163,165,2,0.0121,kept
+Raath,Wheat,Raath__Wheat,2014-12-29,2023-10-23,442,461,19,0.0412,kept
+Raibareilly,Brinjal,Raibareilly__Brinjal,2014-12-29,2025-11-03,422,567,145,0.2557,kept
+Raibareilly,Green Chilli,Raibareilly__Green Chilli,2014-12-29,2025-11-03,556,567,11,0.0194,kept
+Raibareilly,Onion,Raibareilly__Onion,2021-06-14,2025-11-03,230,230,0,0.0,kept
+Raibareilly,Paddy (Dhan)(Common),Raibareilly__Paddy (Dhan)(Common),2015-11-02,2025-11-03,463,523,60,0.1147,kept
+Raibareilly,Potato,Raibareilly__Potato,2018-06-04,2025-11-03,388,388,0,0.0,kept
+Raibareilly,Wheat,Raibareilly__Wheat,2014-12-29,2025-11-03,562,567,5,0.0088,kept
+Rajgarh,Green Chilli,Rajgarh__Green Chilli,2016-11-28,2023-12-18,304,369,65,0.1762,kept
+Rampur,Cauliflower,Rampur__Cauliflower,2018-09-24,2025-10-13,241,369,128,0.3469,kept
+Rampur,Green Chilli,Rampur__Green Chilli,2018-09-24,2025-10-27,240,371,131,0.3531,kept
+Rampur,Onion,Rampur__Onion,2019-12-09,2025-10-27,306,308,2,0.0065,kept
+Rampur,Potato,Rampur__Potato,2014-12-29,2025-11-03,565,567,2,0.0035,kept
+Rampur,Tomato,Rampur__Tomato,2017-04-24,2025-11-03,357,446,89,0.1996,kept
+Rampur,Wheat,Rampur__Wheat,2014-12-29,2025-11-03,559,567,8,0.0141,kept
+Rampurmaniharan,Brinjal,Rampurmaniharan__Brinjal,2017-06-26,2025-10-13,398,434,36,0.0829,kept
+Rampurmaniharan,Green Chilli,Rampurmaniharan__Green Chilli,2017-06-26,2025-10-06,393,433,40,0.0924,kept
+Rampurmaniharan,Onion,Rampurmaniharan__Onion,2015-02-02,2025-07-21,333,547,214,0.3912,kept
+Rasda,Green Chilli,Rasda__Green Chilli,2018-09-03,2025-10-27,357,374,17,0.0455,kept
+Rasda,Onion,Rasda__Onion,2020-08-24,2025-10-20,268,270,2,0.0074,kept
+Rasda,Potato,Rasda__Potato,2015-03-30,2025-10-27,435,553,118,0.2134,kept
+Rasda,Tomato,Rasda__Tomato,2018-09-10,2025-10-20,314,372,58,0.1559,kept
+Rasda,Wheat,Rasda__Wheat,2015-03-30,2025-10-27,376,553,177,0.3201,kept
+Richha,Paddy (Dhan)(Common),Richha__Paddy (Dhan)(Common),2017-06-26,2025-09-15,344,430,86,0.2,kept
+Robertsganj,Green Chilli,Robertsganj__Green Chilli,2017-09-11,2025-11-03,407,426,19,0.0446,kept
+Robertsganj,Onion,Robertsganj__Onion,2017-09-18,2025-10-27,416,424,8,0.0189,kept
+Robertsganj,Wheat,Robertsganj__Wheat,2015-01-26,2025-10-27,508,562,54,0.0961,kept
+Rudauli,Green Chilli,Rudauli__Green Chilli,2017-06-19,2025-10-27,379,437,58,0.1327,kept
+Rudauli,Onion,Rudauli__Onion,2018-09-10,2025-10-27,285,373,88,0.2359,kept
+Rudauli,Potato,Rudauli__Potato,2018-01-29,2025-10-20,275,404,129,0.3193,kept
+Rudauli,Tomato,Rudauli__Tomato,2018-02-12,2025-07-07,298,387,89,0.23,kept
+Rura,Green Chilli,Rura__Green Chilli,2018-12-03,2025-06-30,222,344,122,0.3547,kept
+Rura,Onion,Rura__Onion,2014-12-29,2025-10-27,351,566,215,0.3799,kept
+Rura,Potato,Rura__Potato,2014-12-29,2025-09-22,417,561,144,0.2567,kept
+Rura,Tomato,Rura__Tomato,2014-12-29,2025-10-27,356,566,210,0.371,kept
+Rura,Wheat,Rura__Wheat,2014-12-29,2025-10-27,357,566,209,0.3693,kept
+Safdarganj,Green Chilli,Safdarganj__Green Chilli,2018-07-23,2025-10-27,376,380,4,0.0105,kept
+Safdarganj,Onion,Safdarganj__Onion,2016-12-19,2025-10-27,449,463,14,0.0302,kept
+Safdarganj,Potato,Safdarganj__Potato,2017-01-16,2025-10-27,454,459,5,0.0109,kept
+Safdarganj,Wheat,Safdarganj__Wheat,2015-02-09,2025-11-03,425,561,136,0.2424,kept
+Sagar (F&V),Tomato,Sagar (F&V)__Tomato,2014-12-29,2025-11-03,455,567,112,0.1975,kept
+Saharanpur,Brinjal,Saharanpur__Brinjal,2014-12-29,2025-11-03,563,567,4,0.0071,kept
+Saharanpur,Cauliflower,Saharanpur__Cauliflower,2017-11-13,2025-11-03,355,417,62,0.1487,kept
+Saharanpur,Green Chilli,Saharanpur__Green Chilli,2019-03-25,2025-11-03,345,346,1,0.0029,kept
+Saharanpur,Onion,Saharanpur__Onion,2014-12-29,2025-11-03,560,567,7,0.0123,kept
+Saharanpur,Potato,Saharanpur__Potato,2014-12-29,2025-11-03,565,567,2,0.0035,kept
+Saharanpur,Wheat,Saharanpur__Wheat,2014-12-29,2025-10-20,562,565,3,0.0053,kept
+Sahiyapur,Cauliflower,Sahiyapur__Cauliflower,2017-11-20,2025-05-05,236,390,154,0.3949,kept
+Sahiyapur,Green Chilli,Sahiyapur__Green Chilli,2017-09-18,2025-10-20,384,423,39,0.0922,kept
+Sahiyapur,Onion,Sahiyapur__Onion,2015-01-26,2025-11-03,429,563,134,0.238,kept
+Sahiyapur,Paddy (Dhan)(Common),Sahiyapur__Paddy (Dhan)(Common),2022-01-17,2025-10-27,174,198,24,0.1212,kept
+Sahiyapur,Potato,Sahiyapur__Potato,2019-09-02,2025-11-03,283,323,40,0.1238,kept
+Sahiyapur,Wheat,Sahiyapur__Wheat,2015-01-26,2025-10-27,437,562,125,0.2224,kept
+Salon,Paddy (Dhan)(Common),Salon__Paddy (Dhan)(Common),2017-06-12,2025-03-03,388,404,16,0.0396,kept
+Salon,Potato,Salon__Potato,2017-06-12,2025-01-13,389,397,8,0.0202,kept
+Salon,Wheat,Salon__Wheat,2017-06-12,2025-08-18,383,428,45,0.1051,kept
+Sambhal,Brinjal,Sambhal__Brinjal,2019-03-25,2025-11-03,344,346,2,0.0058,kept
+Sambhal,Cauliflower,Sambhal__Cauliflower,2019-10-28,2025-11-03,315,315,0,0.0,kept
+Sambhal,Onion,Sambhal__Onion,2014-12-29,2025-11-03,451,567,116,0.2046,kept
+Sambhal,Potato,Sambhal__Potato,2018-09-17,2025-11-03,373,373,0,0.0,kept
+Sambhal,Tomato,Sambhal__Tomato,2014-12-29,2025-11-03,447,567,120,0.2116,kept
+Samsabad,Green Chilli,Samsabad__Green Chilli,2016-12-26,2025-11-03,326,463,137,0.2959,kept
+Sandi,Green Chilli,Sandi__Green Chilli,2023-08-21,2025-11-03,113,116,3,0.0259,kept
+Sandi,Paddy (Dhan)(Common),Sandi__Paddy (Dhan)(Common),2021-11-29,2025-11-03,148,206,58,0.2816,kept
+Sandi,Wheat,Sandi__Wheat,2021-11-22,2025-10-27,181,206,25,0.1214,kept
+Sandila,Cauliflower,Sandila__Cauliflower,2021-10-18,2025-10-27,127,211,84,0.3981,kept
+Sandila,Green Chilli,Sandila__Green Chilli,2019-09-16,2025-10-27,318,320,2,0.0063,kept
+Sandila,Paddy (Dhan)(Common),Sandila__Paddy (Dhan)(Common),2019-09-16,2025-10-27,288,320,32,0.1,kept
+Sandila,Wheat,Sandila__Wheat,2014-12-29,2025-11-03,390,567,177,0.3122,kept
+Sardhana,Onion,Sardhana__Onion,2014-12-29,2025-10-13,422,564,142,0.2518,kept
+Sardhana,Potato,Sardhana__Potato,2014-12-29,2025-10-13,419,564,145,0.2571,kept
+Sardhana,Tomato,Sardhana__Tomato,2014-12-29,2025-10-13,339,564,225,0.3989,kept
+Sehjanwa,Brinjal,Sehjanwa__Brinjal,2019-11-25,2023-03-20,112,174,62,0.3563,kept
+Sehjanwa,Green Chilli,Sehjanwa__Green Chilli,2018-07-16,2023-03-27,243,246,3,0.0122,kept
+Sehjanwa,Onion,Sehjanwa__Onion,2014-12-29,2025-11-03,482,567,85,0.1499,kept
+Sehjanwa,Potato,Sehjanwa__Potato,2020-07-27,2023-04-10,139,142,3,0.0211,kept
+Sehjanwa,Wheat,Sehjanwa__Wheat,2014-12-29,2024-05-27,390,492,102,0.2073,kept
+Sendhwa,Cauliflower,Sendhwa__Cauliflower,2018-09-03,2023-12-11,217,276,59,0.2138,kept
+Sendhwa,Green Chilli,Sendhwa__Green Chilli,2018-07-30,2023-12-18,173,282,109,0.3865,kept
+Shadabad,Onion,Shadabad__Onion,2015-01-26,2025-11-03,438,563,125,0.222,kept
+Shadabad,Potato,Shadabad__Potato,2015-01-26,2025-11-03,441,563,122,0.2167,kept
+Shadabad,Tomato,Shadabad__Tomato,2016-01-25,2025-11-03,422,511,89,0.1742,kept
+Shahabad (New Mandi),Onion,Shahabad (New Mandi)__Onion,2014-12-29,2025-10-27,355,566,211,0.3728,kept
+Shahabad (New Mandi),Paddy (Dhan)(Common),Shahabad (New Mandi)__Paddy (Dhan)(Common),2017-11-13,2025-10-27,313,416,103,0.2476,kept
+Shahabad (New Mandi),Wheat,Shahabad (New Mandi)__Wheat,2014-12-29,2025-11-03,478,567,89,0.157,kept
+Shahaswan,Onion,Shahaswan__Onion,2019-07-01,2025-01-06,222,289,67,0.2318,kept
+Shahganj,Green Chilli,Shahganj__Green Chilli,2017-09-11,2025-11-03,424,426,2,0.0047,kept
+Shahganj,Onion,Shahganj__Onion,2014-12-29,2025-10-13,557,564,7,0.0124,kept
+Shahganj,Wheat,Shahganj__Wheat,2014-12-29,2025-10-27,547,566,19,0.0336,kept
+Shahjahanpur,Green Chilli,Shahjahanpur__Green Chilli,2014-12-29,2025-11-03,470,567,97,0.1711,kept
+Shahjahanpur,Onion,Shahjahanpur__Onion,2017-11-13,2025-10-20,380,415,35,0.0843,kept
+Shahjahanpur,Potato,Shahjahanpur__Potato,2019-10-14,2025-10-13,296,314,18,0.0573,kept
+Shahjahanpur,Tomato,Shahjahanpur__Tomato,2019-10-28,2025-10-13,277,312,35,0.1122,kept
+Shahjahanpur,Wheat,Shahjahanpur__Wheat,2017-12-11,2025-10-27,403,412,9,0.0218,kept
+Shahpur,Brinjal,Shahpur__Brinjal,2019-08-19,2025-11-03,271,325,54,0.1662,kept
+Shahpur,Cauliflower,Shahpur__Cauliflower,2017-09-18,2025-11-03,273,425,152,0.3576,kept
+Shahpur,Onion,Shahpur__Onion,2019-08-19,2025-11-03,201,325,124,0.3815,kept
+Shahpur,Potato,Shahpur__Potato,2019-08-19,2025-11-03,223,325,102,0.3138,kept
+Shamli,Brinjal,Shamli__Brinjal,2020-09-21,2025-11-03,264,268,4,0.0149,kept
+Shamli,Cauliflower,Shamli__Cauliflower,2017-06-19,2025-11-03,368,438,70,0.1598,kept
+Shamli,Green Chilli,Shamli__Green Chilli,2017-06-19,2025-10-27,432,437,5,0.0114,kept
+Shamli,Onion,Shamli__Onion,2019-12-02,2025-11-03,309,310,1,0.0032,kept
+Shamli,Potato,Shamli__Potato,2017-06-19,2025-11-03,438,438,0,0.0,kept
+Shamli,Tomato,Shamli__Tomato,2015-07-13,2020-08-24,183,268,85,0.3172,kept
+Shamli,Wheat,Shamli__Wheat,2015-07-20,2025-10-27,450,537,87,0.162,kept
+Shikohabad,Brinjal,Shikohabad__Brinjal,2018-07-09,2021-10-25,142,173,31,0.1792,kept
+Shikohabad,Green Chilli,Shikohabad__Green Chilli,2017-09-18,2024-09-02,292,364,72,0.1978,kept
+Shikohabad,Onion,Shikohabad__Onion,2014-12-29,2024-09-09,464,507,43,0.0848,kept
+Shikohabad,Wheat,Shikohabad__Wheat,2014-12-29,2025-06-23,394,548,154,0.281,kept
+Sikanderabad,Cauliflower,Sikanderabad__Cauliflower,2018-09-03,2025-09-15,312,368,56,0.1522,kept
+Sikanderabad,Green Chilli,Sikanderabad__Green Chilli,2018-11-12,2025-11-03,307,365,58,0.1589,kept
+Sikandraraau,Potato,Sikandraraau__Potato,2015-01-26,2025-11-03,386,563,177,0.3144,kept
+Sikandraraau,Wheat,Sikandraraau__Wheat,2015-01-26,2025-11-03,441,563,122,0.2167,kept
+Sikarpur,Brinjal,Sikarpur__Brinjal,2015-03-30,2025-10-27,377,553,176,0.3183,kept
+Sikarpur,Cauliflower,Sikarpur__Cauliflower,2015-03-30,2025-11-03,340,554,214,0.3863,kept
+Sikarpur,Green Chilli,Sikarpur__Green Chilli,2017-06-05,2025-11-03,365,440,75,0.1705,kept
+Sikarpur,Onion,Sikarpur__Onion,2015-03-30,2025-11-03,367,554,187,0.3375,kept
+Sikarpur,Tomato,Sikarpur__Tomato,2016-03-28,2025-11-03,360,502,142,0.2829,kept
+Sirsa,Green Chilli,Sirsa__Green Chilli,2023-06-12,2025-11-03,106,126,20,0.1587,kept
+Sirsa,Onion,Sirsa__Onion,2015-01-05,2025-11-03,433,566,133,0.235,kept
+Sirsa,Potato,Sirsa__Potato,2019-01-07,2025-10-27,281,356,75,0.2107,kept
+Sirsaganj,Brinjal,Sirsaganj__Brinjal,2014-12-29,2023-07-03,347,445,98,0.2202,kept
+Sirsaganj,Green Chilli,Sirsaganj__Green Chilli,2014-12-29,2025-11-03,437,567,130,0.2293,kept
+Sirsaganj,Onion,Sirsaganj__Onion,2014-12-29,2025-10-13,475,564,89,0.1578,kept
+Sirsaganj,Wheat,Sirsaganj__Wheat,2014-12-29,2023-10-02,289,458,169,0.369,kept
+Sitapur,Brinjal,Sitapur__Brinjal,2022-08-22,2025-10-13,165,165,0,0.0,kept
+Sitapur,Green Chilli,Sitapur__Green Chilli,2017-05-08,2025-10-13,431,441,10,0.0227,kept
+Sitapur,Onion,Sitapur__Onion,2017-04-24,2025-11-03,441,446,5,0.0112,kept
+Sitapur,Paddy (Dhan)(Common),Sitapur__Paddy (Dhan)(Common),2023-11-06,2025-10-27,104,104,0,0.0,kept
+Sitapur,Potato,Sitapur__Potato,2022-07-18,2025-11-03,173,173,0,0.0,kept
+Sitapur,Wheat,Sitapur__Wheat,2015-01-05,2025-10-27,546,565,19,0.0336,kept
+Siyana,Cauliflower,Siyana__Cauliflower,2014-12-29,2025-10-27,385,566,181,0.3198,kept
+Siyana,Green Chilli,Siyana__Green Chilli,2014-12-29,2025-10-27,427,566,139,0.2456,kept
+Siyana,Onion,Siyana__Onion,2014-12-29,2025-10-27,526,566,40,0.0707,kept
+Siyana,Potato,Siyana__Potato,2019-04-29,2025-10-27,327,340,13,0.0382,kept
+Solapur,Onion,Solapur__Onion,2014-12-29,2025-05-26,512,544,32,0.0588,kept
+Sultanpur,Green Chilli,Sultanpur__Green Chilli,2014-12-29,2025-10-20,556,565,9,0.0159,kept
+Sultanpur,Onion,Sultanpur__Onion,2018-08-06,2025-11-03,372,379,7,0.0185,kept
+Sultanpur,Wheat,Sultanpur__Wheat,2014-12-29,2025-03-31,503,536,33,0.0616,kept
+Sultanpurchilkana,Green Chilli,Sultanpurchilkana__Green Chilli,2018-01-22,2020-03-16,105,113,8,0.0708,kept
+Tamkuhi road,Green Chilli,Tamkuhi road__Green Chilli,2017-10-16,2025-11-03,318,421,103,0.2447,kept
+Tamkuhi road,Onion,Tamkuhi road__Onion,2014-12-29,2025-11-03,450,567,117,0.2063,kept
+Thanabhavan,Brinjal,Thanabhavan__Brinjal,2019-08-19,2025-11-03,323,325,2,0.0062,kept
+Thanabhavan,Green Chilli,Thanabhavan__Green Chilli,2017-06-05,2025-10-27,436,439,3,0.0068,kept
+Thanabhavan,Onion,Thanabhavan__Onion,2017-06-05,2025-11-03,398,440,42,0.0955,kept
+Thanabhavan,Potato,Thanabhavan__Potato,2019-08-19,2025-10-27,309,324,15,0.0463,kept
+Thanabhavan,Tomato,Thanabhavan__Tomato,2019-08-19,2025-01-20,207,284,77,0.2711,kept
+Tilhar,Cauliflower,Tilhar__Cauliflower,2017-10-30,2025-11-03,335,419,84,0.2005,kept
+Tilhar,Green Chilli,Tilhar__Green Chilli,2014-12-29,2025-11-03,397,567,170,0.2998,kept
+Tilhar,Onion,Tilhar__Onion,2020-01-20,2025-11-03,214,303,89,0.2937,kept
+Timarni,Cauliflower,Timarni__Cauliflower,2017-08-21,2023-12-18,258,331,73,0.2205,kept
+Timarni,Green Chilli,Timarni__Green Chilli,2017-05-29,2023-12-18,325,343,18,0.0525,kept
+Tulsipur,Brinjal,Tulsipur__Brinjal,2020-01-06,2025-11-03,305,305,0,0.0,kept
+Tulsipur,Green Chilli,Tulsipur__Green Chilli,2019-12-02,2025-11-03,309,310,1,0.0032,kept
+Tulsipur,Onion,Tulsipur__Onion,2020-01-06,2025-10-27,304,304,0,0.0,kept
+Tulsipur,Paddy (Dhan)(Common),Tulsipur__Paddy (Dhan)(Common),2020-01-06,2025-10-27,266,304,38,0.125,kept
+Tulsipur,Potato,Tulsipur__Potato,2020-01-06,2025-10-27,304,304,0,0.0,kept
+Tulsipur,Tomato,Tulsipur__Tomato,2019-12-02,2025-08-11,294,298,4,0.0134,kept
+Tulsipur,Wheat,Tulsipur__Wheat,2015-03-23,2025-10-27,417,554,137,0.2473,kept
+Tundla,Green Chilli,Tundla__Green Chilli,2017-06-05,2025-11-03,432,440,8,0.0182,kept
+Tundla,Onion,Tundla__Onion,2015-02-23,2025-10-27,458,558,100,0.1792,kept
+Tundla,Tomato,Tundla__Tomato,2017-04-24,2025-10-27,434,445,11,0.0247,kept
+Tundla,Wheat,Tundla__Wheat,2015-01-26,2025-11-03,451,563,112,0.1989,kept
+Ujhani,Cauliflower,Ujhani__Cauliflower,2018-02-12,2025-05-12,283,379,96,0.2533,kept
+Ujhani,Green Chilli,Ujhani__Green Chilli,2018-02-12,2025-10-20,299,402,103,0.2562,kept
+Ujhani,Onion,Ujhani__Onion,2018-01-08,2025-10-27,338,408,70,0.1716,kept
+Ujhani,Wheat,Ujhani__Wheat,2015-01-12,2025-10-27,399,564,165,0.2926,kept
+Ujjain (F&V),Cauliflower,Ujjain (F&V)__Cauliflower,2014-12-29,2025-10-27,361,566,205,0.3622,kept
+Ujjain (F&V),Green Chilli,Ujjain (F&V)__Green Chilli,2014-12-29,2025-11-03,398,567,169,0.2981,kept
+Ujjain (F&V),Potato,Ujjain (F&V)__Potato,2014-12-29,2023-12-18,407,469,62,0.1322,kept
+Unnao,Brinjal,Unnao__Brinjal,2015-01-05,2025-10-27,526,565,39,0.069,kept
+Unnao,Cauliflower,Unnao__Cauliflower,2014-12-29,2025-10-27,457,566,109,0.1926,kept
+Unnao,Green Chilli,Unnao__Green Chilli,2014-12-29,2025-10-13,528,564,36,0.0638,kept
+Unnao,Onion,Unnao__Onion,2014-12-29,2025-11-03,544,567,23,0.0406,kept
+Unnao,Potato,Unnao__Potato,2014-12-29,2025-11-03,554,567,13,0.0229,kept
+Unnao,Wheat,Unnao__Wheat,2014-12-29,2025-10-20,555,565,10,0.0177,kept
+Varanasi,Wheat,Varanasi__Wheat,2014-12-29,2025-10-27,560,566,6,0.0106,kept
+Varanasi (F&V),Green Chilli,Varanasi (F&V)__Green Chilli,2017-03-27,2025-10-13,402,447,45,0.1007,kept
+Varanasi (F&V),Onion,Varanasi (F&V)__Onion,2015-02-16,2025-10-27,470,559,89,0.1592,kept
+Varipaal,Cauliflower,Varipaal__Cauliflower,2017-08-07,2025-10-13,288,428,140,0.3271,kept
+Varipaal,Green Chilli,Varipaal__Green Chilli,2017-06-12,2025-10-06,294,435,141,0.3241,kept
+Varipaal,Tomato,Varipaal__Tomato,2017-06-05,2022-01-24,163,243,80,0.3292,kept
+Varipaal,Wheat,Varipaal__Wheat,2014-12-29,2025-02-24,394,531,137,0.258,kept
+Vilaspur,Green Chilli,Vilaspur__Green Chilli,2018-08-06,2021-01-25,108,130,22,0.1692,kept
+Vilthararoad,Potato,Vilthararoad__Potato,2015-01-12,2025-01-13,401,523,122,0.2333,kept
+Vishalpur,Brinjal,Vishalpur__Brinjal,2018-03-19,2025-11-03,357,399,42,0.1053,kept
+Vishalpur,Cauliflower,Vishalpur__Cauliflower,2017-09-18,2025-05-26,267,402,135,0.3358,kept
+Vishalpur,Green Chilli,Vishalpur__Green Chilli,2017-07-10,2025-09-15,402,428,26,0.0607,kept
+Vishalpur,Onion,Vishalpur__Onion,2017-11-20,2025-11-03,404,416,12,0.0288,kept
+Vishalpur,Potato,Vishalpur__Potato,2018-03-19,2025-11-03,395,399,4,0.01,kept
+Vishalpur,Tomato,Vishalpur__Tomato,2018-03-26,2025-11-03,394,398,4,0.0101,kept
+Vishalpur,Wheat,Vishalpur__Wheat,2017-11-20,2025-11-03,403,416,13,0.0312,kept
+Visoli,Potato,Visoli__Potato,2023-05-29,2025-11-03,121,128,7,0.0547,kept
+Viswan,Brinjal,Viswan__Brinjal,2022-07-11,2025-10-20,168,172,4,0.0233,kept
+Viswan,Green Chilli,Viswan__Green Chilli,2022-07-11,2025-11-03,169,174,5,0.0287,kept
+Viswan,Onion,Viswan__Onion,2022-07-18,2025-11-03,172,173,1,0.0058,kept
+Viswan,Potato,Viswan__Potato,2017-06-12,2025-11-03,360,439,79,0.18,kept
+Viswan,Wheat,Viswan__Wheat,2022-07-11,2025-11-03,174,174,0,0.0,kept
+Wazirganj,Brinjal,Wazirganj__Brinjal,2019-11-11,2025-10-27,294,312,18,0.0577,kept
+Wazirganj,Green Chilli,Wazirganj__Green Chilli,2019-11-11,2025-11-03,300,313,13,0.0415,kept
+Wazirganj,Onion,Wazirganj__Onion,2019-11-11,2025-10-20,294,311,17,0.0547,kept
+Wazirganj,Potato,Wazirganj__Potato,2019-09-30,2025-11-03,315,319,4,0.0125,kept
+Wazirganj,Tomato,Wazirganj__Tomato,2019-12-09,2025-11-03,217,309,92,0.2977,kept
+Wazirganj,Wheat,Wazirganj__Wheat,2018-06-11,2025-11-03,353,387,34,0.0879,kept

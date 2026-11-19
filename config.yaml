@@ -1,0 +1,75 @@
+# Mandi Watch Configuration
+# Single source of truth for all paths, random seeds, thresholds, and parameters.
+
+project:
+  name: "Mandi Watch"
+  random_seed: 42
+
+paths:
+  raw_dir: "data/raw"
+  interim_dir: "data/interim"
+  processed_dir: "data/processed"
+  geo_dir: "data/geo"
+  models_dir: "models"
+  reports_dir: "reports"
+  figures_dir: "reports/figures"
+  tables_dir: "reports/tables"
+  notebooks_dir: "notebooks"
+
+data_range:
+  start_date: "2015-01-01"
+  end_date: "auto"  # auto-detected max date in dataset
+
+scope:
+  n_commodities: 8
+  n_states: 3
+  manual_commodities: []  # Optional override list, e.g. ["Onion", "Potato"]
+  manual_states: []       # Optional override list, e.g. ["Maharashtra", "Karnataka"]
+
+forecast:
+  horizon_weeks: 2        # Default horizon (supports 1, 2, 4)
+  allowed_horizons: [1, 2, 4]
+  target_transform: "log" # Model log price
+
+split:
+  test_months: 12         # Last 12 months of dataset
+  val_months: 12          # 12 months before test period
+
+cleaning:
+  mad_multiplier: 5.0     # Outlier flag threshold: 5x rolling MAD
+  flat_run_length: 14     # Consecutive identical price run threshold (days)
+  min_weeks: 104          # Minimum weeks of history per series
+  max_missing_share: 0.40 # Maximum share of missing weeks allowed
+  max_interpolation_gap: 2 # Maximum gap (weeks) linearly interpolated for lag features in log price
+  outlier_action: "drop"  # Options: 'drop', 'winsorize', 'flag_only'
+  rolling_window: 15      # Centered rolling window size for cleaning outlier baseline (days)
+
+geo:
+  road_factor: 1.35       # Approximates road distance from haversine (haversine * 1.35)
+  default_radius_km: 150  # Search radius around farmer centroid
+  transport_rate_per_km: 0.25  # Transport rate in INR per quintal per km (ASSUMPTION: configurable in UI)
+  transport_rate_comment: "ASSUMPTION: Default placeholder 0.25 INR/quintal/km; adjustable in UI."
+
+models:
+  lightgbm:
+    n_estimators: 200
+    learning_rate: 0.05
+    num_leaves: 31
+    random_state: 42
+    n_jobs: -1
+  quantiles: [0.1, 0.5, 0.9]
+
+# Experimental Sell/Hold and Buy Now/Wait (F2 and B2) Configuration
+timing:
+  target_hurdle_pct: 3.0  # Minimum percentage price increase hurdle
+  default_holding_costs:
+    Tomato: 50.0        # INR/quintal/week (perishable: high spoilage/cold store)
+    Green Chilli: 40.0  # INR/quintal/week (perishable)
+    Cauliflower: 35.0   # INR/quintal/week (perishable)
+    Brinjal: 25.0       # INR/quintal/week (semi-perishable)
+    Onion: 15.0         # INR/quintal/week (durable: ventilated storage, shrinkage)
+    Potato: 12.0        # INR/quintal/week (durable: cold store rent)
+    Wheat: 8.0          # INR/quintal/week (durable: warehouse rent + finance)
+    Paddy (Dhan)(Common): 8.0 # INR/quintal/week (durable: warehouse rent + finance)
+  perishable_commodities: ["Tomato", "Green Chilli", "Cauliflower", "Brinjal"]
+  durable_commodities: ["Potato", "Onion", "Wheat", "Paddy (Dhan)(Common)"]

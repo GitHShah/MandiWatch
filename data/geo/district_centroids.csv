@@ -1,0 +1,101 @@
+state,district,lat,lon,source
+Madhya Pradesh,Alirajpur,22.3045,74.3546,reference_seed
+Madhya Pradesh,Badwani,22.0357,74.9036,reference_seed
+Madhya Pradesh,Balaghat,21.8129,80.1837,reference_seed
+Madhya Pradesh,Betul,21.9015,77.9015,reference_seed
+Madhya Pradesh,Chhindwara,22.0574,78.9382,reference_seed
+Madhya Pradesh,Dewas,22.9676,76.0534,reference_seed
+Madhya Pradesh,Dhar,22.5976,75.2974,reference_seed
+Madhya Pradesh,Dindori,22.9463,81.0805,reference_seed
+Madhya Pradesh,Gwalior,26.2183,78.1828,reference_seed
+Madhya Pradesh,Harda,22.3444,77.0945,reference_seed
+Madhya Pradesh,Hoshangabad,22.7519,77.7289,reference_seed
+Madhya Pradesh,Indore,22.7196,75.8577,reference_seed
+Madhya Pradesh,Jabalpur,23.1815,79.9864,reference_seed
+Madhya Pradesh,Jhabua,22.7686,74.5954,reference_seed
+Madhya Pradesh,Katni,23.8343,80.3957,reference_seed
+Madhya Pradesh,Khandwa,21.8314,76.3498,reference_seed
+Madhya Pradesh,Khargone,21.8234,75.6186,reference_seed
+Madhya Pradesh,Mandla,22.5986,80.3714,reference_seed
+Madhya Pradesh,Morena,26.4947,77.994,reference_seed
+Madhya Pradesh,Rajgarh,24.0064,76.7292,reference_seed
+Madhya Pradesh,Sagar,23.8388,78.7378,reference_seed
+Madhya Pradesh,Ujjain,23.1765,75.7885,reference_seed
+Maharashtra,Ahmednagar,19.0952,74.7496,reference_seed
+Maharashtra,Dhule,20.9042,74.7749,reference_seed
+Maharashtra,Jalgaon,21.0077,75.5626,reference_seed
+Maharashtra,Nagpur,21.1458,79.0882,reference_seed
+Maharashtra,Raigad,18.5158,73.1822,reference_seed
+Maharashtra,Sholapur,17.6599,75.9064,reference_seed
+Uttar Pradesh,Agra,27.1767,78.0081,reference_seed
+Uttar Pradesh,Aligarh,27.8974,78.088,reference_seed
+Uttar Pradesh,Ambedkarnagar,26.4447,82.6972,reference_seed
+Uttar Pradesh,Amethi,26.1558,81.8159,reference_seed
+Uttar Pradesh,Amroha,28.9044,78.4682,reference_seed
+Uttar Pradesh,Auraiya,26.4655,79.5147,reference_seed
+Uttar Pradesh,Ayodhya,26.7922,82.1998,reference_seed
+Uttar Pradesh,Azamgarh,26.0738,83.1859,reference_seed
+Uttar Pradesh,Badaun,28.0322,79.1172,reference_seed
+Uttar Pradesh,Baghpat,28.9454,77.2208,reference_seed
+Uttar Pradesh,Bahraich,27.5744,81.5975,reference_seed
+Uttar Pradesh,Ballia,25.7589,84.1483,reference_seed
+Uttar Pradesh,Balrampur,27.43,82.18,reference_seed
+Uttar Pradesh,Banda,25.4764,80.337,reference_seed
+Uttar Pradesh,Barabanki,26.9272,81.1837,reference_seed
+Uttar Pradesh,Bareilly,28.367,79.4304,reference_seed
+Uttar Pradesh,Basti,27.2783,82.7483,reference_seed
+Uttar Pradesh,Bhadohi (Sant Ravi Nagar),25.3941,82.5709,reference_seed
+Uttar Pradesh,Bijnor,29.3732,78.1352,reference_seed
+Uttar Pradesh,Bulandshahar,28.4069,77.8498,reference_seed
+Uttar Pradesh,Chandauli,25.2612,83.2678,reference_seed
+Uttar Pradesh,Chitrakut,25.2136,80.8986,reference_seed
+Uttar Pradesh,Deoria,26.5028,83.7797,reference_seed
+Uttar Pradesh,Etah,27.5574,78.6653,reference_seed
+Uttar Pradesh,Etawah,26.7855,79.0154,reference_seed
+Uttar Pradesh,Farukhabad,27.3826,79.583,reference_seed
+Uttar Pradesh,Fatehpur,25.9284,80.813,reference_seed
+Uttar Pradesh,Firozabad,27.1594,78.3957,reference_seed
+Uttar Pradesh,Gautam Budh Nagar,28.347,77.536,reference_seed
+Uttar Pradesh,Ghaziabad,28.6692,77.4538,reference_seed
+Uttar Pradesh,Gonda,27.1337,81.9619,reference_seed
+Uttar Pradesh,Gorakhpur,26.7606,83.3732,reference_seed
+Uttar Pradesh,Hamirpur,25.9547,80.1517,reference_seed
+Uttar Pradesh,Hapur,28.7306,77.7759,reference_seed
+Uttar Pradesh,Hardoi,27.3989,80.1309,reference_seed
+Uttar Pradesh,Hathras,27.5969,78.0519,reference_seed
+Uttar Pradesh,Jalaun (Orai),25.9898,79.45,reference_seed
+Uttar Pradesh,Jaunpur,25.7464,82.6837,reference_seed
+Uttar Pradesh,Jhansi,25.4484,78.5685,reference_seed
+Uttar Pradesh,Kannuj,27.0547,79.9197,reference_seed
+Uttar Pradesh,Kanpur,26.4499,80.3319,reference_seed
+Uttar Pradesh,Kanpur Dehat,26.333,79.95,reference_seed
+Uttar Pradesh,Kasganj,27.8083,78.6475,reference_seed
+Uttar Pradesh,Kaushambi,25.5342,81.4294,reference_seed
+Uttar Pradesh,Khiri (Lakhimpur),27.9462,80.7786,reference_seed
+Uttar Pradesh,Kushinagar,26.7408,83.889,reference_seed
+Uttar Pradesh,Lakhimpur,27.9462,80.7786,reference_seed
+Uttar Pradesh,Lalitpur,24.6897,78.4116,reference_seed
+Uttar Pradesh,Lucknow,26.8467,80.9462,reference_seed
+Uttar Pradesh,Maharajganj,27.1438,83.5615,reference_seed
+Uttar Pradesh,Mahoba,25.2921,79.8722,reference_seed
+Uttar Pradesh,Mainpuri,27.2289,79.0289,reference_seed
+Uttar Pradesh,Mathura,27.4924,77.6737,reference_seed
+Uttar Pradesh,Mau (Maunathbhanjan),25.9417,83.5611,reference_seed
+Uttar Pradesh,Meerut,28.9845,77.7064,reference_seed
+Uttar Pradesh,Mirzapur,25.1337,82.5644,reference_seed
+Uttar Pradesh,Muzaffarnagar,29.4727,77.7085,reference_seed
+Uttar Pradesh,Pillibhit,28.631,79.8044,reference_seed
+Uttar Pradesh,Pratapgarh,25.897,81.946,reference_seed
+Uttar Pradesh,Prayagraj,25.4358,81.8463,reference_seed
+Uttar Pradesh,Raebarelli,26.2303,81.2409,reference_seed
+Uttar Pradesh,Rampur,28.8154,79.0257,reference_seed
+Uttar Pradesh,Saharanpur,29.9679,77.5452,reference_seed
+Uttar Pradesh,Sambhal,28.5833,78.5667,reference_seed
+Uttar Pradesh,Sant Kabir Nagar,26.7836,83.0232,reference_seed
+Uttar Pradesh,Shahjahanpur,27.8805,79.912,reference_seed
+Uttar Pradesh,Shamli,29.4489,77.3089,reference_seed
+Uttar Pradesh,Siddharth Nagar,27.2981,82.8122,reference_seed
+Uttar Pradesh,Sitapur,27.5684,80.6829,reference_seed
+Uttar Pradesh,Sonbhadra,24.6853,83.0673,reference_seed
+Uttar Pradesh,Unnao,26.5471,80.4883,reference_seed
+Uttar Pradesh,Varanasi,25.3176,82.9739,reference_seed

@@ -1,0 +1,10 @@
+commodity,n_cases,mean_diff_inr,std_diff_inr,cohens_d,t_statistic,t_p_value,wilcoxon_stat,wilcoxon_p_value,significant_05,interpretation
+ALL,26352,230.49,502.68,0.459,74.432,0.0,43554407.0,0.0,True,"Recommended market significantly beats nearest market (+₹230.49/q, d=0.459)"
+Brinjal,3404,164.32,300.88,0.546,31.863,3.310782801940938e-195,541947.5,2.551949882715362e-227,True,"Recommended market significantly beats nearest market (+₹164.32/q, d=0.546)"
+Cauliflower,2805,441.19,745.09,0.592,31.361,2.5557763301828285e-185,290972.0,2.511019744781914e-209,True,"Recommended market significantly beats nearest market (+₹441.19/q, d=0.592)"
+Green Chilli,3753,489.87,721.12,0.679,41.617,0.0,683470.5,0.0,True,"Recommended market significantly beats nearest market (+₹489.87/q, d=0.679)"
+Onion,3814,296.22,493.42,0.6,37.076,3.127250217034501e-257,920103.0,7.717020587645959e-279,True,"Recommended market significantly beats nearest market (+₹296.22/q, d=0.600)"
+Paddy (Dhan)(Common),1614,68.12,115.36,0.59,23.722,5.890942969651325e-107,34912.5,3.304259037484161e-128,True,"Recommended market significantly beats nearest market (+₹68.12/q, d=0.590)"
+Potato,3718,106.72,216.5,0.493,30.057,7.364789937042752e-178,936958.5,1.3813581422523203e-194,True,"Recommended market significantly beats nearest market (+₹106.72/q, d=0.493)"
+Tomato,3473,223.75,537.29,0.416,24.542,8.683142774701879e-123,790912.0,4.075167022012805e-148,True,"Recommended market significantly beats nearest market (+₹223.75/q, d=0.416)"
+Wheat,3771,6.58,71.66,0.092,5.641,1.8113162684031466e-08,2293818.0,0.0016442297296554763,True,"Recommended market significantly beats nearest market (+₹6.58/q, d=0.092)"

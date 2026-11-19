@@ -1,0 +1,412 @@
+name,entity_type,distinct_weeks,markets_with_104_weeks,total_reports,rank,in_scope
+Potato,commodity,589,985,1803182,1,True
+Onion,commodity,589,974,1781953,2,True
+Wheat,commodity,588,968,1717991,3,True
+Tomato,commodity,589,934,1688996,4,True
+Paddy (Dhan)(Common),commodity,567,910,1443671,5,True
+Brinjal,commodity,588,883,1536647,6,True
+Green Chilli,commodity,588,777,1328771,7,True
+Cauliflower,commodity,588,712,1041498,8,True
+Bhindi (Ladies Finger),commodity,588,701,1010356,9,False
+Bengal Gram (Gram)(Whole),commodity,588,695,898798,10,False
+Maize,commodity,588,674,757367,11,False
+Cabbage,commodity,588,640,938458,12,False
+Cucumbar (Kheera),commodity,589,610,912389,13,False
+Bitter gourd,commodity,588,557,783354,14,False
+Pumpkin,commodity,588,549,783107,15,False
+Mustard,commodity,588,524,759953,16,False
+Bottle gourd,commodity,588,518,849533,17,False
+Carrot,commodity,589,493,641335,18,False
+Banana,commodity,588,462,1093463,19,False
+Arhar (Tur/Red Gram)(Whole),commodity,588,441,482744,20,False
+Raddish,commodity,589,438,582717,21,False
+Soyabean,commodity,588,436,614203,22,False
+Ginger (Green),commodity,589,430,610357,23,False
+Rice,commodity,588,430,838834,24,False
+Apple,commodity,588,422,706164,25,False
+Black Gram (Urd Beans)(Whole),commodity,588,412,418358,26,False
+Green Gram (Moong)(Whole),commodity,588,383,386995,27,False
+Garlic,commodity,589,372,496859,28,False
+Cotton,commodity,588,347,428141,29,False
+Bajra (Pearl Millet/Cumbu),commodity,588,338,443956,30,False
+Lemon,commodity,588,306,462750,31,False
+Jowar (Sorghum),commodity,588,293,301413,32,False
+Pomegranate,commodity,588,289,386128,33,False
+Capsicum,commodity,589,270,385831,34,False
+Groundnut,commodity,589,261,318295,35,False
+Gur (Jaggery),commodity,588,254,391518,36,False
+Lentil (Masur)(Whole),commodity,588,245,317857,37,False
+Papaya,commodity,588,234,350399,38,False
+Banana - Green,commodity,588,223,408823,39,False
+Ridgeguard (Tori),commodity,589,222,325395,40,False
+Mousambi (Sweet Lime),commodity,588,216,300927,41,False
+Spinach,commodity,589,204,255306,42,False
+"Sesamum (Sesame,Gingelly,Til)",commodity,588,192,212299,43,False
+Mango,commodity,588,184,248602,44,False
+Coriander (Leaves),commodity,588,178,321665,45,False
+Guar,commodity,588,167,219356,46,False
+Barley (Jau),commodity,588,165,184550,47,False
+Orange,commodity,588,164,165039,48,False
+Grapes,commodity,588,163,193331,49,False
+Colacasia,commodity,589,159,206966,50,False
+Peas Wet,commodity,589,159,199563,51,False
+Coconut,commodity,589,153,243527,52,False
+Pointed gourd (Parval),commodity,588,148,167652,53,False
+Guava,commodity,589,141,183191,54,False
+Beetroot,commodity,589,137,266662,55,False
+Ginger (Dry),commodity,588,133,136976,56,False
+Drumstick,commodity,588,129,254076,57,False
+Water Melon,commodity,588,123,164961,58,False
+Arhar Dal (Tur Dal),commodity,558,120,163622,59,False
+Castor Seed,commodity,581,117,157960,60,False
+French Beans (Frasbean),commodity,589,115,149030,61,False
+Pineapple,commodity,588,114,153029,62,False
+Cowpea (Veg),commodity,588,113,206852,63,False
+Peas (Dry),commodity,588,108,118292,64,False
+Chikoos (Sapota),commodity,589,107,127361,65,False
+Corriander seed,commodity,589,107,123779,66,False
+Snakeguard,commodity,589,106,238746,67,False
+Kinnow,commodity,495,102,85034,68,False
+Mustard Oil,commodity,587,99,142564,69,False
+Methi (Leaves),commodity,588,96,108374,70,False
+Sponge gourd,commodity,588,93,99112,71,False
+Ashgourd,commodity,588,87,210284,72,False
+Beans,commodity,589,83,161067,73,False
+Little gourd (Kundru),commodity,588,82,110807,74,False
+Arecanut (Betelnut/Supari),commodity,589,80,203143,75,False
+Black Gram Dal (Urd Dal),commodity,566,80,105108,76,False
+Guar Seed (Cluster Beans Seed),commodity,586,77,88245,77,False
+Cummin Seed (Jeera),commodity,587,73,91624,78,False
+Amaranthus,commodity,567,73,189114,79,False
+Tinda,commodity,589,72,80588,80,False
+Tapioca,commodity,588,65,130594,81,False
+Methi Seeds,commodity,588,65,69931,82,False
+Cluster beans,commodity,588,64,158416,83,False
+Elephant Yam (Suran),commodity,567,63,125417,84,False
+Mango (Raw-Ripe),commodity,589,62,129436,85,False
+Ragi (Finger Millet),commodity,588,60,49071,86,False
+Copra,commodity,588,59,67930,87,False
+Bengal Gram Dal (Chana Dal),commodity,576,59,79890,88,False
+Masur Dal,commodity,589,57,68491,89,False
+Lime,commodity,588,56,89661,90,False
+Sweet Pumpkin,commodity,589,55,83189,91,False
+Leafy Vegetable,commodity,588,55,44474,92,False
+Green Peas,commodity,588,54,80423,93,False
+Turmeric,commodity,588,54,76905,94,False
+Sweet Potato,commodity,589,52,97166,95,False
+Kulthi (Horse Gram),commodity,589,51,51343,96,False
+Peas cod,commodity,577,51,62971,97,False
+Papaya (Raw),commodity,589,49,49527,98,False
+White Peas,commodity,588,49,57593,99,False
+Dry Chillies,commodity,589,47,65269,100,False
+Sugar,commodity,588,47,48061,101,False
+Sunflower,commodity,586,47,37440,102,False
+Kabuli Chana (Chickpeas-White),commodity,589,46,61842,103,False
+Chilly Capsicum,commodity,589,45,73161,104,False
+Linseed,commodity,588,45,46897,105,False
+Chili Red,commodity,588,45,43705,106,False
+Onion Green,commodity,589,44,118481,107,False
+Green Gram Dal (Moong Dal),commodity,589,44,62611,108,False
+Amphophalus,commodity,567,44,73352,109,False
+Karbuja (Musk Melon),commodity,588,42,81074,110,False
+Paddy (Dhan)(Basmati),commodity,360,42,71413,111,False
+Black pepper,commodity,588,41,52569,112,False
+Fish,commodity,588,40,106182,113,False
+Field Pea,commodity,588,40,60964,114,False
+Cowpea (Lobia/Karamani),commodity,587,39,34686,115,False
+Round gourd,commodity,588,38,37419,116,False
+Jute,commodity,586,35,59354,117,False
+Indian Beans (Seam),commodity,589,34,59647,118,False
+Jack Fruit,commodity,552,34,44320,119,False
+Tamarind Fruit,commodity,589,33,51758,120,False
+Turnip,commodity,576,32,38002,121,False
+Lak (Teora),commodity,589,31,30742,122,False
+Goat,commodity,585,31,9988,123,False
+Mahua,commodity,586,30,26881,124,False
+Cashewnuts,commodity,588,28,25570,125,False
+Isabgul (Psyllium),commodity,585,28,29712,126,False
+Knool Khol,commodity,588,27,64788,127,False
+Soanf,commodity,587,27,29477,128,False
+Taramira,commodity,583,27,22115,129,False
+Cow,commodity,576,27,9005,130,False
+Wood,commodity,550,27,30767,131,False
+Amla (Nelli Kai),commodity,589,26,60442,132,False
+Ground Nut Seed,commodity,587,26,29266,133,False
+Squash (Chappal Kadoo),commodity,588,25,30866,134,False
+Ox,commodity,569,25,7419,135,False
+Wheat Atta,commodity,452,25,19037,136,False
+Kodo Millet (Varagu),commodity,575,24,12681,137,False
+Yam (Ratalu),commodity,589,23,55747,138,False
+Coconut Seed,commodity,589,23,35763,139,False
+Tender Coconut,commodity,588,23,55536,140,False
+Coconut Oil,commodity,587,23,33357,141,False
+Moath Dal,commodity,567,23,28642,142,False
+Mint (Pudina),commodity,589,22,93401,143,False
+She Buffalo,commodity,565,21,6921,144,False
+Sheep,commodity,551,21,5827,145,False
+Ajwan,commodity,582,20,19486,146,False
+Alasande Gram,commodity,581,18,14824,147,False
+Rubber,commodity,588,17,27928,148,False
+Safflower,commodity,588,17,14491,149,False
+Pear (Marasebu),commodity,563,17,27622,150,False
+Tamarind Seed,commodity,562,17,11212,151,False
+T.V. Cumbu,commodity,488,16,15264,152,False
+Mashrooms,commodity,589,15,36188,153,False
+Groundnut pods (raw),commodity,561,15,17667,154,False
+Hen,commodity,580,14,9397,155,False
+Maida Atta,commodity,408,14,10575,156,False
+Betal Leaves,commodity,589,13,22086,157,False
+Foxtail Millet (Navane),commodity,585,13,9442,158,False
+Mataki,commodity,583,13,8772,159,False
+Long Melon (Kakri),commodity,588,12,23479,160,False
+Suva (Dill Seed),commodity,573,12,10348,161,False
+Green Avare (W),commodity,589,11,76208,162,False
+Thondekai,commodity,589,11,50705,163,False
+Rajgir,commodity,588,11,13444,164,False
+Pepper ungarbled,commodity,578,11,13908,165,False
+Plum,commodity,462,11,17608,166,False
+Pegeon Pea (Arhar Fali),commodity,587,10,14972,167,False
+Surat Beans (Papadi),commodity,581,10,12845,168,False
+Mahua Seed (Hippe seed),commodity,525,10,8465,169,False
+Seetapal,commodity,442,10,10659,170,False
+Season Leaves,commodity,534,9,8779,171,False
+Thinai (Italian Millet),commodity,392,9,4316,172,False
+Coffee,commodity,588,8,10082,173,False
+Seemebadnekai,commodity,585,8,11964,174,False
+Suvarna Gadde,commodity,585,8,8154,175,False
+Ghee,commodity,581,8,7272,176,False
+Millets,commodity,563,8,5295,177,False
+Same/Savi,commodity,556,8,3638,178,False
+Tobacco,commodity,521,8,8472,179,False
+Bull,commodity,518,8,2751,180,False
+Ber (Zizyphus/Borehannu),commodity,379,8,14076,181,False
+Kartali (Kantola),commodity,313,8,7575,182,False
+Chapparad Avare,commodity,585,7,7573,183,False
+White Pumpkin,commodity,584,7,7265,184,False
+Cock,commodity,579,7,8472,185,False
+Groundnut (Split),commodity,571,7,7800,186,False
+Gingelly Oil,commodity,436,7,4560,187,False
+Indian Colza (Sarson),commodity,431,7,7019,188,False
+Turmeric (raw),commodity,577,6,8062,189,False
+Cardamoms,commodity,574,6,6833,190,False
+Nutmeg,commodity,552,6,6259,191,False
+He Buffalo,commodity,527,6,2060,192,False
+Dhaincha,commodity,510,6,5964,193,False
+Niger Seed (Ramtil),commodity,510,6,2927,194,False
+Hybrid Cumbu,commodity,466,6,4013,195,False
+Soji,commodity,381,6,3725,196,False
+Bunch Beans,commodity,586,5,6098,197,False
+Chow Chow,commodity,557,5,57808,198,False
+Yam,commodity,541,5,4526,199,False
+Pigs,commodity,518,5,2199,200,False
+Calf,commodity,496,5,1925,201,False
+Cotton Seed,commodity,389,5,2948,202,False
+Duster Beans,commodity,584,4,7453,203,False
+Gram Raw (Chholia),commodity,573,4,7988,204,False
+Marigold (Calcutta),commodity,570,4,17489,205,False
+Egg,commodity,565,4,4047,206,False
+Cloves,commodity,537,4,3812,207,False
+Green Fodder,commodity,533,4,3842,208,False
+Rose (Loose)),commodity,529,4,5174,209,False
+Cocoa,commodity,517,4,2749,210,False
+Dry Fodder,commodity,502,4,2940,211,False
+Marigold (loose),commodity,432,4,4177,212,False
+Dalda,commodity,301,4,4475,213,False
+Alsandikai,commodity,578,3,5606,214,False
+Lilly,commodity,569,3,4451,215,False
+Avare Dal,commodity,558,3,3215,216,False
+Dry Grapes,commodity,551,3,2158,217,False
+Soapnut (Antawala/Retha),commodity,437,3,1580,218,False
+Firewood,commodity,411,3,5541,219,False
+Sajje,commodity,396,3,1700,220,False
+She Goat,commodity,368,3,715,221,False
+Other Pulses,commodity,323,3,5709,222,False
+Beaten Rice,commodity,314,3,3051,223,False
+Thogrikai,commodity,275,3,2132,224,False
+Sunflower Seed,commodity,175,3,2218,225,False
+Pepper garbled,commodity,572,2,4861,226,False
+Rose (Local),commodity,505,2,14258,227,False
+Jarbara,commodity,503,2,3456,228,False
+Mahedi,commodity,501,2,1991,229,False
+Carnation,commodity,500,2,3390,230,False
+Gladiolus Cut Flower,commodity,476,2,3155,231,False
+Chrysanthemum (Loose),commodity,454,2,2574,232,False
+Broken Rice,commodity,453,2,1487,233,False
+Toria,commodity,404,2,2752,234,False
+Jasmine,commodity,345,2,10401,235,False
+Duck,commodity,345,2,584,236,False
+Bamboo,commodity,254,2,423,237,False
+Mace,commodity,253,2,1373,238,False
+Anthorium,commodity,526,1,2116,239,False
+Chennangi Dal,commodity,514,1,2874,240,False
+BOP,commodity,511,1,2033,241,False
+Bay leaf (Tejpatta),commodity,481,1,2016,242,False
+Orchid,commodity,470,1,2116,243,False
+Broomstick (Flower Broom),commodity,469,1,2128,244,False
+Lotus Sticks,commodity,445,1,1612,245,False
+Tube Rose (Single),commodity,443,1,2445,246,False
+Galgal (Lemon),commodity,433,1,1692,247,False
+Tube Rose (Double),commodity,424,1,2233,248,False
+Lotus,commodity,395,1,1979,249,False
+Balekai,commodity,379,1,1664,250,False
+Neem Seed,commodity,378,1,3309,251,False
+Honge seed,commodity,368,1,1226,252,False
+Sabu Dan,commodity,322,1,1317,253,False
+Peach,commodity,317,1,8826,254,False
+Chrysanthemum,commodity,294,1,1214,255,False
+Ram,commodity,290,1,515,256,False
+Raibel,commodity,282,1,1353,257,False
+Almond (Badam),commodity,278,1,1077,258,False
+Hippe Seed,commodity,262,1,623,259,False
+Tube Rose (Loose),commodity,257,1,5417,260,False
+Rat Tail Radish (Mogari),commodity,256,1,1886,261,False
+Karamani,commodity,252,1,1390,262,False
+Patti Calcutta,commodity,248,1,1018,263,False
+Myrobolan (Harad),commodity,235,1,569,264,False
+Coca,commodity,222,1,721,265,False
+Resinwood,commodity,213,1,492,266,False
+Gurellu,commodity,209,1,480,267,False
+Jaffri,commodity,204,1,1175,268,False
+Cinamon (Dalchini),commodity,199,1,704,269,False
+Kankambra,commodity,194,1,1060,270,False
+Astera,commodity,188,1,1136,271,False
+Ground Nut Oil,commodity,183,1,731,272,False
+Tea,commodity,179,1,1518,273,False
+Kakada,commodity,178,1,4765,274,False
+Butter,commodity,176,1,508,275,False
+Persimon (Japani Fal),commodity,171,1,2566,276,False
+Antawala,commodity,166,1,441,277,False
+Borehannu,commodity,154,1,471,278,False
+Marget,commodity,144,1,596,279,False
+Gramflour,commodity,140,1,181,280,False
+Khoya,commodity,114,1,137,281,False
+Lint,commodity,317,0,723,282,False
+Sugarcane,commodity,305,0,1051,283,False
+Litchi,commodity,218,0,12323,284,False
+Custard Apple (Sharifa),commodity,216,0,9338,285,False
+Bran,commodity,204,0,268,286,False
+Jamun (Narale Hannu),commodity,200,0,6486,287,False
+Cherry,commodity,197,0,3468,288,False
+Ambada Seed,commodity,163,0,244,289,False
+Red Gram,commodity,157,0,24260,290,False
+Wool,commodity,155,0,413,291,False
+Apricot (Jardalu/Khumani),commodity,154,0,3120,292,False
+Sunhemp,commodity,153,0,364,293,False
+Raya,commodity,113,0,260,294,False
+buttery,commodity,106,0,4710,295,False
+Walnut,commodity,97,0,431,296,False
+Fig (Anjura/Anjeer),commodity,95,0,1703,297,False
+Tube Flower,commodity,93,0,2847,298,False
+Javi,commodity,93,0,175,299,False
+Asalia,commodity,90,0,502,300,False
+poppy seeds,commodity,88,0,749,301,False
+Kutki,commodity,87,0,946,302,False
+Big Gram,commodity,81,0,11916,303,False
+Other green and fresh vegetables,commodity,81,0,686,304,False
+Ashwagandha,commodity,81,0,390,305,False
+nigella seeds,commodity,80,0,645,306,False
+Lukad,commodity,77,0,366,307,False
+Amranthas Red,commodity,75,0,486,308,False
+Asparagus,commodity,70,0,152,309,False
+basil,commodity,69,0,263,310,False
+Bullar,commodity,69,0,158,311,False
+Dal (Avare),commodity,62,0,505,312,False
+Marasebu,commodity,60,0,135,313,False
+gulli,commodity,55,0,807,314,False
+dried mango,commodity,54,0,106,315,False
+Saffron,commodity,50,0,91,316,False
+Giloy,commodity,49,0,85,317,False
+Absinthe,commodity,47,0,100,318,False
+Cashew Kernnel,commodity,43,0,86,319,False
+mango powder,commodity,40,0,189,320,False
+Delha,commodity,36,0,94,321,False
+White Muesli,commodity,34,0,219,322,False
+Pupadia,commodity,33,0,105,323,False
+Ambady/Mesta,commodity,30,0,75,324,False
+Suram,commodity,29,0,61,325,False
+Chakotha,commodity,28,0,90,326,False
+Maragensu,commodity,28,0,34,327,False
+karanja seeds,commodity,27,0,57,328,False
+Castor Oil,commodity,26,0,75,329,False
+Elephant Yam (Suran)/Amorphophallus,commodity,22,0,5640,330,False
+Ladies Finger,commodity,22,0,335,331,False
+Paddy (Common),commodity,21,0,11852,332,False
+Chennangi (Whole),commodity,21,0,51,333,False
+Cane,commodity,21,0,25,334,False
+Paddy (Basmati),commodity,19,0,788,335,False
+Siddota,commodity,19,0,68,336,False
+Skin And Hide,commodity,19,0,23,337,False
+Muleti,commodity,18,0,21,338,False
+Daila (Chandni),commodity,16,0,59,339,False
+Calendula,commodity,16,0,54,340,False
+Muesli,commodity,15,0,18,341,False
+Jaggery,commodity,14,0,214,342,False
+nigella,commodity,14,0,29,343,False
+dhawai flowers,commodity,13,0,17,344,False
+Pea Pod/Pea Cod/हरी मटर,commodity,12,0,389,345,False
+Tulip,commodity,11,0,15,346,False
+Kalmegh,commodity,11,0,12,347,False
+Jute Seed,commodity,10,0,13,348,False
+Jack Fruit (Ripe),commodity,9,0,211,349,False
+Betelnuts,commodity,9,0,10,350,False
+Sarasum,commodity,9,0,10,351,False
+Brahmi,commodity,9,0,9,352,False
+Palash flowers,commodity,9,0,9,353,False
+stevia,commodity,8,0,8,354,False
+Ambady/Mesta/Patson,commodity,6,0,10,355,False
+Kacholam,commodity,6,0,9,356,False
+Pundi Seed,commodity,6,0,8,357,False
+Gudmar,commodity,5,0,6,358,False
+stone pulverizer,commodity,5,0,5,359,False
+Haralekai,commodity,5,0,5,360,False
+Flower Broom,commodity,5,0,5,361,False
+Bhui Amlaya,commodity,4,0,4,362,False
+Bael,commodity,3,0,4,363,False
+Binoula,commodity,3,0,3,364,False
+vadang,commodity,3,0,3,365,False
+liquor turmeric,commodity,3,0,3,366,False
+Ratanjot,commodity,3,0,3,367,False
+Cardamom,commodity,2,0,12,368,False
+Sanai/Sunhemp,commodity,2,0,5,369,False
+Torchwood,commodity,2,0,3,370,False
+Riccbcan,commodity,2,0,2,371,False
+sanay,commodity,2,0,2,372,False
+spikenard,commodity,2,0,2,373,False
+Sompu,commodity,2,0,2,374,False
+Sunflower/Sunflower Seed,commodity,1,0,13,375,False
+Polherb,commodity,1,0,2,376,False
+Kharif Mash,commodity,1,0,1,377,False
+Honey,commodity,1,0,1,378,False
+Maharashtra,state,589,322,3441723,1,True
+Madhya Pradesh,state,589,284,3202693,2,True
+Uttar Pradesh,state,589,238,8493936,3,True
+Gujarat,state,589,200,2572483,4,False
+Tamil Nadu,state,589,196,3407916,5,False
+Andhra Pradesh,state,573,186,511601,6,False
+Telangana,state,583,171,954217,7,False
+Punjab,state,589,164,3165218,8,False
+Rajasthan,state,589,162,2016564,9,False
+Karnataka,state,589,151,1751207,10,False
+Chattisgarh,state,588,143,558256,11,False
+Haryana,state,589,112,1930891,12,False
+Kerala,state,589,108,4488503,13,False
+Odisha,state,589,101,1252085,14,False
+West Bengal,state,589,76,1663393,15,False
+Himachal Pradesh,state,589,30,1014239,16,False
+Tripura,state,589,30,506277,17,False
+Bihar,state,413,30,165644,18,False
+Jharkhand,state,373,25,294457,19,False
+Assam,state,368,23,232474,20,False
+Uttrakhand,state,567,22,503934,21,False
+Meghalaya,state,579,18,78052,22,False
+Nagaland,state,574,18,70218,23,False
+Jammu and Kashmir,state,585,16,338541,24,False
+Goa,state,582,8,85109,25,False
+NCT of Delhi,state,589,7,318704,26,False
+Manipur,state,462,4,104663,27,False
+Pondicherry,state,571,3,25151,28,False
+Andaman and Nicobar,state,268,2,10543,29,False
+Chandigarh,state,477,1,27945,30,False
+Mizoram,state,184,1,11914,31,False
+Arunachal Pradesh,state,95,0,1608,32,False
+Uttarakhand,state,22,0,6981,33,False

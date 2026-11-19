@@ -1,0 +1,4 @@
+series_len_bucket,n_obs,mae_inr,mape_pct,median_abs_err,rmse_inr
+Short (<180w),13160,221.61,10.73,115.1,377.94
+Medium (180-360w),13201,230.0,10.2,124.23,375.84
+Long (>360w),13072,188.17,8.2,92.34,315.96

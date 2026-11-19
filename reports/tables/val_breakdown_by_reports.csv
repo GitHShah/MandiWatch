@@ -1,0 +1,5 @@
+reports_bucket,n_obs,mae_inr,mape_pct,median_abs_err,rmse_inr
+0 (Unreported/Gap),1332,286.41,13.61,141.88,480.22
+1-2 (Sparse),4045,237.35,11.25,120.28,397.8
+3-5 (Normal),18194,216.31,9.8,111.96,360.81
+>5 (Dense),15862,197.67,8.89,103.13,330.59

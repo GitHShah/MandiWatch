@@ -1,0 +1,9 @@
+experiment,val_mae_inr,val_mape_pct,val_rmse_inr,delta_mae_vs_base,improved
+0. Baseline Global LightGBM,213.34,9.71,357.84,0.0,False
+a. Drop Sparsest Series (<100 obs in train),215.3,9.8,359.3,1.96,False
+b1. Shorter Training Window (2020+ only),215.21,9.75,355.63,1.87,False
+b2. Recency Sample Weighting (3-yr half-life),214.25,9.75,355.23,0.91,False
+c. Era Indicator Feature,213.05,9.7,353.98,-0.29,True
+d. Simpler Core Features Only (12 features),224.33,10.18,378.7,10.99,False
+e. Per-Commodity Models (8 separate models),222.47,10.15,361.42,9.13,False
+f. Predicting Price Change (Delta target),201.17,9.2,343.44,-12.17,True

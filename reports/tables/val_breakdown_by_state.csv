@@ -1,0 +1,4 @@
+state,n_obs,mae_inr,mape_pct,median_abs_err,rmse_inr
+Maharashtra,417,347.97,17.16,215.88,487.7
+Uttar Pradesh,38489,212.46,9.61,109.65,356.71
+Madhya Pradesh,527,170.39,10.92,67.36,316.53

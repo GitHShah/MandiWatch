@@ -1,0 +1,9 @@
+commodity,mode_variety,mode_grade,raw_scoped_rows,kept_rows,dropped_rows,dropped_share_pct
+Wheat,Dara,FAQ,1173372,377762,795610,67.81
+Onion,Red,FAQ,665566,407115,258451,38.83
+Potato,Desi,FAQ,615113,265718,349395,56.8
+Tomato,Deshi,FAQ,584380,182700,401680,68.74
+Brinjal,Round/Long,FAQ,496350,163662,332688,67.03
+Green Chilli,Green Chilly,FAQ,465903,353558,112345,24.11
+Cauliflower,Cauliflower,FAQ,326743,185925,140818,43.1
+Paddy (Dhan)(Common),Common,FAQ,274092,85705,188387,68.73

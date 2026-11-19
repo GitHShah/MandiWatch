@@ -1,0 +1,379 @@
+commodity,total_reports,mad_outliers,unit_errors,any_outlier
+Potato,2058991,254371,1821,255809
+Onion,2015068,231122,2471,233115
+Tomato,1912842,220474,4187,223846
+Brinjal,1726824,188337,2349,190177
+Green Chilli,1498286,166766,3313,169515
+Wheat,1855706,137436,447,137715
+Paddy (Dhan)(Common),1580868,136942,335,137197
+Cauliflower,1176077,132462,2586,134579
+Cabbage,1070516,130380,2124,132058
+Bhindi (Ladies Finger),1137543,125214,2465,127187
+Cucumbar (Kheera),1030613,116825,1677,118224
+Banana,1207962,112217,2711,114499
+Pumpkin,889659,105589,1183,106552
+Bottle gourd,953989,103121,1696,104456
+Bitter gourd,886780,101801,2041,103426
+Apple,798257,91424,983,92093
+Carrot,728730,86325,1434,87395
+Ginger (Green),694306,82974,1272,83949
+Raddish,666499,82553,1538,83782
+Rice,921322,82199,363,82488
+Bengal Gram (Gram)(Whole),973159,74132,284,74361
+Maize,822071,64666,74,64704
+Garlic,559917,61655,1792,63058
+Mustard,821855,61782,145,61902
+Lemon,523411,59704,1242,60661
+Banana - Green,462724,53002,1049,53901
+Capsicum,436225,49796,794,50394
+Pomegranate,431938,45426,619,45810
+Soyabean,658731,44190,397,44528
+Ridgeguard (Tori),369139,42785,1152,43744
+Papaya,392143,40930,954,41744
+Cotton,469677,41479,79,41536
+Beetroot,306536,38853,1261,39874
+Coriander (Leaves),361121,36027,4213,39456
+Gur (Jaggery),430307,38774,51,38789
+Snakeguard,277218,37547,1146,38472
+Drumstick,291808,36616,1427,37732
+Arhar (Tur/Red Gram)(Whole),519501,36724,64,36757
+Mousambi (Sweet Lime),335621,34499,291,34694
+Ashgourd,244547,32453,1987,34263
+Bajra (Pearl Millet/Cumbu),478110,34145,26,34154
+Spinach,287396,31612,616,32090
+Coconut,275264,29054,3066,31737
+Black Gram (Urd Beans)(Whole),449236,30829,67,30878
+Mango,277873,28541,947,29271
+Colacasia,234748,27203,694,27782
+Cowpea (Veg),234149,26758,711,27297
+Amaranthus,216096,26064,1024,26982
+Green Gram (Moong)(Whole),413861,26849,33,26866
+Lentil (Masur)(Whole),343943,26003,96,26086
+Jowar (Sorghum),326380,24908,78,24967
+Grapes,217378,23462,834,24047
+Cluster beans,182456,22905,1378,24040
+Peas Wet,223463,23861,73,23900
+Water Melon,188106,22943,314,23145
+Groundnut,340275,21897,96,21980
+Guava,205083,21325,717,21892
+Pointed gourd (Parval),189362,21609,113,21710
+Pineapple,173044,19373,783,20015
+Mango (Raw-Ripe),149367,19326,725,19931
+Orange,184437,19061,429,19398
+Beans,179765,17997,912,18698
+Tapioca,148989,17802,697,18395
+Arhar Dal (Tur Dal),181828,18206,8,18206
+Mustard Oil,160686,18091,61,18122
+Elephant Yam (Suran),143511,17591,643,18094
+Guar,237413,17913,223,18057
+Ginger (Dry),154767,17691,153,17791
+Onion Green,135926,16666,1020,17445
+French Beans (Frasbean),165588,16245,384,16558
+Arecanut (Betelnut/Supari),219300,15249,1273,16157
+Chikoos (Sapota),143091,15328,503,15730
+Little gourd (Kundru),125413,14520,102,14606
+"Sesamum (Sesame,Gingelly,Til)",226831,14520,32,14532
+Barley (Jau),199038,14470,24,14488
+Mint (Pudina),106858,12733,897,13457
+Sweet Potato,110544,13047,381,13378
+Sweet Pumpkin,96566,13332,68,13377
+Methi (Leaves),121349,11723,1440,12975
+Green Avare (W),89052,12126,963,12844
+Black Gram Dal (Urd Dal),117145,12036,17,12037
+Amphophalus,85282,11867,77,11930
+Lime,101279,10792,960,11618
+Kinnow,96624,11563,46,11590
+Castor Seed,169511,11550,10,11551
+Fish,117695,11115,444,11513
+Sponge gourd,110002,10879,20,10890
+Chow Chow,68471,10141,668,10663
+Green Peas,91037,10528,134,10614
+Karbuja (Musk Melon),91597,10366,212,10523
+Knool Khol,75256,10239,326,10468
+Peas (Dry),128254,9958,28,9962
+Tinda,89349,8748,23,8761
+Copra,76473,8525,38,8543
+Jute,67611,8257,0,8257
+Yam (Ratalu),63844,7779,371,8097
+Thondekai,58737,7663,440,8032
+Bengal Gram Dal (Chana Dal),87841,7951,0,7951
+Field Pea,68862,7892,11,7898
+Chilly Capsicum,81019,7596,323,7858
+Peas cod,70723,7730,55,7752
+Papaya (Raw),57193,7663,11,7666
+Amla (Nelli Kai),68093,7283,425,7651
+Indian Beans (Seam),67200,7502,76,7553
+Corriander seed,131267,7484,12,7488
+Dry Chillies,72375,7008,161,7106
+Masur Dal,75473,6982,6,6982
+Black pepper,59030,6386,126,6461
+Green Gram Dal (Moong Dal),68809,6196,6,6198
+Leafy Vegetable,50614,6011,157,6140
+Tender Coconut,61512,5524,522,5976
+Sugar,53970,5909,2,5909
+Turmeric,82808,5894,18,5903
+Paddy (Dhan)(Basmati),77281,5860,8,5868
+Cummin Seed (Jeera),97328,5704,8,5704
+White Peas,63252,5642,21,5659
+Turnip,43614,5558,75,5612
+Coconut Seed,41090,5315,28,5327
+Guar Seed (Cluster Beans Seed),93454,5209,0,5209
+Jack Fruit,49482,4933,268,5162
+Tamarind Fruit,56654,4642,306,4896
+Kabuli Chana (Chickpeas-White),66588,4744,6,4746
+Coconut Oil,37974,4617,8,4617
+Mashrooms,40711,4267,335,4523
+Round gourd,41821,4365,46,4402
+Squash (Chappal Kadoo),35093,4225,6,4227
+Chili Red,47837,3944,240,4132
+Kulthi (Horse Gram),55457,4110,6,4114
+Rubber,31984,4055,59,4056
+Linseed,50800,3903,2,3903
+Ragi (Finger Millet),52891,3820,3,3820
+Methi Seeds,73669,3720,22,3738
+Long Melon (Kakri),26850,3370,6,3371
+Wood,34053,2732,685,3286
+Betal Leaves,25363,3146,166,3277
+Mahua,30091,3210,0,3210
+Cowpea (Lobia/Karamani),37638,2950,3,2952
+Cashewnuts,28322,2729,38,2752
+Pear (Marasebu),30287,2646,36,2665
+Sunflower,40079,2638,3,2639
+Ground Nut Seed,31716,2450,5,2450
+Marigold (Calcutta),19880,2000,447,2391
+Moath Dal,30907,2265,2,2265
+Rose (Local),16482,1621,727,2224
+Seemebadnekai,14181,2217,3,2217
+Wheat Atta,21155,2118,0,2118
+Red Gram,26358,2098,0,2098
+Lak (Teora),32673,1931,0,1931
+Taramira,23990,1874,1,1875
+Cock,10296,1815,12,1824
+Pepper ungarbled,15728,1820,9,1820
+Soanf,31284,1806,6,1807
+Plum,19413,1785,22,1805
+Isabgul (Psyllium),31489,1760,17,1777
+Season Leaves,10412,1628,9,1633
+Coffee,11673,1591,14,1591
+Jasmine,11979,1310,323,1578
+Tamarind Seed,12786,1574,8,1574
+Ber (Zizyphus/Borehannu),15638,1560,3,1562
+Suvarna Gadde,9668,1514,2,1514
+Groundnut pods (raw),19109,1442,7,1442
+Rose (Loose)),6592,393,1092,1418
+Kodo Millet (Varagu),14030,1349,1,1349
+T.V. Cumbu,16580,1316,0,1316
+Litchi,13626,1282,33,1303
+Tube Rose (Loose),6701,694,663,1284
+Seetapal,11917,1240,27,1258
+Paddy (Common),13109,1257,0,1257
+Custard Apple (Sharifa),10594,1221,44,1256
+Hen,10606,1183,51,1209
+Mahua Seed (Hippe seed),9644,1179,0,1179
+Goat,11152,1140,48,1164
+Ajwan,20630,1033,151,1144
+Safflower,15625,1134,2,1134
+Alasande Gram,15934,1104,13,1110
+Duster Beans,8525,1072,0,1072
+Tobacco,9534,1058,10,1062
+Pegeon Pea (Arhar Fali),16010,1038,1,1038
+White Pumpkin,8281,1013,3,1016
+Elephant Yam (Suran)/Amorphophallus,6637,993,13,997
+Maida Atta,11568,993,0,993
+Surat Beans (Papadi),13819,974,2,974
+Turmeric (raw),9020,957,6,958
+Indian Colza (Sarson),7971,952,2,952
+Bunch Beans,7030,932,0,932
+Peach,9754,915,18,928
+Kartali (Kantola),8484,896,15,909
+Gram Raw (Chholia),8884,885,29,896
+Chrysanthemum (Loose),3450,200,707,876
+Kakada,5615,643,246,850
+Ghee,8121,847,15,849
+Pepper garbled,5698,837,1,837
+Big Gram,12750,834,0,834
+Cow,9839,800,45,834
+Jamun (Narale Hannu),7317,739,121,831
+Raibel,2170,122,739,817
+Foxtail Millet (Navane),10224,782,0,782
+She Buffalo,7691,756,16,770
+Nutmeg,7026,739,43,767
+Chapparad Avare,8321,748,1,748
+Ox,8128,688,26,709
+Yam,5174,645,3,648
+Patti Calcutta,1658,70,605,640
+Cardamoms,7471,609,36,638
+Alsandikai,6243,636,4,637
+Marigold (loose),4808,421,236,631
+Suva (Dill Seed),10977,621,8,629
+Mataki,9382,609,4,610
+Sheep,6417,572,29,590
+Millets,5883,588,1,588
+Gingelly Oil,5140,580,3,580
+Rajgir,13996,552,15,552
+Firewood,6081,540,0,540
+Pigs,2725,287,262,526
+Other Pulses,6227,518,0,518
+Tube Flower,3326,444,50,479
+Dhaincha,6410,446,0,446
+Dalda,4905,430,0,430
+Soji,4141,416,0,416
+Broomstick (Flower Broom),2528,400,0,400
+Sunflower Seed,2618,400,0,400
+Bay leaf (Tejpatta),2414,398,0,398
+Jaffri,1571,64,350,396
+Cloves,4208,381,24,396
+Beaten Rice,3439,388,0,388
+Marget,974,56,333,378
+Niger Seed (Ramtil),3298,371,0,371
+Groundnut (Split),8165,365,0,365
+Same/Savi,3998,360,2,360
+Avare Dal,3566,351,0,351
+Green Fodder,4190,348,0,348
+Cherry,3814,304,49,346
+Egg,4390,321,49,343
+Cocoa,3087,286,64,338
+Hybrid Cumbu,4348,335,0,335
+Chennangi Dal,3181,307,0,307
+Toria,3054,302,0,302
+Dry Fodder,3240,300,0,300
+Thinai (Italian Millet),4613,296,1,297
+Broken Rice,1784,297,0,297
+buttery,4998,288,1,288
+Apricot (Jardalu/Khumani),3407,269,22,287
+Neem Seed,3589,279,9,280
+Cotton Seed,3225,277,0,277
+Thogrikai,2391,256,3,259
+Calf,2169,244,1,244
+Lotus Sticks,1851,239,0,239
+Persimon (Japani Fal),2803,235,8,237
+Tea,1753,235,0,235
+He Buffalo,2293,228,6,233
+Carnation,3622,221,18,232
+Rat Tail Radish (Mogari),2115,229,0,229
+Fig (Anjura/Anjeer),1924,189,40,221
+Gladiolus Cut Flower,3370,215,4,215
+Lilly,4636,179,16,185
+Dry Grapes,2334,171,10,176
+Bull,2922,169,2,171
+Jarbara,3627,164,15,171
+Astera,1293,121,44,157
+Galgal (Lemon),1849,157,0,157
+Coca,871,150,0,150
+Ground Nut Oil,878,147,0,147
+Honge seed,1370,144,0,144
+Soapnut (Antawala/Retha),1711,131,5,131
+Sugarcane,1181,130,4,130
+Resinwood,608,116,0,116
+Kutki,1062,115,1,116
+Duck,700,107,16,116
+Sajje,1815,115,1,115
+Balekai,1778,114,0,114
+Mace,1482,109,2,109
+Kankambra,1166,101,5,106
+Amranthas Red,591,105,0,105
+gulli,893,86,1,86
+Paddy (Basmati),872,84,0,84
+Myrobolan (Harad),650,74,21,81
+Chrysanthemum,1288,30,54,74
+Mahedi,2061,70,0,70
+Borehannu,540,69,3,69
+Antawala,507,66,1,66
+Bamboo,488,65,1,65
+Anthorium,2178,62,0,62
+Delha,155,6,59,61
+Karamani,1449,59,0,59
+nigella seeds,703,58,3,58
+Ashwagandha,448,52,26,58
+She Goat,773,55,4,58
+Lotus,2034,48,7,55
+poppy seeds,801,52,1,52
+Lint,774,51,0,51
+Lukad,416,50,0,50
+Pea Pod/Pea Cod/हरी मटर,437,48,0,48
+Walnut,477,45,1,46
+Other green and fresh vegetables,729,43,0,43
+BOP,2074,41,0,41
+Jack Fruit (Ripe),250,39,0,39
+Ambada Seed,278,32,5,34
+Wool,446,33,0,33
+basil,296,28,9,33
+Ram,548,33,0,33
+Sunhemp,397,32,1,33
+Gurellu,513,33,0,33
+Orchid,2146,30,1,30
+Asalia,532,30,0,30
+Ladies Finger,363,28,0,28
+Bran,295,27,0,27
+Butter,534,26,0,26
+Dal (Avare),531,26,0,26
+Raya,285,25,0,25
+mango powder,214,25,0,25
+Sabu Dan,1341,24,0,24
+Tube Rose (Double),2257,10,16,24
+Almond (Badam),1098,21,1,21
+Khoya,158,21,0,21
+Cinamon (Dalchini),722,18,0,18
+Absinthe,116,16,1,16
+Gramflour,197,16,0,16
+Tube Rose (Single),2459,5,10,14
+Pupadia,119,14,0,14
+Asparagus,166,14,2,14
+Suram,74,13,0,13
+Javi,188,13,0,13
+White Muesli,231,12,0,12
+dried mango,118,12,0,12
+Saffron,102,11,0,11
+Marasebu,145,10,0,10
+Jaggery,223,9,0,9
+karanja seeds,65,8,0,8
+Hippe Seed,631,8,3,8
+Skin And Hide,28,4,1,5
+Tulip,20,1,5,5
+Bullar,163,5,0,5
+Daila (Chandni),64,5,1,5
+Ambady/Mesta,79,4,0,4
+Chakotha,94,4,1,4
+Cane,29,4,0,4
+Cashew Kernnel,90,4,0,4
+Giloy,89,4,0,4
+Siddota,72,4,0,4
+Calendula,57,3,0,3
+Muesli,20,1,1,2
+Sarasum,12,2,0,2
+nigella,31,2,0,2
+Maragensu,36,2,0,2
+Muleti,23,2,0,2
+Torchwood,4,1,0,1
+Kalmegh,13,1,1,1
+Cardamom,13,1,0,1
+Palash flowers,10,1,0,1
+Chennangi (Whole),52,1,0,1
+Castor Oil,76,1,0,1
+Gudmar,7,1,0,1
+dhawai flowers,18,1,0,1
+Bael,5,1,0,1
+Flower Broom,6,1,0,1
+liquor turmeric,4,1,0,1
+Sanai/Sunhemp,5,0,0,0
+Pundi Seed,8,0,0,0
+Brahmi,9,0,0,0
+stone pulverizer,5,0,0,0
+sanay,2,0,0,0
+stevia,8,0,0,0
+Riccbcan,2,0,0,0
+Ambady/Mesta/Patson,10,0,0,0
+Betelnuts,10,0,0,0
+Haralekai,5,0,0,0
+Binoula,3,0,0,0
+Sunflower/Sunflower Seed,13,0,0,0
+spikenard,2,0,0,0
+Polherb,2,0,0,0
+Jute Seed,13,0,0,0
+Bhui Amlaya,4,0,0,0
+vadang,3,0,0,0
+Honey,1,0,0,0
+Kacholam,9,0,0,0
+Ratanjot,3,0,0,0
+Kharif Mash,1,0,0,0
+Sompu,2,0,0,0

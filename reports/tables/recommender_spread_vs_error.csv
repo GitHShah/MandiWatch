@@ -1,0 +1,9 @@
+commodity,n_cases,mean_price_spread_inr,median_price_spread_inr,val_mae_inr,spread_to_mae_ratio,ranking_power,flag_spread_below_mae
+Green Chilli,3753,1814.87,1700.0,328.41,5.53,Strong,False
+Paddy (Dhan)(Common),1614,203.37,197.5,40.61,5.01,Strong,False
+Cauliflower,2805,1212.17,850.0,256.77,4.72,Strong,False
+Potato,3718,416.46,400.0,90.9,4.58,Strong,False
+Wheat,3771,191.41,125.0,43.86,4.36,Strong,False
+Brinjal,3404,643.18,650.0,161.28,3.99,Strong,False
+Onion,3814,854.51,700.0,246.35,3.47,Strong,False
+Tomato,3473,735.09,430.0,401.15,1.83,Strong,False

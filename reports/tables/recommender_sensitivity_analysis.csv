@@ -1,0 +1,5 @@
+transport_rate,n_cases,turnover_vs_base_pct,mean_rec_regret_inr,mean_rec_regret_pct,mean_near_regret_inr,advantage_vs_nearest_inr,mean_recommended_distance_km
+0.0,26352,8.3,107.48,4.47,355.92,248.44,94.9
+0.15,26352,3.3,107.86,4.51,345.31,237.46,90.8
+0.25,26352,0.0,108.16,4.54,338.65,230.49,88.0
+0.5,26352,8.1,107.71,4.56,323.51,215.8,80.9

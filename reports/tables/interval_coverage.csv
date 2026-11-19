@@ -1,0 +1,5 @@
+split,type,coverage_pct,width_log
+validation,Raw Quantile,75.71,0.26
+validation,Conformal Calibrated,80.0,0.28
+test,Raw Quantile,82.59,0.27
+test,Conformal Calibrated,85.93,0.29

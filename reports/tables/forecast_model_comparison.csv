@@ -1,0 +1,73 @@
+model,split,commodity,n_obs,mae_inr,mape_pct,rmse_inr
+LightGBM,validation,ALL,38895,200.87,9.16,341.99
+LightGBM,validation,Brinjal,3704,161.28,10.15,237.61
+LightGBM,validation,Cauliflower,2563,256.77,15.75,404.96
+LightGBM,validation,Green Chilli,7508,328.41,11.91,481.03
+LightGBM,validation,Onion,8025,246.35,10.11,347.25
+LightGBM,validation,Paddy (Dhan)(Common),1395,40.61,1.91,65.72
+LightGBM,validation,Potato,5568,90.9,6.53,133.98
+LightGBM,validation,Tomato,3100,401.15,18.2,590.19
+LightGBM,validation,Wheat,7032,43.86,1.77,64.01
+LightGBM,test,ALL,35160,158.58,7.91,284.31
+LightGBM,test,Brinjal,3523,108.98,7.76,166.13
+LightGBM,test,Cauliflower,2394,243.53,16.55,386.84
+LightGBM,test,Green Chilli,7167,278.58,9.94,446.53
+LightGBM,test,Onion,7179,157.41,7.82,248.75
+LightGBM,test,Paddy (Dhan)(Common),1173,42.99,2.02,69.6
+LightGBM,test,Potato,4887,68.3,5.48,107.94
+LightGBM,test,Tomato,2572,259.07,14.94,389.38
+LightGBM,test,Wheat,6265,68.89,2.58,98.41
+Last Observed,validation,ALL,39433,228.18,10.63,407.16
+Last Observed,validation,Brinjal,3759,182.01,11.67,268.34
+Last Observed,validation,Cauliflower,2649,296.33,18.04,485.25
+Last Observed,validation,Green Chilli,7611,397.52,14.84,586.98
+Last Observed,validation,Onion,8110,256.46,11.06,379.11
+Last Observed,validation,Paddy (Dhan)(Common),1422,35.95,1.71,64.98
+Last Observed,validation,Potato,5612,98.47,7.29,152.66
+Last Observed,validation,Tomato,3155,492.59,22.5,733.35
+Last Observed,validation,Wheat,7115,37.31,1.51,54.6
+Last Observed,test,ALL,35725,190.08,9.76,367.19
+Last Observed,test,Brinjal,3552,114.67,8.18,177.86
+Last Observed,test,Cauliflower,2460,300.13,20.97,499.66
+Last Observed,test,Green Chilli,7280,344.67,12.29,567.94
+Last Observed,test,Onion,7265,198.61,10.05,325.27
+Last Observed,test,Paddy (Dhan)(Common),1197,33.7,1.62,65.52
+Last Observed,test,Potato,4953,88.44,7.26,149.54
+Last Observed,test,Tomato,2647,356.55,21.68,554.7
+Last Observed,test,Wheat,6371,42.49,1.61,82.09
+Seasonal Naive,validation,ALL,39433,576.85,25.75,826.35
+Seasonal Naive,validation,Brinjal,3759,313.58,19.2,410.84
+Seasonal Naive,validation,Cauliflower,2649,504.93,31.08,704.64
+Seasonal Naive,validation,Green Chilli,7611,560.48,20.74,753.22
+Seasonal Naive,validation,Onion,8110,909.12,34.59,1111.77
+Seasonal Naive,validation,Paddy (Dhan)(Common),1422,179.86,8.22,223.37
+Seasonal Naive,validation,Potato,5612,667.9,40.34,783.42
+Seasonal Naive,validation,Tomato,3155,1054.34,42.38,1471.19
+Seasonal Naive,validation,Wheat,7115,177.27,7.14,202.23
+Seasonal Naive,test,ALL,35725,585.07,37.64,840.57
+Seasonal Naive,test,Brinjal,3552,295.75,21.74,388.55
+Seasonal Naive,test,Cauliflower,2460,497.65,40.8,687.17
+Seasonal Naive,test,Green Chilli,7280,616.58,23.53,820.2
+Seasonal Naive,test,Onion,7265,964.83,64.45,1274.98
+Seasonal Naive,test,Paddy (Dhan)(Common),1197,107.55,5.0,137.32
+Seasonal Naive,test,Potato,4953,706.06,59.16,813.27
+Seasonal Naive,test,Tomato,2647,872.54,69.76,1096.63
+Seasonal Naive,test,Wheat,6371,187.3,6.9,235.97
+Historical Mean,validation,ALL,39433,738.53,30.12,986.61
+Historical Mean,validation,Brinjal,3759,423.92,24.39,533.5
+Historical Mean,validation,Cauliflower,2649,790.03,39.14,1106.34
+Historical Mean,validation,Green Chilli,7611,859.1,29.28,1075.78
+Historical Mean,validation,Onion,8110,941.03,30.79,1280.73
+Historical Mean,validation,Paddy (Dhan)(Common),1422,383.34,17.47,414.72
+Historical Mean,validation,Potato,5612,661.06,39.33,790.19
+Historical Mean,validation,Tomato,3155,950.83,35.68,1356.71
+Historical Mean,validation,Wheat,7115,563.73,22.73,581.35
+Historical Mean,test,ALL,35725,572.65,27.78,777.64
+Historical Mean,test,Brinjal,3552,287.98,19.18,363.46
+Historical Mean,test,Cauliflower,2460,753.48,46.66,1030.12
+Historical Mean,test,Green Chilli,7280,705.41,23.0,971.52
+Historical Mean,test,Onion,7265,592.25,29.17,807.25
+Historical Mean,test,Paddy (Dhan)(Common),1197,331.01,14.94,367.12
+Historical Mean,test,Potato,4953,250.58,17.9,381.38
+Historical Mean,test,Tomato,2647,880.91,62.96,1071.56
+Historical Mean,test,Wheat,6371,655.19,24.66,685.89

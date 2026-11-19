@@ -1,0 +1,9 @@
+commodity,market,n_test_obs,sarima_mae_inr,sarima_mape_pct
+Brinjal,Achnera,51,305.49,20.38
+Cauliflower,Achnera,51,1091.02,109.85
+Green Chilli,Anoop Shahar,51,2087.5,84.15
+Onion,Agra,51,2193.66,155.34
+Paddy (Dhan)(Common),Faizabad,51,62.53,2.85
+Potato,Agra,51,911.97,83.32
+Tomato,Ajuha,51,2445.25,220.52
+Wheat,Achalda,51,282.14,11.12

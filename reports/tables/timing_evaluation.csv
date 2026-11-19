@@ -1,0 +1,10 @@
+commodity,category,n_test_cases,weekly_holding_cost_inr,horizon_holding_cost_inr,accuracy,precision,recall,f1_score,hold_recommendation_rate_pct,mean_payoff_sell_now_inr,mean_payoff_model_timing_inr,mean_payoff_seasonal_peak_inr,advantage_vs_sell_now_inr,advantage_pct,beats_sell_now
+ALL,Overall,34969,24.125,48.25,0.839,0.745,0.62,0.677,12.5,1976.1,2007.45,1844.16,31.35,1.5,True
+Brinjal,Perishable,3512,25.0,50.0,0.79,0.743,0.606,0.667,12.6,1440.07,1455.57,1346.25,15.51,1.08,True
+Cauliflower,Perishable,2364,35.0,70.0,0.813,0.871,0.74,0.8,11.0,1643.27,1685.25,1504.38,41.98,2.55,True
+Green Chilli,Perishable,7127,40.0,80.0,0.816,0.825,0.657,0.731,19.4,2807.44,2928.94,2671.05,121.5,4.33,True
+Onion,Durable,7154,15.0,30.0,0.815,0.598,0.594,0.596,22.6,2011.08,2032.53,1817.73,21.45,1.07,True
+Paddy (Dhan)(Common),Durable,1165,8.0,16.0,0.912,0.526,0.377,0.44,6.5,2193.15,2197.07,2159.08,3.92,0.18,True
+Potato,Durable,4868,12.0,24.0,0.818,0.67,0.539,0.597,19.9,1279.44,1288.74,1180.79,9.3,0.73,True
+Tomato,Perishable,2547,50.0,100.0,0.843,0.817,0.749,0.781,5.2,1801.45,1836.19,1483.71,34.74,1.93,True
+Wheat,Durable,6232,8.0,16.0,0.931,0.596,0.235,0.337,2.9,2632.91,2635.28,2590.28,2.38,0.09,True

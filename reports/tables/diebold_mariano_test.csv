@@ -1,0 +1,10 @@
+commodity,dm_stat,p_value,mean_loss_diff,significant,interpretation
+ALL,-21.857807172973356,0.0,-0.011058888089141218,True,"Significant difference: Model 1 is more accurate (DM-HLN stat=-21.858, p=0.0000e+00)"
+Brinjal,-3.424461749521442,0.0006230569353573578,-0.0025597216406035256,True,"Significant difference: Model 1 is more accurate (DM-HLN stat=-3.424, p=6.2306e-04)"
+Cauliflower,-8.855209047728021,0.0,-0.022295645124538094,True,"Significant difference: Model 1 is more accurate (DM-HLN stat=-8.855, p=0.0000e+00)"
+Green Chilli,-17.582609328055252,0.0,-0.01943118122557001,True,"Significant difference: Model 1 is more accurate (DM-HLN stat=-17.583, p=0.0000e+00)"
+Onion,-11.074222109704722,0.0,-0.014362123133158669,True,"Significant difference: Model 1 is more accurate (DM-HLN stat=-11.074, p=0.0000e+00)"
+Paddy (Dhan)(Common),7.626845218782444,4.951594689828198e-14,0.004106531094464566,True,"Significant difference: Model 2 is more accurate (DM-HLN stat=7.627, p=4.9516e-14)"
+Potato,-9.776098937305237,0.0,-0.011903630229407405,True,"Significant difference: Model 1 is more accurate (DM-HLN stat=-9.776, p=0.0000e+00)"
+Tomato,-12.808133132524299,0.0,-0.03844157479220723,True,"Significant difference: Model 1 is more accurate (DM-HLN stat=-12.808, p=0.0000e+00)"
+Wheat,21.598232759195476,0.0,0.01087947912103042,True,"Significant difference: Model 2 is more accurate (DM-HLN stat=21.598, p=0.0000e+00)"
